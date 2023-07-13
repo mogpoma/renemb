@@ -1,0 +1,81 @@
+[
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Fecha",
+    "columnName": "Fecha"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Localidad",
+    "columnName": "Localidad"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column Farmacia to position 0",
+    "columnName": "Farmacia",
+    "index": 0
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Farmacia to identificador",
+    "oldColumnName": "Farmacia",
+    "newColumnName": "identificador"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Direccion to direccion",
+    "oldColumnName": "Direccion",
+    "newColumnName": "direccion"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column guardia at index 4 based on column Duración using expression grel:if (value.indexOf(\"24\") > -1, 1, 0)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "guardia",
+    "columnInsertIndex": 4,
+    "baseColumnName": "Duración",
+    "expression": "grel:if (value.indexOf(\"24\") > -1, 1, 0)",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Teléfono using expression grel:91 + value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Teléfono",
+    "expression": "grel:91 + value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Teléfono to telefono",
+    "oldColumnName": "Teléfono",
+    "newColumnName": "telefono"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Duración using expression grel:toLowercase(substring(value, value.indexOf(\"DE\") + 3, value.indexOf(\"DE\") + 15).replace(\"'\",\":\").replace(\")\",\"\"))",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Duración",
+    "expression": "grel:toLowercase(substring(value, value.indexOf(\"DE\") + 3, value.indexOf(\"DE\") + 15).replace(\"'\",\":\").replace(\")\",\"\"))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Duración to horario",
+    "oldColumnName": "Duración",
+    "newColumnName": "horario"
+  }
+]

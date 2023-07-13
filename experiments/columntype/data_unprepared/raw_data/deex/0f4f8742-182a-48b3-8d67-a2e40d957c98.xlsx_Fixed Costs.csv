@@ -1,0 +1,43 @@
+Mt San Jacinto Community College,,,,,,,,,,
+Fiscal Year 2013-2014,,,,,,,,,,
+Tentative Fixed Costs & H&W Object Codes,,,,,,,,,,
+,,,,,,,,,,
+Instructions:,,,,,,,,,,
+1. Determine employee's object code and whether PERS or STRS. (If employee does not pay into STRS or PERS just exclude that amount from the total fixed costs.),,,,,,,,,,
+,,,,,,,,,,
+"2. Enter salary amount in box below ""Salary"".",,,,,,,,,,
+3. Spreadsheet will calculate amount of fixed costs on that salary and will provide a total.,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Non-Instructional Certificated,,,,Instructional,,,,Non-Instructional Classified,,
+12XX,,,,11XX          22XX,,,,21XX,,
+14XX,,,,13XX          24XX,,,,23XX,,
+,,,,,,,,,,
+Description,Object Code,% of Wages,,Description,Object Code,% of Wages,,Description,Object Code,% of Wages
+STRS,3130,0.0825,,STRS,3110,0.0825,,STRS,3120,0.0825
+PERS,3230,0.11442,,PERS,3210,0.11442,,PERS,3220,0.11442
+FICA,3330,0.062,,FICA,3310,0.062,,FICA,3320,0.062
+MEDICARE,3335,0.0145,,MEDICARE,3315,0.0145,,MEDICARE,3325,0.0145
+UNEMPLOYMENT,3530,0.0005,,UNEMPLOYMENT,3510,0.0005,,UNEMPLOYMENT,3520,0.0005
+WORKER'S COMP,3630,0.02331,,WORKER'S COMP,3610,0.02331,,WORKER'S COMP,3620,0.02331
+H&W,3430,MONTHLY,,H&W,3410,MONTHLY,,H&W,3420,MONTHLY
+,,,,,,,,,,
+PERS EMPLOYEE,,,,PERS EMPLOYEE,,,,PERS EMPLOYEE,,
+Salary:,,,,Salary:,,,,Salary:,,
+,3230,0,,,3210,0,,30000,3220,3432.6
+,3330,0,,,3310,0,,,3320,1860
+,3335,0,,,3315,0,,,3325,435
+,3530,0,,,3510,0,,,3520,15
+,3630,0,,,3610,0,,,3620,699.3000000000001
+,3430,,,,3410,,,,3420,
+,Total,0,,,Total,0,,,Total,6441.900000000001
+,,,,,,,,,,
+STRS EMPLOYEE,,,,STRS EMPLOYEE,,,,STRS EMPLOYEE,,
+Salary:,,,,Salary:,,,,Salary:,,
+,3130,0,,,3110,0,,,3120,0
+,3330,0,,,3310,0,,,3320,0
+,3335,0,,,3315,0,,,3325,0
+,3530,0,,,3510,0,,,3520,0
+,3630,0,,,3610,0,,,3620,0
+,3430,,,,3410,,,,3420,
+,Total,0,,,Total,0,,,Total,0

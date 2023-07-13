@@ -1,0 +1,122 @@
+,,,,,,,,,,,
+,Time Series Workbook,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,"9314.0 Sales of New Motor Vehicles, Australia",,,,,,,,,,
+,"Table 2: New Motor Vehicles Sales by State, Type, All series",,,,,,,,,,
+,,,,,,,,,,,
+Related Information:,Summary Publication,Explanatory Notes,Inquiries,,,,,,,,
+,Glossary,,,,,,,,,,
+,,,,,,,,,,,
+Data Item Description,,,Series Type,Series ID,Series Start,Series End,No. Obs.,Unit,Data Type,Freq.,Collection Month
+,,,,,,,,,,,
+NSW ;  Passenger vehicles ;,,,Original,A367164K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Sports utility vehicles ;,,,Original,A367209C,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Other vehicles ;,,,Original,A367254R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Total vehicles ;,,,Original,A367299V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Passenger vehicles ;,,,Original,A367174R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Sports utility vehicles ;,,,Original,A367219J,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Other vehicles ;,,,Original,A367264V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Total vehicles ;,,,Original,A367309L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Passenger vehicles ;,,,Original,A367179A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Sports utility vehicles ;,,,Original,A367224A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Other vehicles ;,,,Original,A367269F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Total vehicles ;,,,Original,A367314F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Passenger vehicles ;,,,Original,A367184V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Sports utility vehicles ;,,,Original,A367229L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Other vehicles ;,,,Original,A367274X,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Total vehicles ;,,,Original,A367319T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Passenger vehicles ;,,,Original,A367189F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Sports utility vehicles ;,,,Original,A367234F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Other vehicles ;,,,Original,A367279K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Total vehicles ;,,,Original,A367324K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Passenger vehicles ;,,,Original,A367194X,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Sports utility vehicles ;,,,Original,A367239T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Other vehicles ;,,,Original,A367284C,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Total vehicles ;,,,Original,A367329W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Passenger vehicles ;,,,Original,A367199K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Sports utility vehicles ;,,,Original,A367244K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Other vehicles ;,,,Original,A367289R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Total vehicles ;,,,Original,A367334R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Passenger vehicles ;,,,Original,A367204T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Sports utility vehicles ;,,,Original,A367249W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Other vehicles ;,,,Original,A367294J,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Total vehicles ;,,,Original,A367339A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Passenger vehicles ;,,,Original,A367169W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Sports utility vehicles ;,,,Original,A367214W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Other vehicles ;,,,Original,A367259A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Total vehicles ;,,,Original,A367304A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Passenger vehicles ;,,,Seasonally Adjusted,A367165L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Sports utility vehicles ;,,,Seasonally Adjusted,A367210L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Other vehicles ;,,,Seasonally Adjusted,A367255T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Total vehicles ;,,,Seasonally Adjusted,A367300T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Passenger vehicles ;,,,Seasonally Adjusted,A367175T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Sports utility vehicles ;,,,Seasonally Adjusted,A367220T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Other vehicles ;,,,Seasonally Adjusted,A367265W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Total vehicles ;,,,Seasonally Adjusted,A367310W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Passenger vehicles ;,,,Seasonally Adjusted,A367180K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Sports utility vehicles ;,,,Seasonally Adjusted,A367225C,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Other vehicles ;,,,Seasonally Adjusted,A367270R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Total vehicles ;,,,Seasonally Adjusted,A367315J,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Passenger vehicles ;,,,Seasonally Adjusted,A367185W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Sports utility vehicles ;,,,Seasonally Adjusted,A367230W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Other vehicles ;,,,Seasonally Adjusted,A367275A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Total vehicles ;,,,Seasonally Adjusted,A367320A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Passenger vehicles ;,,,Seasonally Adjusted,A367190R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Sports utility vehicles ;,,,Seasonally Adjusted,A367235J,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Other vehicles ;,,,Seasonally Adjusted,A367280V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Total vehicles ;,,,Seasonally Adjusted,A367325L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Passenger vehicles ;,,,Seasonally Adjusted,A367195A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Sports utility vehicles ;,,,Seasonally Adjusted,A367240A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Other vehicles ;,,,Seasonally Adjusted,A367285F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Total vehicles ;,,,Seasonally Adjusted,A367330F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Passenger vehicles ;,,,Seasonally Adjusted,A367200J,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Sports utility vehicles ;,,,Seasonally Adjusted,A367245L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Other vehicles ;,,,Seasonally Adjusted,A367290X,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Total vehicles ;,,,Seasonally Adjusted,A367335T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Passenger vehicles ;,,,Seasonally Adjusted,A367205V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Sports utility vehicles ;,,,Seasonally Adjusted,A367250F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Other vehicles ;,,,Seasonally Adjusted,A367295K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Total vehicles ;,,,Seasonally Adjusted,A367340K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Passenger vehicles ;,,,Seasonally Adjusted,A367170F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Sports utility vehicles ;,,,Seasonally Adjusted,A367215X,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Other vehicles ;,,,Seasonally Adjusted,A367260K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Total vehicles ;,,,Seasonally Adjusted,A367305C,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Passenger vehicles ;,,,Trend,A367166R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Sports utility vehicles ;,,,Trend,A367211R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Other vehicles ;,,,Trend,A367256V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NSW ;  Total vehicles ;,,,Trend,A367301V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Passenger vehicles ;,,,Trend,A367176V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Sports utility vehicles ;,,,Trend,A367221V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Other vehicles ;,,,Trend,A367266X,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Vic. ;  Total vehicles ;,,,Trend,A367311X,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Passenger vehicles ;,,,Trend,A367181L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Sports utility vehicles ;,,,Trend,A367226F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Other vehicles ;,,,Trend,A367271T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Qld ;  Total vehicles ;,,,Trend,A367316K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Passenger vehicles ;,,,Trend,A367186X,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Sports utility vehicles ;,,,Trend,A367231X,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Other vehicles ;,,,Trend,A367276C,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+SA ;  Total vehicles ;,,,Trend,A367321C,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Passenger vehicles ;,,,Trend,A367191T,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Sports utility vehicles ;,,,Trend,A367236K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Other vehicles ;,,,Trend,A367281W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+WA ;  Total vehicles ;,,,Trend,A367326R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Passenger vehicles ;,,,Trend,A367196C,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Sports utility vehicles ;,,,Trend,A367241C,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Other vehicles ;,,,Trend,A367286J,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Tas. ;  Total vehicles ;,,,Trend,A367331J,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Passenger vehicles ;,,,Trend,A367201K,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Sports utility vehicles ;,,,Trend,A367246R,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Other vehicles ;,,,Trend,A367291A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+NT ;  Total vehicles ;,,,Trend,A367336V,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Passenger vehicles ;,,,Trend,A367206W,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Sports utility vehicles ;,,,Trend,A367251J,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Other vehicles ;,,,Trend,A367296L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+ACT ;  Total vehicles ;,,,Trend,A367341L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Passenger vehicles ;,,,Trend,A367171J,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Sports utility vehicles ;,,,Trend,A367216A,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Other vehicles ;,,,Trend,A367261L,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+Aust. ;  Total vehicles ;,,,Trend,A367306F,34335.0,40179.0,193.0,Number,FLOW,Month,1.0
+,,,,,,,,,,,
+© Commonwealth of Australia  2010,,,,,,,,,,,

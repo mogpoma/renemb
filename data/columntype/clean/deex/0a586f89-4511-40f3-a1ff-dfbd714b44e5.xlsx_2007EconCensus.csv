@@ -1,0 +1,128 @@
+NAICS Code,NAICS Sector,Type of Operation or Tax Status,Number of Establishments,"Sales, Shipments, Receipts, Revenue, or Business Done ($1,000)","Annual Payroll ($1,000)",Number of Paid Employees for Pay Period Including March 12
+31-33,Manufacturing,Total,75,800225,184393,2906
+325,Chemical manufacturing,Total,10,325679,52032,617
+3254,Pharmaceutical and medicine manufacturing,Total,5,D,D,566
+32541,Pharmaceutical and medicine manufacturing,Total,5,D,D,566
+334,Computer and electronic product manufacturing,Total,14,233595,56952,948
+3344,Semiconductor and other electronic component manufacturing,Total,4,D,D,f
+33441,Semiconductor and other electronic component manufacturing,Total,4,D,D,f
+334413,Semiconductor and related device manufacturing,Total,1,D,D,f
+42,Wholesale trade,"Merchant wholesalers, except manufacturers' sales branches and offices",90,2066440,189928,1693
+423,"Merchant wholesalers, durable goods","Merchant wholesalers, except manufacturers' sales branches and offices",56,161590,37983,499
+4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers","Merchant wholesalers, except manufacturers' sales branches and offices",4,66543,11117,164
+42372,Plumbing and heating equipment and supplies (hydronics) merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",2,D,D,b
+423720,Plumbing and heating equipment and supplies (hydronics) merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",2,D,D,b
+424,"Merchant wholesalers, nondurable goods","Merchant wholesalers, except manufacturers' sales branches and offices",34,1904850,151945,1194
+4242,Drugs and druggists' sundries merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",8,D,D,f
+42421,Drugs and druggists' sundries merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",8,D,D,f
+424210,Drugs and druggists' sundries merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",8,D,D,f
+4242102,"Specialty-line drugs, pharmaceuticals, cosmetics, and toiletries merchant wholesalers","Merchant wholesalers, except manufacturers' sales branches and offices",6,D,D,f
+4249,Miscellaneous nondurable goods merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",14,D,D,b
+44-45,Retail trade,Total,474,1287709,150576,6627
+441,Motor vehicle and parts dealers,Total,6,D,D,c
+4411,Automobile dealers,Total,4,D,D,c
+44112,Used car dealers,Total,2,D,D,a
+441120,Used car dealers,Total,2,D,D,a
+4412,Other motor vehicle dealers,Total,1,D,D,a
+44122,"Motorcycle, boat, and other motor vehicle dealers",Total,1,D,D,a
+442,Furniture and home furnishings stores,Total,33,37672,5466,195
+4421,Furniture stores,Total,15,25531,3319,76
+44211,Furniture stores,Total,15,25531,3319,76
+442110,Furniture stores,Total,15,25531,3319,76
+4422,Home furnishings stores,Total,18,12141,2147,119
+44229,Other home furnishings stores,Total,13,10322,1763,107
+442299,All other home furnishings stores,Total,12,D,D,c
+443,Electronics and appliance stores,Total,21,126979,12422,397
+4431,Electronics and appliance stores,Total,21,126979,12422,397
+44311,"Appliance, television, and other electronics stores",Total,14,19370,2509,131
+443112,"Radio, television, and other electronics stores",Total,12,D,D,c
+44312,Computer and software stores,Total,4,D,D,c
+443120,Computer and software stores,Total,4,D,D,c
+44313,Camera and photographic supplies stores,Total,3,D,D,b
+443130,Camera and photographic supplies stores,Total,3,D,D,b
+444,Building material and garden equipment and supplies dealers,Total,12,30330,6210,209
+4441,Building material and supplies dealers,Total,11,D,D,c
+44412,Paint and wallpaper stores,Total,2,D,D,b
+444120,Paint and wallpaper stores,Total,2,D,D,b
+44413,Hardware stores,Total,6,12244,2868,132
+444130,Hardware stores,Total,6,12244,2868,132
+44419,Other building material dealers,Total,3,D,D,b
+444190,Other building material dealers,Total,3,D,D,b
+445,Food and beverage stores,Total,88,321357,43399,1759
+4451,Grocery stores,Total,63,286951,38948,1579
+44511,Supermarkets and other grocery (except convenience) stores,Total,35,266497,36592,1406
+445110,Supermarkets and other grocery (except convenience) stores,Total,35,266497,36592,1406
+44512,Convenience stores,Total,28,20454,2356,173
+445120,Convenience stores,Total,28,20454,2356,173
+4452,Specialty food stores,Total,12,8712,1604,87
+4453,"Beer, wine, and liquor stores",Total,13,25694,2847,93
+44531,"Beer, wine, and liquor stores",Total,13,25694,2847,93
+445310,"Beer, wine, and liquor stores",Total,13,25694,2847,93
+446,Health and personal care stores,Total,39,103391,13450,504
+4461,Health and personal care stores,Total,39,103391,13450,504
+44611,Pharmacies and drug stores,Total,12,78805,8549,329
+446110,Pharmacies and drug stores,Total,12,78805,8549,329
+44612,"Cosmetics, beauty supplies, and perfume stores",Total,7,5946,1063,62
+446120,"Cosmetics, beauty supplies, and perfume stores",Total,7,5946,1063,62
+44613,Optical goods stores,Total,13,8297,2047,71
+446130,Optical goods stores,Total,13,8297,2047,71
+44619,Other health and personal care stores,Total,7,10343,1791,42
+446191,Food (health) supplement stores,Total,5,D,D,b
+446199,All other health and personal care stores,Total,2,D,D,a
+447,Gasoline stations,Total,25,77411,1774,99
+4471,Gasoline stations,Total,25,77411,1774,99
+44711,Gasoline stations with convenience stores,Total,9,35134,954,55
+447110,Gasoline stations with convenience stores,Total,9,35134,954,55
+44719,Other gasoline stations,Total,16,42277,820,44
+447190,Other gasoline stations,Total,16,42277,820,44
+448,Clothing and clothing accessories stores,Total,115,212444,26801,1695
+4481,Clothing stores,Total,72,157250,19357,1338
+44811,Men's clothing stores,Total,4,5470,1203,34
+448110,Men's clothing stores,Total,4,5470,1203,34
+44812,Women's clothing stores,Total,28,45344,6001,344
+448120,Women's clothing stores,Total,28,45344,6001,344
+44813,Children's and infants' clothing stores,Total,4,5468,784,99
+448130,Children's and infants' clothing stores,Total,4,5468,784,99
+44814,Family clothing stores,Total,27,90099,10056,768
+448140,Family clothing stores,Total,27,90099,10056,768
+44815,Clothing accessories stores,Total,5,D,D,b
+448150,Clothing accessories stores,Total,5,D,D,b
+44819,Other clothing stores,Total,4,D,D,b
+448190,Other clothing stores,Total,4,D,D,b
+4482,Shoe stores,Total,25,30403,3652,211
+44821,Shoe stores,Total,25,30403,3652,211
+448210,Shoe stores,Total,25,30403,3652,211
+4482102,Women's shoe stores,Total,4,3750,738,34
+4482104,Family shoe stores,Total,13,14955,1534,100
+4482105,Athletic footwear stores,Total,8,11698,1380,77
+4483,"Jewelry, luggage, and leather goods stores",Total,18,24791,3792,146
+44831,Jewelry stores,Total,18,24791,3792,146
+448310,Jewelry stores,Total,18,24791,3792,146
+451,"Sporting goods, hobby, book, and music stores",Total,51,138050,12436,676
+4511,"Sporting goods, hobby, and musical instrument stores",Total,25,25862,3616,227
+45111,Sporting goods stores,Total,12,17206,2015,123
+451110,Sporting goods stores,Total,12,17206,2015,123
+4511101,General-line sporting goods stores,Total,5,10587,1112,78
+4511102,Specialty-line sporting goods stores,Total,7,6619,903,45
+45112,"Hobby, toy, and game stores",Total,9,6796,1251,81
+451120,"Hobby, toy, and game stores",Total,9,6796,1251,81
+45114,Musical instrument and supplies stores,Total,1,D,D,a
+451140,Musical instrument and supplies stores,Total,1,D,D,a
+4512,"Book, periodical, and music stores",Total,26,112188,8820,449
+45121,Book stores and news dealers,Total,22,D,D,e
+451211,Book stores,Total,16,101353,7809,389
+4512111,"Book stores, general",Total,7,D,D,c
+4512112,Specialty book stores,Total,2,D,D,a
+4512113,College book stores,Total,7,D,D,c
+451212,News dealers and newsstands,Total,6,D,D,b
+45122,"Prerecorded tape, compact disc, and record stores",Total,4,D,D,b
+451220,"Prerecorded tape, compact disc, and record stores",Total,4,D,D,b
+452,General merchandise stores,Total,6,48259,6026,312
+452111,Department stores (except discount department stores),Total,2,D,D,e
+453,Miscellaneous store retailers,Total,53,D,D,e
+4531,Florists,Total,8,4864,858,37
+45311,Florists,Total,8,4864,858,37
+453110,Florists,Total,8,4864,858,37
+4532,"Office supplies, stationery, and gift stores",Total,22,33225,4825,250
+45321,Office supplies and stationery stores,Total,9,21016,2729,118
+453210,Office supplies and stationery stores,Total,9,21016,2729,118

@@ -1,0 +1,91 @@
+Uurbanized area,"Freeway daily vehicle miles of travel   Total miles (1,000)",Per lane- mile of freeway,"Annual person hours of delay   Total hours (1,000)",Per person \2,Annual congestion cost \1   Per person (dollars),Delay and fuel cost (million dollars),"Fuel wasted, (gallons per person)"
+"Akron, Ohio",5530.0,12860.0,3031.0,5.0,102.0,63.0,4.0
+"Albany-Schenectady, New York",7005.0,11390.0,6082.0,10.0,220.0,131.0,6.0
+"Albuquerque, New Mexico",4875.0,14552.0,11095.0,19.0,416.0,244.0,12.0
+"Allentown-Bethlehem, Pennsylvania-New Jersey",4935.0,11892.0,7571.0,12.0,247.0,154.0,7.0
+"Anchorage, Alaska",1560.0,8000.0,1616.0,6.0,111.0,32.0,3.0
+"Atlanta, Georgia",47830.0,18943.0,135335.0,30.0,671.0,2981.0,22.0
+"Austin, Texas",9400.0,16068.0,22777.0,22.0,455.0,471.0,15.0
+"Bakersfield, California",2275.0,11375.0,3359.0,7.0,143.0,73.0,4.0
+"Baltimore, Maryland",26670.0,17096.0,56964.0,25.0,550.0,1276.0,18.0
+"Beaumont, Texas",2400.0,11707.0,1425.0,6.0,126.0,28.0,4.0
+"Birmingham, Alabama",9715.0,14287.0,12605.0,18.0,373.0,267.0,12.0
+"Boston, Massachusetts-New Hampshire-Rhode Island",40000.0,15686.0,91052.0,22.0,475.0,1996.0,15.0
+"Boulder, Colorado",700.0,10769.0,953.0,7.0,126.0,18.0,4.0
+"Bridgeport-Stamford, Connecticut-New York",10550.0,17438.0,16077.0,18.0,400.0,350.0,15.0
+"Brownsville, Texas",665.0,11083.0,841.0,4.0,89.0,17.0,2.0
+"Buffalo, New York",6760.0,10400.0,6185.0,5.0,119.0,134.0,3.0
+"Cape Coral, Florida",1845.0,16773.0,7451.0,16.0,331.0,152.0,9.0
+"Charleston-North Charleston, South Carolina",3645.0,13500.0,9944.0,21.0,431.0,207.0,13.0
+"Charlotte, North Carolina-South Carolina",11775.0,14905.0,24237.0,23.0,491.0,525.0,15.0
+"Chicago, Illinois-Indiana",55150.0,18507.0,189201.0,22.0,498.0,4207.0,15.0
+"Cincinnati, Ohio-Kentucky-Indiana",18990.0,15377.0,23832.0,14.0,304.0,508.0,10.0
+"Cleveland, Ohio",18120.0,12851.0,12037.0,7.0,134.0,241.0,5.0
+"Colorado Springs, Colorado",4065.0,12318.0,6457.0,13.0,253.0,129.0,8.0
+"Columbia, South Carolina",5895.0,12815.0,5478.0,12.0,266.0,121.0,8.0
+"Columbus, Ohio",15210.0,15844.0,20428.0,17.0,346.0,424.0,12.0
+"Corpus Christi, Texas",2890.0,9175.0,1629.0,5.0,99.0,32.0,3.0
+"Dallas-Fort Worth-Arlington, Texas",55300.0,17390.0,140744.0,32.0,641.0,2849.0,22.0
+"Dayton, Ohio",7360.0,13027.0,5800.0,8.0,161.0,120.0,5.0
+"Denver-Aurora, Colorado",20395.0,15934.0,61345.0,28.0,569.0,1240.0,19.0
+"Detroit, Michigan",32780.0,17117.0,116981.0,29.0,610.0,2472.0,19.0
+"El Paso, Texas-New Mexico",5505.0,12233.0,7185.0,10.0,210.0,147.0,7.0
+"Eugene, Oregon",1580.0,11704.0,1481.0,6.0,119.0,30.0,4.0
+"Fresno, California",3740.0,12678.0,7032.0,11.0,236.0,151.0,7.0
+"Grand Rapids, Michigan",5090.0,11311.0,7324.0,12.0,247.0,148.0,7.0
+"Hartford, Connecticut",10840.0,13722.0,10147.0,11.0,227.0,203.0,8.0
+"Honolulu, Hawaii",6275.0,15120.0,10076.0,14.0,283.0,199.0,10.0
+"Houston, Texas",48000.0,18824.0,123915.0,32.0,651.0,2482.0,23.0
+"Indianapolis, Indiana",13000.0,14444.0,23505.0,22.0,488.0,522.0,15.0
+"Indio-Cathedral City-Palm Springs, California",1135.0,10318.0,4049.0,7.0,148.0,82.0,4.0
+"Jacksonville, Florida",12460.0,15974.0,22491.0,22.0,439.0,457.0,15.0
+"Kansas City, Missouri-Kansas",21015.0,10917.0,12703.0,8.0,175.0,267.0,5.0
+"Knoxville, Tennessee",5170.0,14771.0,7166.0,15.0,299.0,147.0,9.0
+"Lancaster-Palmdale, California",1175.0,14688.0,2208.0,3.0,61.0,44.0,2.0
+"Laredo, Texas",630.0,7875.0,1806.0,8.0,169.0,37.0,5.0
+"Las Vegas, Nevada",11510.0,20017.0,34521.0,25.0,502.0,705.0,17.0
+"Little Rock, Arkansas",6945.0,13356.0,4652.0,12.0,248.0,97.0,8.0
+"Los Angeles-Long Beach-Santa Ana, California",140815.0,23806.0,485022.0,38.0,807.0,10328.0,29.0
+"Louisville, Kentucky-Indiana",12085.0,15106.0,19015.0,21.0,447.0,409.0,14.0
+"Memphis, Tennessee-Mississippi-Arkansas",8640.0,13292.0,14633.0,14.0,301.0,311.0,9.0
+"Miami, Florida",41035.0,19494.0,145608.0,27.0,545.0,2955.0,19.0
+"Milwaukee, Wisconsin",11055.0,14740.0,14860.0,10.0,210.0,307.0,7.0
+"Minneapolis-St. Paul, Minnesota",28385.0,17308.0,55287.0,22.0,455.0,1148.0,15.0
+"Nashville-Davidson, Tennessee",14150.0,13349.0,20215.0,20.0,428.0,426.0,13.0
+"New Haven, Connecticut",7565.0,14410.0,5728.0,10.0,208.0,117.0,8.0
+"New Orleans, Louisiana",5340.0,14240.0,11327.0,10.0,222.0,244.0,6.0
+"New York-Newark, New York-New Jersey-Connecticut",119240.0,16527.0,379328.0,21.0,449.0,8180.0,13.0
+"Oklahoma City, Oklahoma",9770.0,12855.0,12826.0,15.0,294.0,257.0,9.0
+"Omaha, Nebraska-Iowa",4140.0,13143.0,9298.0,14.0,285.0,184.0,9.0
+"Orlando, Florida",13540.0,15563.0,41791.0,30.0,605.0,850.0,20.0
+"Oxnard-Ventura, California",7125.0,18038.0,14258.0,21.0,435.0,298.0,15.0
+"Pensacola, Florida-Alabama",1520.0,10857.0,5469.0,15.0,300.0,106.0,9.0
+"Philadelphia, Pennsylvania-New Jersey-Delaware-Maryland",36400.0,15167.0,112074.0,21.0,436.0,2316.0,13.0
+"Phoenix, Arizona",29450.0,19186.0,80456.0,23.0,552.0,1891.0,17.0
+"Pittsburgh, Pennsylvania",12405.0,9729.0,15334.0,8.0,168.0,304.0,5.0
+"Portland, Oregon-Washington",13625.0,17357.0,34418.0,19.0,395.0,712.0,13.0
+"Poughkeepsie-Newburgh, New York",5340.0,11867.0,4739.0,9.0,185.0,95.0,6.0
+"Providence, Rhode Island-Massachusetts",11735.0,12825.0,19937.0,16.0,310.0,386.0,10.0
+"Raleigh-Durham, North Carolina",11300.0,14037.0,19588.0,19.0,411.0,421.0,12.0
+"Richmond, Virginia",11960.0,11390.0,10212.0,11.0,216.0,202.0,7.0
+"Riverside-San Bernardino, California",24210.0,21713.0,48135.0,24.0,534.0,1083.0,19.0
+"Rochester, New York",6000.0,11009.0,4038.0,5.0,109.0,81.0,3.0
+"Sacramento, California",15955.0,19339.0,39197.0,21.0,433.0,806.0,15.0
+"Salem, Oregon",1505.0,12040.0,2069.0,9.0,177.0,41.0,5.0
+"Salt Lake City, Utah",7945.0,13939.0,14557.0,15.0,294.0,287.0,10.0
+"San Antonio, Texas",18300.0,16561.0,31026.0,21.0,428.0,621.0,15.0
+"San Diego, California",38400.0,19296.0,85392.0,29.0,605.0,1786.0,22.0
+"San Francisco-Oakland, California",49850.0,20101.0,129393.0,29.0,597.0,2675.0,21.0
+"San Jose, California",16680.0,18330.0,51070.0,30.0,594.0,1013.0,21.0
+"Sarasota-Bradenton, Florida",2575.0,15606.0,9030.0,14.0,264.0,176.0,8.0
+"Seattle, Washington",30670.0,16578.0,73636.0,24.0,513.0,1591.0,16.0
+"Spokane, Washington",2125.0,10366.0,1714.0,5.0,98.0,36.0,3.0
+"Springfield, Massachusetts-Connecticut",5380.0,11696.0,3989.0,6.0,116.0,77.0,4.0
+"St. Louis, Missouri-Illinois",29610.0,12600.0,32863.0,15.0,315.0,697.0,9.0
+"Tampa-St. Petersburg, Florida",14100.0,15932.0,61018.0,26.0,519.0,1205.0,17.0
+"Toledo, Ohio-Michigan",4025.0,12015.0,3916.0,8.0,160.0,83.0,5.0
+"Tucson, Arizona",3510.0,14040.0,17321.0,22.0,508.0,393.0,14.0
+"Tulsa, Oklahoma",7140.0,9520.0,9826.0,12.0,237.0,192.0,7.0
+"Virginia Beach, Virginia",13115.0,13878.0,24665.0,16.0,324.0,501.0,11.0
+"Washington, District of Columbia-Virginia-Maryland",39045.0,18817.0,133862.0,31.0,638.0,2762.0,21.0
+"Wichita, Kansas",4215.0,7595.0,1404.0,3.0,59.0,27.0,2.0

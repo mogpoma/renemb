@@ -1,0 +1,40 @@
+1124. Online News Consumption by Selected Characteristics,,,,,,,,
+,,,,,,,,
+See notes,,,,,,,,
+,,,,,,,,
+Characteristic,"""Ever"" get news online",,,,"Got news online ""yesterday""",,,
+,,,,,,,,
+,,,,,,,,
+,2000.0,2004.0,2008.0,2009.0,2000.0,2004.0,2008.0,2009.0
+,(percent),(percent),(percent),(percent),(percent),(percent),(percent),(percent)
+Total Adult Internet Users,60.0,72.0,73.0,72.0,22.0,27.0,39.0,38.0
+,,,,,,,,
+Age:,,,,,,,,
+18 to 29 years old,56.0,71.0,73.0,74.0,16.0,21.0,41.0,35.0
+30 to 49 years old,63.0,74.0,77.0,76.0,25.0,32.0,44.0,44.0
+50 to 64 years old,57.0,72.0,72.0,71.0,25.0,27.0,35.0,37.0
+65 years old and over,53.0,61.0,61.0,56.0,28.0,22.0,25.0,28.0
+,,,,,,,,
+Sex:,,,,,,,,
+Male,66.0,77.0,75.0,73.0,29.0,34.0,48.0,42.0
+Female,53.0,66.0,72.0,72.0,16.0,21.0,31.0,35.0
+,,,,,,,,
+Race/ethnicity:,,,,,,,,
+"White, non-Hispanic",60.0,72.0,73.0,73.0,23.0,28.0,41.0,40.0
+"Black, non-Hispanic",63.0,71.0,69.0,72.0,13.0,17.0,37.0,32.0
+,,,,,,,,
+English-speaking Hispanic,57.0,75.0,69.0,67.0,23.0,30.0,31.0,34.0
+,,,,,,,,
+Annual household income:,,,,,,,,
+"Less than $30,000",55.0,67.0,63.0,59.0,21.0,18.0,21.0,28.0
+"$30,000 to $49,999",57.0,73.0,73.0,69.0,20.0,28.0,33.0,33.0
+"$50,000 to $74,999",63.0,76.0,78.0,75.0,22.0,30.0,46.0,40.0
+"$75,000 or more",69.0,74.0,79.0,84.0,31.0,36.0,53.0,53.0
+,,,,,,,,
+Frequency of internet use:,,,,,,,,
+Daily,66.0,78.0,83.0,81.0,33.0,39.0,52.0,50.0
+Several times per week,59.0,66.0,59.0,59.0,17.0,9.0,15.0,13.0
+Less Often,51.0,50.0,38.0,30.0,12.0,1.0,3.0,2.0
+,,,,,,,,
+Source: Pew Internet & American Life Project Surveys from,,,,,,,,
+March 2000; May-June of 2004; April-May 2008 and April 2009.,,,,,,,,

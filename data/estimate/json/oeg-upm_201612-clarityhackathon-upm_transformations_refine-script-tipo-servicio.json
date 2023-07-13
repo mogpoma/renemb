@@ -1,0 +1,278 @@
+[
+  {
+    "op": "core/column-addition",
+    "description": "Create column theme-uri at index 1 based on column theme using expression grel:value.toLowercase().trim().replace(\"/\",\"\").replace(\",\",\"\").replace(\" \",\" \").replace(\"(\",\"\").replace(\")\",\"\").replace(\" \",\"-\").replace(\".\",\"\").replace(\"á\",\"a\").replace(\"é\",\"e\").replace(\"í\",\"i\").replace(\"ó\",\"o\").replace(\"ú\",\"u\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "theme-uri",
+    "columnInsertIndex": 1,
+    "baseColumnName": "theme",
+    "expression": "grel:value.toLowercase().trim().replace(\"/\",\"\").replace(\",\",\"\").replace(\" \",\" \").replace(\"(\",\"\").replace(\")\",\"\").replace(\" \",\"-\").replace(\".\",\"\").replace(\"á\",\"a\").replace(\"é\",\"e\").replace(\"í\",\"i\").replace(\"ó\",\"o\").replace(\"ú\",\"u\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column subtheme-uri at index 1 based on column subtheme using expression grel:value.toLowercase().trim().replace(\"/\",\"\").replace(\",\",\"\").replace(\" \",\" \").replace(\"(\",\"\").replace(\")\",\"\").replace(\" \",\"-\").replace(\".\",\"\").replace(\"á\",\"a\").replace(\"é\",\"e\").replace(\"í\",\"i\").replace(\"ó\",\"o\").replace(\"ú\",\"u\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "subtheme-uri",
+    "columnInsertIndex": 1,
+    "baseColumnName": "subtheme",
+    "expression": "grel:value.toLowercase().trim().replace(\"/\",\"\").replace(\",\",\"\").replace(\" \",\" \").replace(\"(\",\"\").replace(\")\",\"\").replace(\" \",\"-\").replace(\".\",\"\").replace(\"á\",\"a\").replace(\"é\",\"e\").replace(\"í\",\"i\").replace(\"ó\",\"o\").replace(\"ú\",\"u\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column subtheme-uri to position 3",
+    "columnName": "subtheme-uri",
+    "index": 3
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://vocab.linkeddata.es/datosabiertos/kos/sector-publico/servicio/tipo-servicio/",
+      "prefixes": [
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "prov-o",
+          "uri": "http://www.w3.org/ns/prov#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "skos",
+          "uri": "http://www.w3.org/2004/02/skos/core#"
+        },
+        {
+          "name": "dcterms",
+          "uri": "http://purl.org/dc/terms/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": false,
+          "columnName": "subtheme-uri",
+          "rdfTypes": [
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#Concept",
+              "curie": "skos:Concept"
+            }
+          ],
+          "links": [
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#inScheme",
+              "curie": "skos:inScheme",
+              "target": {
+                "nodeType": "resource",
+                "value": "http://vocab.linkeddata.es/datosabiertos/kos/sector-publico/servicio/tipo-servicio",
+                "rdfTypes": [
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+                    "curie": "skos:ConceptScheme"
+                  },
+                  {
+                    "uri": "http://www.w3.org/ns/prov#Entity",
+                    "curie": "prov-o:Entity"
+                  }
+                ],
+                "links": [
+                  {
+                    "uri": "http://purl.org/dc/terms/title",
+                    "curie": "dcterms:title",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Clasificación de tipos de servicios públicos",
+                      "lang": "es"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Oscar Corcho (Universidad Politécnica de Madrid)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Freddy Priyatna (Universidad Politécnica de Madrid)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Idafen Santana (Universidad Politécnica de Madrid)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Víctor Rodríguez-Doncel (Universidad Politécnica de Madrid)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/date",
+                    "curie": "dcterms:date",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "2016-12-09",
+                      "valueType": "http://www.w3.org/2001/XMLSchema#date"
+                    }
+                  },
+                  {
+                    "uri": "http://www.w3.org/ns/prov#wasAttributedTo",
+                    "curie": "prov-o:wasAttributedTo",
+                    "target": {
+                      "nodeType": "resource",
+                      "value": "http://www.linkedin.com/in/ocorcho",
+                      "rdfTypes": [],
+                      "links": []
+                    }
+                  },
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#hasTopConcept",
+                    "curie": "skos:hasTopConcept",
+                    "target": {
+                      "nodeType": "cell-as-resource",
+                      "expression": "value",
+                      "isRowNumberCell": false,
+                      "columnName": "theme-uri",
+                      "rdfTypes": [],
+                      "links": []
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#prefLabel",
+              "curie": "skos:prefLabel",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "lang": "es",
+                "columnName": "subtheme"
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#notation",
+              "curie": "skos:notation",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "subtheme-uri"
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#broader",
+              "curie": "skos:broader",
+              "target": {
+                "nodeType": "cell-as-resource",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "theme-uri",
+                "rdfTypes": [
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#Concept",
+                    "curie": "skos:Concept"
+                  }
+                ],
+                "links": [
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#inScheme",
+                    "curie": "skos:inScheme",
+                    "target": {
+                      "nodeType": "resource",
+                      "value": "http://vocab.linkeddata.es/datosabiertos/kos/sector-publico/servicio/tipo-servicio",
+                      "rdfTypes": [],
+                      "links": []
+                    }
+                  },
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#narrower",
+                    "curie": "skos:narrower",
+                    "target": {
+                      "nodeType": "cell-as-resource",
+                      "expression": "value",
+                      "isRowNumberCell": false,
+                      "columnName": "subtheme-uri",
+                      "rdfTypes": [],
+                      "links": []
+                    }
+                  },
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#prefLabel",
+                    "curie": "skos:prefLabel",
+                    "target": {
+                      "nodeType": "cell-as-literal",
+                      "expression": "value",
+                      "isRowNumberCell": false,
+                      "lang": "es",
+                      "columnName": "theme"
+                    }
+                  },
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#notation",
+                    "curie": "skos:notation",
+                    "target": {
+                      "nodeType": "cell-as-literal",
+                      "expression": "value",
+                      "isRowNumberCell": false,
+                      "columnName": "theme-uri"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column theme-uri using expression grel:value.replace(\":\",\"\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "theme-uri",
+    "expression": "grel:value.replace(\":\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]

@@ -1,0 +1,63 @@
+Settings used,,,,
+,,,,
+alignment         : ./combined_reduced.phy,,,,
+branchlengths     : linked,,,,
+"models            : GTR+I, GTR+G, F81, F81+G, SYM, F81+I, JC, HKY, K80, HKY+I+G, K80+I, SYM+G, SYM+I, K80+G, GTR, HKY+G, SYM+I+G, HKY+I, F81+I+G, JC+G, GTR+I+G, JC+I, K80+I+G, JC+I+G",,,,
+model_selection   : bic,,,,
+search            : greedy,,,,
+,,,,
+,,,,
+Best partitioning scheme,,,,
+,,,,
+Scheme Name       : step_47,,,,
+Scheme lnL        : -351743.40782,,,,
+Scheme BIC        : 708379.601495,,,,
+Number of params  : 493,,,,
+Number of sites   : 20425,,,,
+Number of subsets : 19,,,,
+,,,,
+Subset , Best Model , Subset Partitions              , Subset Sites                   , Alignment                               
+1      , GTR+I+G    ," 12S, 16S                       "," 1-1087, 1088-2595              ", ./analysis/phylofiles/ffa0bbe48edbae6dfed5dff0ec4c5885.phy
+2      , K80+I+G    , 18S                            , 2596-4516                      , ./analysis/phylofiles/55bfa9fe21f6df07a821cc14091ac312.phy
+3      , GTR+I+G    , 28S                            , 4517-6828                      , ./analysis/phylofiles/79bdcd3e84ad3fa6a0973f8b28456dc8.phy
+4      , GTR+I+G    ," ATP6_p1, COIII_p1, ND3_p1      "," 6829-7506\3, 9961-10785\3, 14421-14777\3 ", ./analysis/phylofiles/99605e5f450550a94db7bb818f5a7957.phy
+5      , GTR+I+G    ," ATP6_p2, COIII_p2, COII_p2, COI_p2, CytB_p2 "," 6830-7506\3, 7688-9240\3, 9242-9960\3, 9962-10785\3, 10787-11956\3 ", ./analysis/phylofiles/7e8aa7c86ad5e4b5665fb2cff55808d8.phy
+6      , GTR+I+G    ," ATP6_p3, ATP8_p3, COIII_p3, COII_p3, ND3_p3 "," 6831-7506\3, 7509-7686\3, 9243-9960\3, 9963-10785\3, 14423-14777\3 ", ./analysis/phylofiles/0fb72922f65c7ebceb13e5338df8c737.phy
+7      , GTR+I+G    ," ATP8_p1, tRNA_Arg, tRNA_Asp, tRNA_Glu, tRNA_Gly, tRNA_Leu2, tRNA_Lys, tRNA_Ser1, tRNA_Trp "," 7507-7686\3, 18853-18933, 19014-19088, 19231-19303, 19304-19381, 19609-19678, 19679-19750, 19977-20050, 20199-20275 ", ./analysis/phylofiles/0189cfd8b9d8a7a5cd0bd5e60914c372.phy
+8      , GTR+I+G    ," ATP8_p2, ND2_p1, ND6_p1, tRNA_Thr "," 7508-7686\3, 13332-14420\3, 18220-18783\3, 20125-20198 ", ./analysis/phylofiles/ec4df87e581100524616a6d048c073b1.phy
+9      , GTR+I+G    , COI_p1                         , 7687-9240\3                    , ./analysis/phylofiles/9076cb8f0b8ebb01f0a1965d9a882bb2.phy
+10     , GTR+I+G    ," COI_p3, CytB_p3, ND6_p3        "," 7689-9240\3, 10788-11956\3, 18222-18783\3 ", ./analysis/phylofiles/6636990320bde1bb704e2d3ca38a76c5.phy
+11     , GTR+I+G    ," COII_p1, CytB_p1, tRNA_Met     "," 9241-9960\3, 10786-11956\3, 19751-19823 ", ./analysis/phylofiles/a1043f151ce3e7a0ea29a19230c97e42.phy
+12     , GTR+I+G    , H3                             , 11957-12322                    , ./analysis/phylofiles/b14763210c3ab7284e9cbe731d7dc2a5.phy
+13     , GTR+I+G    ," ND1_p1, ND4L_p1, ND4_p1, ND5_p1 "," 12323-13331\3, 14778-16125\3, 16126-16464\3, 16465-18219\3 ", ./analysis/phylofiles/7c497f311c6b6309bc74918e87c77592.phy
+14     , GTR+I+G    ," ND1_p2, ND4L_p2, ND4_p2, ND5_p2 "," 12324-13331\3, 14779-16125\3, 16127-16464\3, 16466-18219\3 ", ./analysis/phylofiles/cdaca71d445e06b723a58e2957e67d21.phy
+15     , GTR+G      ," ND1_p3, ND4L_p3, ND4_p3, ND5_p3 "," 12325-13331\3, 14780-16125\3, 16128-16464\3, 16467-18219\3 ", ./analysis/phylofiles/de93ce98612d3009d38e196acef3ae98.phy
+16     , GTR+I+G    ," ND2_p2, ND3_p2, ND6_p2         "," 13333-14420\3, 14422-14777\3, 18221-18783\3 ", ./analysis/phylofiles/805696e22c342e774bd69ab95cb2f354.phy
+17     , GTR+G      , ND2_p3                         , 13334-14420\3                  , ./analysis/phylofiles/76760510d66c35bf17420a289ec2b019.phy
+18     , GTR+G      ," tRNA_Ala, tRNA_Asn, tRNA_Cys, tRNA_Ile, tRNA_Ser2 "," 18784-18852, 18934-19013, 19089-19158, 19457-19533, 20051-20124 ", ./analysis/phylofiles/4f81e0a287fd4107e66f35db6ace4d61.phy
+19     , GTR+I+G    ," tRNA_Gln, tRNA_His, tRNA_Leu1, tRNA_Phe, tRNA_Pro, tRNA_Tyr, tRNA_Val "," 19159-19230, 19382-19456, 19534-19608, 19824-19901, 19902-19976, 20276-20349, 20350-20425 ", ./analysis/phylofiles/f9bc246315d4b67586acae2df8aee6c2.phy
+,,,,
+,,,,
+Scheme Description in PartitionFinder format,,,,
+"Scheme_step_47 = (12S, 16S) (18S) (28S) (ATP6_p1, COIII_p1, ND3_p1) (ATP6_p2, COIII_p2, COII_p2, COI_p2, CytB_p2) (ATP6_p3, ATP8_p3, COIII_p3, COII_p3, ND3_p3) (ATP8_p1, tRNA_Arg, tRNA_Asp, tRNA_Glu, tRNA_Gly, tRNA_Leu2, tRNA_Lys, tRNA_Ser1, tRNA_Trp) (ATP8_p2, ND2_p1, ND6_p1, tRNA_Thr) (COI_p1) (COI_p3, CytB_p3, ND6_p3) (COII_p1, CytB_p1, tRNA_Met) (H3) (ND1_p1, ND4L_p1, ND4_p1, ND5_p1) (ND1_p2, ND4L_p2, ND4_p2, ND5_p2) (ND1_p3, ND4L_p3, ND4_p3, ND5_p3) (ND2_p2, ND3_p2, ND6_p2) (ND2_p3) (tRNA_Ala, tRNA_Asn, tRNA_Cys, tRNA_Ile, tRNA_Ser2) (tRNA_Gln, tRNA_His, tRNA_Leu1, tRNA_Phe, tRNA_Pro, tRNA_Tyr, tRNA_Val);",,,,
+,,,,
+RaxML-style partition definitions,,,,
+"DNA, p1 = 1-1087, 1088-2595",,,,
+"DNA, p2 = 2596-4516",,,,
+"DNA, p3 = 4517-6828",,,,
+"DNA, p4 = 6829-7506\3, 9961-10785\3, 14421-14777\3",,,,
+"DNA, p5 = 6830-7506\3, 7688-9240\3, 9242-9960\3, 9962-10785\3, 10787-11956\3",,,,
+"DNA, p6 = 6831-7506\3, 7509-7686\3, 9243-9960\3, 9963-10785\3, 14423-14777\3",,,,
+"DNA, p7 = 7507-7686\3, 18853-18933, 19014-19088, 19231-19303, 19304-19381, 19609-19678, 19679-19750, 19977-20050, 20199-20275",,,,
+"DNA, p8 = 7508-7686\3, 13332-14420\3, 18220-18783\3, 20125-20198",,,,
+"DNA, p9 = 7687-9240\3",,,,
+"DNA, p10 = 7689-9240\3, 10788-11956\3, 18222-18783\3",,,,
+"DNA, p11 = 9241-9960\3, 10786-11956\3, 19751-19823",,,,
+"DNA, p12 = 11957-12322",,,,
+"DNA, p13 = 12323-13331\3, 14778-16125\3, 16126-16464\3, 16465-18219\3",,,,
+"DNA, p14 = 12324-13331\3, 14779-16125\3, 16127-16464\3, 16466-18219\3",,,,
+"DNA, p15 = 12325-13331\3, 14780-16125\3, 16128-16464\3, 16467-18219\3",,,,
+"DNA, p16 = 13333-14420\3, 14422-14777\3, 18221-18783\3",,,,
+"DNA, p17 = 13334-14420\3",,,,
+"DNA, p18 = 18784-18852, 18934-19013, 19089-19158, 19457-19533, 20051-20124",,,,
+"DNA, p19 = 19159-19230, 19382-19456, 19534-19608, 19824-19901, 19902-19976, 20276-20349, 20350-20425",,,,

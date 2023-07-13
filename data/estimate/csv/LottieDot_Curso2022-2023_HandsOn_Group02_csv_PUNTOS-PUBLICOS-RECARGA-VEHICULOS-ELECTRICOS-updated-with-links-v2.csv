@@ -1,0 +1,142 @@
+ID_EVC,DISTRICT_NUMBER,DISTRICT_NAME,WIKIDATA_DISTRICT,NEIGHBOURHOOD_NUMBER,NEIGHBOURHOOD_NAME,WIKIDATA_NEIGHBOURHOOD,AD_NAME,AD_NUMBER,LOCATION,CAPACITY,SOCKET_TYPE,SOCKET_NUMBER,OPERATOR
+1,2,Arganzuela,http://www.wikidata.org/entity/Q2000929,21,Imperial,http://www.wikidata.org/entity/Q3773740,CALLE CHULAPOS,S/N,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+1,,,,,,,,,,,Dual_Mennekes,,
+2,2,Arganzuela,http://www.wikidata.org/entity/Q2000929,26,Palos de la Frontera,http://www.wikidata.org/entity/Q521009,RONDA DE VALENCIA,1,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+2,,,,,,,,,,,Dual_Mennekes,,
+3,3,Retiro,http://www.wikidata.org/entity/Q2002296,32,Adelfas,http://www.wikidata.org/entity/Q3774001,CALLE CERRO DE LA PLATA,4,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+3,,,,,,,,,,,Dual_Mennekes,,
+4,3,Retiro,http://www.wikidata.org/entity/Q2002296,35,Jerónimos,http://www.wikidata.org/entity/Q10306766,CALLE ALFONSO XII,2,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+4,,,,,,,,,,,Dual_Mennekes,,
+5,4,Salamanca,http://www.wikidata.org/entity/Q1773521,41,Recoletos,http://www.wikidata.org/entity/Q3814551,CALLE GOYA,36,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+5,,,,,,,,,,,Dual_Mennekes,,
+6,4,Salamanca,http://www.wikidata.org/entity/Q1773521,42,Goya,http://www.wikidata.org/entity/Q3814578,CALLE GOYA,123,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+6,,,,,,,,,,,Dual_Mennekes,,
+7,4,Salamanca,http://www.wikidata.org/entity/Q1773521,46,Castellana,http://www.wikidata.org/entity/Q4781,CALLE CASTELLÓ,105,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+7,,,,,,,,,,,Dual_Mennekes,,
+8,4,Salamanca,http://www.wikidata.org/entity/Q1773521,44,La Guindalera,http://www.wikidata.org/entity/Q3814559,PLAZA DE SAN CAYETANO,S/N,APARCAMIENTO,1,CHAdeMO,3,ENDESA
+8,,,,,,,,,,,Dual_Mennekes,,
+9,10,Latina,http://www.wikidata.org/entity/Q794954,106,Cuatro Vientos,http://www.wikidata.org/entity/Q5191881,CALLE SINFONIA,9,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,DRIVE THE CITY
+9,,,,,,,,,,,Dual_Mennekes,,
+10,5,Chamartín,http://www.wikidata.org/entity/Q1766348,54,Hispanoamérica,http://www.wikidata.org/entity/Q3814573,AVENIDA ALFONSO XIII,S/N,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+10,,,,,,,,,,,Dual_Mennekes,,
+11,4,Salamanca,http://www.wikidata.org/entity/Q1773521,46,Castellana,http://www.wikidata.org/entity/Q4781,CALLE VELÁZQUEZ,74,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+11,,,,,,,,,,,Dual_Mennekes,,
+12,4,Salamanca,http://www.wikidata.org/entity/Q1773521,46,Castellana,http://www.wikidata.org/entity/Q4781,PASEO CASTELLANA,52,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+12,,,,,,,,,,,Dual_Mennekes,,
+13,5,Chamartín,http://www.wikidata.org/entity/Q1766348,51,El Viso,http://www.wikidata.org/entity/Q4778,PASEO CASTELLANA,106,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+13,,,,,,,,,,,Dual_Mennekes,,
+14,5,Chamartín,http://www.wikidata.org/entity/Q1766348,54,Hispanoamérica,http://www.wikidata.org/entity/Q3814573,PASEO CASTELLANA,160,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+14,,,,,,,,,,,Dual_Mennekes,,
+15,5,Chamartín,http://www.wikidata.org/entity/Q1766348,56,Castilla,http://www.wikidata.org/entity/Q3813735,CALLE CARDENAL MARCELO SPÍNOLA,6,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+15,,,,,,,,,,,Dual_Mennekes,,
+16,7,Chamberí,http://www.wikidata.org/entity/Q1763370,72,Arapiles,http://www.wikidata.org/entity/Q10856744,CALLE FERNÁNDEZ DE LOS RÍOS,42,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+16,,,,,,,,,,,Dual_Mennekes,,
+17,7,Chamberí,http://www.wikidata.org/entity/Q1763370,72,Arapiles,http://www.wikidata.org/entity/Q10856744,PLAZA DEL CONDE DE VALLE DE SUCHIL,S/N,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+17,,,,,,,,,,,Dual_Mennekes,,
+18,7,Chamberí,http://www.wikidata.org/entity/Q1763370,73,Trafalgar,http://www.wikidata.org/entity/Q10384027,CALLE MANUEL SILVELA,16,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+18,,,,,,,,,,,Dual_Mennekes,,
+19,5,Chamartín,http://www.wikidata.org/entity/Q1766348,55,Nueva España,http://www.wikidata.org/entity/Q10338128,AVENIDA ALBERTO ALCOCER,11,APARCAMIENTO,1,CHAdeMO,3,ENDESA
+19,,,,,,,,,,,Dual_Mennekes,,
+20,7,Chamberí,http://www.wikidata.org/entity/Q1763370,73,Trafalgar,http://www.wikidata.org/entity/Q10384027,CALLE SANTA ENGRACIA,115,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+20,,,,,,,,,,,Dual_Mennekes,,
+21,7,Chamberí,http://www.wikidata.org/entity/Q1763370,74,Almagro,http://www.wikidata.org/entity/Q10954432,PASEO CASTELLANA,33,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+21,,,,,,,,,,,Dual_Mennekes,,
+22,8,Fuencarral-El Pardo,http://www.wikidata.org/entity/Q656196,85,La Paz,http://www.wikidata.org/entity/Q5869740,CALLE DE SINESIO DELGADO,2,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+22,,,,,,,,,,,Dual_Mennekes,,
+23,15,Ciudad Lineal,http://www.wikidata.org/entity/Q1763694,156,San Juan Bautista,http://www.wikidata.org/entity/Q165609,CALLE BUESO PINEDA,29,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+23,,,,,,,,,,,Dual_Mennekes,,
+24,1,Centro,http://www.wikidata.org/entity/Q1763376,11,Palacio,http://www.wikidata.org/entity/Q2136510,PLAZA DE LA CEBADA,S/N,APARCAMIENTO,1,CHAdeMO,2,DRIVE THE CITY
+25,5,Chamartín,http://www.wikidata.org/entity/Q1766348,55,Nueva España,http://www.wikidata.org/entity/Q10338128,CALLE MATEO INURRIA,4,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+25,,,,,,,,,,,Dual_Mennekes,,
+26,6,Tetuán,http://www.wikidata.org/entity/Q1773540,66,Berruguete,http://www.wikidata.org/entity/Q11909208,CALLE OFELIA NIETO,64,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+26,,,,,,,,,,,Dual_Mennekes,,
+27,8,Fuencarral-El Pardo,http://www.wikidata.org/entity/Q656196,86,Valverde,http://www.wikidata.org/entity/Q31132,CALLE DEL ABETAL,8,ESTACIÓN DE SERVICIO,2,CHAdeMO,3,REPSOL
+27,,,,,,,,,,,Dual_Mennekes,,
+28,9,Moncloa-Aravaca,http://www.wikidata.org/entity/Q2017682,93,Ciudad Universitaria,http://www.wikidata.org/entity/Q3319235,"CRED HIPODROMOCR A-6  P.K. 8,00 D (AVDA PADRE HUIDOBRO SN)",S/N,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+28,,,,,,,,,,,Dual_Mennekes,,
+29,9,Moncloa-Aravaca,http://www.wikidata.org/entity/Q2017682,96,El Plantío,http://www.wikidata.org/entity/Q3773742,AVENIDA VICTORIA,34,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+29,,,,,,,,,,,Dual_Mennekes,,
+30,10,Latina,http://www.wikidata.org/entity/Q794954,106,Cuatro Vientos,http://www.wikidata.org/entity/Q5191881,CRED A5 PK 9,S/N,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+30,,,,,,,,,,,Dual_Mennekes,,
+31,10,Latina,http://www.wikidata.org/entity/Q794954,106,Cuatro Vientos,http://www.wikidata.org/entity/Q5191881,AVENIDA DE LA PESETA,6,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+31,,,,,,,,,,,Dual_Mennekes,,
+32,10,Latina,http://www.wikidata.org/entity/Q794954,107,Las Águilas,http://www.wikidata.org/entity/Q5971372,CALLE DE JOSÉ DE CADALSO,51,APARCAMIENTO,1,CHAdeMO,3,DRIVE THE CITY
+32,,,,,,,,,,,Dual_Mennekes,,
+33,13,Puente de Vallecas,http://www.wikidata.org/entity/Q2003054,134,Palomeras Sureste,http://www.wikidata.org/entity/Q10343901,AVENIDA DE LA ALBUFERA,319,APARCAMIENTO,2,CHAdeMO,3,ECOLINERAS
+33,,,,,,,,,,,Dual_Mennekes,,
+34,16,Hortaleza,http://www.wikidata.org/entity/Q1928529,166,Valdefuentes,http://www.wikidata.org/entity/Q10388714,AVENIDA MARÍA DE PORTUGAL,15,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,IBERDROLA
+34,,,,,,,,,,,Dual_Mennekes,,
+35,17,Villaverde,http://www.wikidata.org/entity/Q919536,173,Butarque,http://www.wikidata.org/entity/Q390453,AVDA. DE LOS ROSALES,147,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+35,,,,,,,,,,,Dual_Mennekes,,
+36,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,183,Ensanche de Vallecas,http://www.wikidata.org/entity/Q3847485,AVENIDA REAL DE ARGANDA,74,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+36,,,,,,,,,,,Dual_Mennekes,,
+37,20,San Blas,http://www.wikidata.org/entity/Q2001937,206,Rejas,http://www.wikidata.org/entity/Q10359029,"BARAJAS II A2 KM 12,6",S/N,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+37,,,,,,,,,,,Dual_Mennekes,,
+38,1,Centro,http://www.wikidata.org/entity/Q1763376,16,Sol,http://www.wikidata.org/entity/Q2465181,PLAZA DE JACINTO BENAVENTE,6,APARCAMIENTO,1,CHAdeMO,3,EMT
+38,,,,,,,,,,,Dual_Mennekes,,
+39,4,Salamanca,http://www.wikidata.org/entity/Q1773521,41,Recoletos,http://www.wikidata.org/entity/Q3814551,JARDINES DEL DESCUBRIMIENTO - ACCESO A COMPLEJO DE APARCAMIENTOS SUBTERRÁNEOS POR CALLE DE LA ARMADA ESPAÑOLA,S/N,VÍA PÚBLICA,4,CHAdeMO,3,EMT
+39,,,,,,,,,,,Dual_Mennekes,,
+40,4,Salamanca,http://www.wikidata.org/entity/Q1773521,45,Lista,http://www.wikidata.org/entity/Q4779,PLAZA DE MARQUÉS DE SALAMANCA,S/N,APARCAMIENTO,1,CHAdeMO,3,EMT
+40,,,,,,,,,,,Dual_Mennekes,,
+41,5,Chamartín,http://www.wikidata.org/entity/Q1766348,56,Castilla,http://www.wikidata.org/entity/Q3813735,CALLE HIEDRA,36,APARCAMIENTO,1,CHAdeMO,3,EMT
+41,,,,,,,,,,,Dual_Mennekes,,
+42,1,Centro,http://www.wikidata.org/entity/Q1763376,11,Palacio,http://www.wikidata.org/entity/Q2136510,PLAZA DE LA CEBADA,S/N,APARCAMIENTO,1,CHAdeMO,2,DRIVE THE CITY
+43,1,Centro,http://www.wikidata.org/entity/Q1763376,15,Universidad,http://www.wikidata.org/entity/Q10387767,CALLE ALBERTO AGUILERA,9,ESTACIÓN DE SERVICIO,1,CHAdeMO,2,REPSOL
+44,3,Retiro,http://www.wikidata.org/entity/Q2002296,32,Adelfas,http://www.wikidata.org/entity/Q3774001,PLAZA DEL CONDE DE CASAL,6,APARCAMIENTO,2,CHAdeMO,2,DRIVE THE CITY
+45,8,Fuencarral-El Pardo,http://www.wikidata.org/entity/Q656196,88,El Goloso,http://www.wikidata.org/entity/Q10271137,CALLE DEL MONASTERIO DE ARLANZA,20,APARCAMIENTO,2,CHAdeMO,2,IBERDROLA
+46,16,Hortaleza,http://www.wikidata.org/entity/Q1928529,163,Canillas,http://www.wikidata.org/entity/Q9694341,AVENIDA DE MACHUPICHU,105,ESTACIÓN DE SERVICIO,1,CHAdeMO,2,GIC
+47,16,Hortaleza,http://www.wikidata.org/entity/Q1928529,166,Valdefuentes,http://www.wikidata.org/entity/Q10388714,AVENIDA DE NICETO ALCALA ZAMORA,20,ESTACIÓN DE SERVICIO,1,CHAdeMO,2,GIC-GALP
+48,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,181,Casco Histórico de Vallecas,http://www.wikidata.org/entity/Q16544370,AVENIDA EJE CENTRAL,7,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,NATURGY
+48,,,,,,,,,,,Dual_Mennekes,,
+49,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,181,Casco Histórico de Vallecas,http://www.wikidata.org/entity/Q16544370,CARRETERA DE VILLAVERDE A VALLECAS,278,ESTACIÓN DE SERVICIO,1,CHAdeMO,2,REPSOL
+50,21,Barajas,http://www.wikidata.org/entity/Q807230,215,Corralejos,http://www.wikidata.org/entity/Q10260772,AVENIDA DEL CONSEJO DE EUROPA,2,ESTACIÓN DE SERVICIO,4,Other,1,GIC-CEPSA
+51,21,Barajas,http://www.wikidata.org/entity/Q807230,215,Corralejos,http://www.wikidata.org/entity/Q10260772,AVENIDA DEL PARTENÓN,5,APARCAMIENTO,2,CHAdeMO,2,IBERDROLA
+52,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,181,Casco Histórico de Vallecas,http://www.wikidata.org/entity/Q16544370,AVENIDA DE LEGAZPI,S/N,MERCAMADRID,2,CHAdeMO,3,DRIVE THE CITY
+52,,,,,,,,,,,Dual_Mennekes,,
+53,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,181,Casco Histórico de Vallecas,http://www.wikidata.org/entity/Q16544370,AVDA LEGAZPI,S/N,MERCAMADRID,1,CHAdeMO,3,DRIVE THE CITY
+53,,,,,,,,,,,Dual_Mennekes,,
+54,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,181,Casco Histórico de Vallecas,http://www.wikidata.org/entity/Q16544370,CALLE 3,S/N,MERCAMADRID,1,CHAdeMO,3,GIC
+54,,,,,,,,,,,Dual_Mennekes,,
+55,3,Retiro,http://www.wikidata.org/entity/Q2002296,34,Ibiza,http://www.wikidata.org/entity/Q15249910,CALLE IBIZA,1,VÍA PÚBLICA,1,CHAdeMO,3,REPSOL
+55,,,,,,,,,,,Dual_Mennekes,,
+56,3,Retiro,http://www.wikidata.org/entity/Q2002296,35,Jerónimos,http://www.wikidata.org/entity/Q10306766,PLAZA DE LA LEALTAD,S/N,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+56,,,,,,,,,,,Dual_Mennekes,,
+57,11,Carabanchel,http://www.wikidata.org/entity/Q1001991,116,Buenavista,http://www.wikidata.org/entity/Q953929,CALLE HILARIO HERRANZ ESTABLOS,20,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,ENDESA
+57,,,,,,,,,,,Dual_Mennekes,,
+58,9,Moncloa-Aravaca,http://www.wikidata.org/entity/Q2017682,92,Argüelles,http://www.wikidata.org/entity/Q64874,CALLE MARQUÉS DE URQUIJO,27,APARCAMIENTO,1,CHAdeMO,3,ENDESA
+58,,,,,,,,,,,Dual_Mennekes,,
+59,17,Villaverde,http://www.wikidata.org/entity/Q919536,171,"Villaverde Alto, Casco Histórico de Villaverde",http://www.wikidata.org/entity/Q390435,CALLE VALLE DE TOBALINA,24,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,IBERDROLA
+59,,,,,,,,,,,Dual_Mennekes,,
+60,6,Tetuán,http://www.wikidata.org/entity/Q1773540,62,Cuatro Caminos,http://www.wikidata.org/entity/Q5824684,CALLE BRAVO MURILLO,122,APARCAMIENTO,2,CHAdeMO,3,DRIVE THE CITY
+60,,,,,,,,,,,Dual_Mennekes,,
+61,12,Usera,http://www.wikidata.org/entity/Q953368,122,Orcasur,http://www.wikidata.org/entity/Q10341270,CALLE DE EDUARDO BARREIROS,2,APARCAMIENTO,1,CHAdeMO,3,ENDESA
+61,,,,,,,,,,,Dual_Mennekes,,
+62,12,Usera,http://www.wikidata.org/entity/Q953368,122,Orcasur,http://www.wikidata.org/entity/Q10341270,CARRETERA A-4. P.K. 6.70 D,S/N,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+62,,,,,,,,,,,Dual_Mennekes,,
+63,16,Hortaleza,http://www.wikidata.org/entity/Q1928529,165,Apóstol Santiago,http://www.wikidata.org/entity/Q11906303,AVENIDA DE SAN LUIS,77,APARCAMIENTO,1,CHAdeMO,3,NATURGY
+63,,,,,,,,,,,Dual_Mennekes,,
+64,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,181,Casco Histórico de Vallecas,http://www.wikidata.org/entity/Q16544370,CALLE 29,S/N,APARCAMIENTO,3,CHAdeMO,3,DRIVE THE CITY
+64,,,,,,,,,,,Dual_Mennekes,,
+65,15,Ciudad Lineal,http://www.wikidata.org/entity/Q1763694,157,Colina,http://www.wikidata.org/entity/Q18475981,CALLE ARTURO SORIA,175,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+65,,,,,,,,,,,Dual_Mennekes,,
+66,15,Ciudad Lineal,http://www.wikidata.org/entity/Q1763694,155,San Pascual,http://www.wikidata.org/entity/Q165612,CALLE VERDAGUER Y GARCIA,5,APARCAMIENTO,1,CHAdeMO,3,ENDESA
+66,,,,,,,,,,,Dual_Mennekes,,
+67,14,Moratalaz,http://www.wikidata.org/entity/Q2076109,143,Marroquina,http://www.wikidata.org/entity/Q11935636,GLORIETA CORREGIDOR SANCHO DE CÓRDOBA,S/N,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+67,,,,,,,,,,,Dual_Mennekes,,
+68,20,San Blas,http://www.wikidata.org/entity/Q2001937,201,Simancas,http://www.wikidata.org/entity/Q10371626,CALLE ALCALÁ,510,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,REPSOL
+68,,,,,,,,,,,Dual_Mennekes,,
+69,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,183,Ensanche de Vallecas,http://www.wikidata.org/entity/Q3847485,CALLE ALTO DEL RETIRO,S/N,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,ENDESA
+69,,,,,,,,,,,Dual_Mennekes,,
+70,20,San Blas,http://www.wikidata.org/entity/Q2001937,206,Rejas,http://www.wikidata.org/entity/Q10359029,CALLE DEYANIRA,10,APARCAMIENTO,1,CHAdeMO,3,NATURGY
+70,,,,,,,,,,,Dual_Mennekes,,
+71,20,San Blas,http://www.wikidata.org/entity/Q2001937,206,Rejas,http://www.wikidata.org/entity/Q10359029,CALLE NANCLARES DE OCA,5,APARCAMIENTO,2,CHAdeMO,3,IBERDROLA
+71,,,,,,,,,,,Dual_Mennekes,,
+72,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,181,Casco Histórico de Vallecas,http://www.wikidata.org/entity/Q16544370,AVENIDA EJE CENTRAL,7,ESTACIÓN DE SERVICIO,1,CHAdeMO,3,NATURGY
+72,,,,,,,,,,,Dual_Mennekes,,
+73,1,Centro,http://www.wikidata.org/entity/Q1763376,14,Justicia,http://www.wikidata.org/entity/Q1992319,CALLE GÉNOVA,24,VÍA PÚBLICA,1,CHAdeMO,3,GIC
+73,,,,,,,,,,,Dual_Mennekes,,
+74,6,Tetuán,http://www.wikidata.org/entity/Q1773540,64,Almenara,http://www.wikidata.org/entity/Q2265427,CALLE SAN AQUILINO,1,APARCAMIENTO,2,CHAdeMO,2,IBERDROLA
+75,5,Chamartín,http://www.wikidata.org/entity/Q1766348,52,Prosperidad,http://www.wikidata.org/entity/Q4776,AVENIDA DE AMÉRICA,9,APARCAMIENTO,2,CHAdeMO,2,IBERDROLA
+76,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,198,Casco Histórico de Vallecas,http://www.wikidata.org/entity/Q16544370,APARCAMIENTO ESTE DEL MERCADO CENTRAL DE PESCADOS,S/N,MERCAMADRID,2,CHAdeMO,3,
+76,,,,,,,,,,,Dual_Mennekes,,
+77,18,Villa de Vallecas,http://www.wikidata.org/entity/Q1947988,198,Casco Histórico de Vallecas,http://www.wikidata.org/entity/Q16544370,CALLE 29,S/N,APARCAMIENTO,1,Other,2,DRIVE THE CITY

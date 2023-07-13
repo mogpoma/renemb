@@ -1,0 +1,48 @@
+Funding Source,Position,FTE,Name,FTE,Name,Country
+,,,,,,
+DOE 8,On-line Core / System Engineer,1.0,Pavel replacement,1.0,Matthias Wittgen,
+,Tools Manager,1.0,Paul Raines,1.0,Douglas Smith,
+,On-line Core / System Engineer,1.0,Chris O'Grady,1.0,Chris O'Grady,
+,Infrastructure,1.0,Charlotte Hee,1.0,Charlotte Hee,
+,DB Administrator,1.0,Adil Hasan,1.0,Adil Hasan,
+,Event Display -> OPR core,1.0,Cal Loomis,0.8,open,
+,Database Core,1.0,Dave Quarrie,0.2,Dave Quarrie,
+,Geant4 Core,1.0,Dennis Wright,1.0,Dennis Wright,
+,Total,8.0,,7.0,,
+Common Fund 8,CVS Core Support,1.0,Terry Hung,1.0,Terry Hung,
+,On-line Database,1.0,George Zioulas,1.0,open,
+,Database Core,1.0,Simon Patton,1.0,Simon Patton,
+,Database Core,1.0,Igor Gaponenko,1.0,Igor Gaponenko,
+,EPICS Core,1.0,Paola Grosso,1.0,made offer,
+,Reco Core,1.0,Massimo Marino,0.0,,
+,Reco Core,1.0,Akbar Mokhtarani,1.0,Akbar Mokhtarani,
+,Build Core Support,0.5,Doug Johnson,0.5,Doug Johnson,
+,OPR Core,0.5,open,0.5,open,
+,Total,8.0,,7.0,,
+Non-DOE 8,Database Distribution,1.0,Jean-Noel Albert,1.0,Jean-Noel Albert,France
+,WIRED/JAS Support,1.0,Serge Du,1.0,Serge Du,France
+,On-line Run Control,1.0,Boda Franek et al,1.0,Boda Franek et al,UK
+,Web Master -> Kanga Support,0.5,Mark Williams,0.5,Stefania Ricciardi,UK
+,Framework Core Support,1.0,Asoka de Silva,1.0,Asoka de Silva,Canada
+,Reco Core,0.5,Matthias Steinke,0.5,Matthias Steinke,Germany
+,OPR Core,1.0,Franz Safai,1.0,Franz Safai,Italy
+,Data Distribution,1.0,Cristina Bulfon,1.0,Cristina Bulfon,Italy
+,Tools Core,1.0,Teresa Barillari,1.0,Moreno Mazolla,Italy
+,Total,8.0,,8.0,,
+,Grand Total,24.0,,22.0,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,Mike Huffer,,,
+,,,Owen Saxton,,,
+,,,Artem Trunov,,,
+,,,Jacek Becla,,,
+,,,Ramon Berger,,,
+,,,Ric Claus,,,
+,,,Steffen Luitz,,,
+,,,Adeyemi Adesanya,,,
+,,,Joe Perl,,,
+,,,Kevin Rennert,,,
+,,,3 Russians,,,
+,,,3 desktop supports,,,

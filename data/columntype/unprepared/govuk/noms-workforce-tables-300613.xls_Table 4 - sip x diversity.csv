@@ -1,0 +1,50 @@
+"Table 4: NOMS Staff in Post, by Protected Characteristic (Headcount)",,,,,,,,,,
+,,,,,,,,,,Headcount
+,,,Time Series - end of each Financial Year ,,,Time Series - last five Quarter points,,,,
+,,,31 Mar 2010,31 Mar 2011,31 Mar 2012,30 Jun 2012,30 Sep 2012,31 Dec 2012,31 Mar 2013,30 Jun 2013
+,Age,<20,120,70,30,40,30,20,20,10
+,,20-29,"7,230","6,590","5,610","5,370","5,060","4,890","4,600","4,270"
+,,30-39,"10,440","9,650","8,740","8,520","8,390","8,310","8,220","8,020"
+,,40-49,"17,710","16,990","15,770","15,490","15,030","14,790","14,400","13,920"
+,,50-59,"12,190","12,240","11,920","11,990","12,010","12,020","12,040","11,800"
+,,60+,"3,520","3,670","3,500","3,480","3,470","3,480","3,440","3,330"
+,Gender,Female,"18,460","17,520","16,300","16,060","15,700","15,530","15,220","14,680"
+,,Male,"32,760","31,690","29,280","28,820","28,280","27,990","27,500","26,670"
+,,Female representation %,36.0%,35.6%,35.8%,35.8%,35.7%,35.7%,35.6%,35.5%
+,FT/PT,Full Time,"46,580","44,440","40,770","40,070","39,220","38,720","37,950","36,750"
+,,Part Time,"4,630","4,770","4,800","4,810","4,770","4,790","4,770","4,600"
+,,Part Time representation %,9.0%,9.7%,10.5%,10.7%,10.8%,11.0%,11.2%,11.1%
+,Ethnicity,BME,"3,030","2,930","2,660","2,610","2,560","2,530","2,480","2,410"
+,,White,"43,850","41,920","38,930","38,230","37,320","36,880","36,180","34,980"
+,,Unknown,"4,330","4,360","3,980","4,040","4,110","4,110","4,060","3,960"
+,,Declaration rate,91.5%,91.1%,91.3%,91.0%,90.7%,90.6%,90.5%,90.4%
+,,BME representation %,6.5%,6.5%,6.4%,6.4%,6.4%,6.4%,6.4%,6.4%
+,Disability,Disabled,"1,660","1,680","1,600","1,590","1,560","1,560","1,540","1,490"
+,,Not disabled,"26,830","26,630","24,390","23,920","23,370","23,080","22,620","21,850"
+,,Unknown,"22,730","20,900","19,580","19,360","19,060","18,880","18,560","18,010"
+,,Declaration rate,55.6%,57.5%,57.0%,56.9%,56.7%,56.6%,56.5%,56.4%
+,,Disability representation %,-,-,-,-,-,-,-,-
+,Sexual Orientation,Heterosexual,..,..,..,..,..,..,"5,690","5,550"
+,,LGB,..,..,..,..,..,..,340,330
+,,Unknown,..,..,..,..,..,..,"36,690","35,470"
+,,Declaration rate,..,..,..,..,..,..,14.1%,14.2%
+,,LGB representation %,..,..,..,..,..,..,-,-
+,Religion,Christian (all denominations),..,..,..,..,..,..,"3,620","3,520"
+,,No Religion,..,..,..,..,..,..,"2,090","2,040"
+,,Other (Non Christian) Religion,..,..,..,..,..,..,480,470
+,,Unknown,..,..,..,..,..,..,"36,540","35,320"
+,,Declaration rate,..,..,..,..,..,..,14.5%,14.6%
+,,No Religion representation %,..,..,..,..,..,..,-,-
+,,Other (Non Christian) Religion representation %,..,..,..,..,..,..,-,-
+,Grand Total,,"51,210","49,210","45,580","44,880","43,980","43,520","42,720","41,350"
+,,,,,,,,,,Source: National Offender Management Service
+Notes to Table 4:,,,,,,,,,,
+,"All figures are rounded to the nearest 10. As with all HR databases, extracts are taken at a fixed point in time, to ensure consistency of reporting. However the database itself is dynamic, and where updates to the database are made late, subsequent to the taking of the extract, these updates will not be reflected in figures produced by the extract. For this reason, HR data are unlikely to be precisely accurate, and to present unrounded figures would be to overstate the accuracy of the figures. Rounding to 10 accurately depicts the level of certainty that is held with these figures.",,,,,,,,,
+,"Totals are formed from unrounded parts prior to rounding. For this reason, rounded totals may not equal the sum of their rounded parts.",,,,,,,,,
+,"Declaration rates are provided for ethnicity, disability, sexual orientation and religion, which are self-declared optional fields, to show the percentage of all staff in post who have made a declaration, as opposed to those who have not declared or indicated they do not wish to declare. Representation rates show the percentage within a specified category out of all those who have declared (i.e. excluding those who have not responded or those who have indicated they do not wish to declare) .Where declaration rates are below 60%, representation rates are not provided as the level of declaration has not reached the minimum threshold for representation rates to have any validity. Even where representation rates are presented, these should always be considered in conjunction with declaration rates when making any interpretation. ",,,,,,,,,
+,Information on sexual orientation and religion is not available prior to 31 March 2013.,,,,,,,,,
+,"All staff have gender, full time/part time status and age assigned, and so representation rates are the percentage of all staff in post falling within a specified category. Ethnicity, disability, sexual orientation and religion/belief are self-declared fields, and are optional to complete. Representation rates for self-declared fields are the percentage of staff making a specific declaration, out of all known declarations, excluding those who chose not to declare or who did not respond. This is the best estimate of the actual representation within the population.",,,,,,,,,
+,"Percentages of declaration and representation are based on unrounded data, and are provided to one decimal place. ",,,,,,,,,
+,"~ denotes suppressed values of 5 or fewer. Low numbers are suppressed, in conjunction with the rounding policy to prevent disclosure in accordance with the Data Protection Act, 1998.",,,,,,,,,
+,.. denotes not available,,,,,,,,,
+,- denotes representation rate not calculated. Declaration rate too low for a representation rate to have any validity.,,,,,,,,,

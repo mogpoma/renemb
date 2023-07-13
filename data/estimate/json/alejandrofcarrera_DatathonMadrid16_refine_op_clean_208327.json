@@ -1,0 +1,80 @@
+[
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Calle using expression grel:parseJson(\"[\" + value + \"]\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Calle",
+    "expression": "grel:parseJson(\"[\" + value + \"]\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column direccion at index 6 based on column Calle using expression grel:forEachIndex(parseJson(value), i, v, if (i == 0, null, v)).join(\" \") + \" \" + parseJson(value)[0]",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "direccion",
+    "columnInsertIndex": 6,
+    "baseColumnName": "Calle",
+    "expression": "grel:forEachIndex(parseJson(value), i, v, if (i == 0, null, v)).join(\" \") + \" \" + parseJson(value)[0]",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Calle",
+    "columnName": "Calle"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column direccion using expression grel:value + \", \" + cells[\"Nº\"].value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "direccion",
+    "expression": "grel:value + \", \" + cells[\"Nº\"].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Nº",
+    "columnName": "Nº"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Anclajes to bicis",
+    "oldColumnName": "Anclajes",
+    "newColumnName": "bicis"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Distrito",
+    "columnName": "Distrito"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Estación to identificador",
+    "oldColumnName": "Estación",
+    "newColumnName": "identificador"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Gis X to lng",
+    "oldColumnName": "Gis X",
+    "newColumnName": "lng"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Gis Y to lat",
+    "oldColumnName": "Gis Y",
+    "newColumnName": "lat"
+  }
+]

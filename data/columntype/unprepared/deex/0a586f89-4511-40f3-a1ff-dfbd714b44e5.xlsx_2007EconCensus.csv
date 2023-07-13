@@ -1,0 +1,686 @@
+NAICS Code,NAICS Sector,Type of Operation or Tax Status,Number of Establishments,"Sales, Shipments, Receipts, Revenue, or Business Done ($1,000)","Annual Payroll ($1,000)",Number of Paid Employees for Pay Period Including March 12
+31-33,Manufacturing,Total,75,800225,184393,2906
+325,Chemical manufacturing,Total,10,325679,52032,617
+3254,Pharmaceutical and medicine manufacturing,Total,5,D,D,566
+32541,Pharmaceutical and medicine manufacturing,Total,5,D,D,566
+334,Computer and electronic product manufacturing,Total,14,233595,56952,948
+3344,Semiconductor and other electronic component manufacturing,Total,4,D,D,f
+33441,Semiconductor and other electronic component manufacturing,Total,4,D,D,f
+334413,Semiconductor and related device manufacturing,Total,1,D,D,f
+42,Wholesale trade,"Merchant wholesalers, except manufacturers' sales branches and offices",90,2066440,189928,1693
+423,"Merchant wholesalers, durable goods","Merchant wholesalers, except manufacturers' sales branches and offices",56,161590,37983,499
+4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers","Merchant wholesalers, except manufacturers' sales branches and offices",4,66543,11117,164
+42372,Plumbing and heating equipment and supplies (hydronics) merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",2,D,D,b
+423720,Plumbing and heating equipment and supplies (hydronics) merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",2,D,D,b
+424,"Merchant wholesalers, nondurable goods","Merchant wholesalers, except manufacturers' sales branches and offices",34,1904850,151945,1194
+4242,Drugs and druggists' sundries merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",8,D,D,f
+42421,Drugs and druggists' sundries merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",8,D,D,f
+424210,Drugs and druggists' sundries merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",8,D,D,f
+4242102,"Specialty-line drugs, pharmaceuticals, cosmetics, and toiletries merchant wholesalers","Merchant wholesalers, except manufacturers' sales branches and offices",6,D,D,f
+4249,Miscellaneous nondurable goods merchant wholesalers,"Merchant wholesalers, except manufacturers' sales branches and offices",14,D,D,b
+44-45,Retail trade,Total,474,1287709,150576,6627
+441,Motor vehicle and parts dealers,Total,6,D,D,c
+4411,Automobile dealers,Total,4,D,D,c
+44112,Used car dealers,Total,2,D,D,a
+441120,Used car dealers,Total,2,D,D,a
+4412,Other motor vehicle dealers,Total,1,D,D,a
+44122,"Motorcycle, boat, and other motor vehicle dealers",Total,1,D,D,a
+442,Furniture and home furnishings stores,Total,33,37672,5466,195
+4421,Furniture stores,Total,15,25531,3319,76
+44211,Furniture stores,Total,15,25531,3319,76
+442110,Furniture stores,Total,15,25531,3319,76
+4422,Home furnishings stores,Total,18,12141,2147,119
+44229,Other home furnishings stores,Total,13,10322,1763,107
+442299,All other home furnishings stores,Total,12,D,D,c
+443,Electronics and appliance stores,Total,21,126979,12422,397
+4431,Electronics and appliance stores,Total,21,126979,12422,397
+44311,"Appliance, television, and other electronics stores",Total,14,19370,2509,131
+443112,"Radio, television, and other electronics stores",Total,12,D,D,c
+44312,Computer and software stores,Total,4,D,D,c
+443120,Computer and software stores,Total,4,D,D,c
+44313,Camera and photographic supplies stores,Total,3,D,D,b
+443130,Camera and photographic supplies stores,Total,3,D,D,b
+444,Building material and garden equipment and supplies dealers,Total,12,30330,6210,209
+4441,Building material and supplies dealers,Total,11,D,D,c
+44412,Paint and wallpaper stores,Total,2,D,D,b
+444120,Paint and wallpaper stores,Total,2,D,D,b
+44413,Hardware stores,Total,6,12244,2868,132
+444130,Hardware stores,Total,6,12244,2868,132
+44419,Other building material dealers,Total,3,D,D,b
+444190,Other building material dealers,Total,3,D,D,b
+445,Food and beverage stores,Total,88,321357,43399,1759
+4451,Grocery stores,Total,63,286951,38948,1579
+44511,Supermarkets and other grocery (except convenience) stores,Total,35,266497,36592,1406
+445110,Supermarkets and other grocery (except convenience) stores,Total,35,266497,36592,1406
+44512,Convenience stores,Total,28,20454,2356,173
+445120,Convenience stores,Total,28,20454,2356,173
+4452,Specialty food stores,Total,12,8712,1604,87
+4453,"Beer, wine, and liquor stores",Total,13,25694,2847,93
+44531,"Beer, wine, and liquor stores",Total,13,25694,2847,93
+445310,"Beer, wine, and liquor stores",Total,13,25694,2847,93
+446,Health and personal care stores,Total,39,103391,13450,504
+4461,Health and personal care stores,Total,39,103391,13450,504
+44611,Pharmacies and drug stores,Total,12,78805,8549,329
+446110,Pharmacies and drug stores,Total,12,78805,8549,329
+44612,"Cosmetics, beauty supplies, and perfume stores",Total,7,5946,1063,62
+446120,"Cosmetics, beauty supplies, and perfume stores",Total,7,5946,1063,62
+44613,Optical goods stores,Total,13,8297,2047,71
+446130,Optical goods stores,Total,13,8297,2047,71
+44619,Other health and personal care stores,Total,7,10343,1791,42
+446191,Food (health) supplement stores,Total,5,D,D,b
+446199,All other health and personal care stores,Total,2,D,D,a
+447,Gasoline stations,Total,25,77411,1774,99
+4471,Gasoline stations,Total,25,77411,1774,99
+44711,Gasoline stations with convenience stores,Total,9,35134,954,55
+447110,Gasoline stations with convenience stores,Total,9,35134,954,55
+44719,Other gasoline stations,Total,16,42277,820,44
+447190,Other gasoline stations,Total,16,42277,820,44
+448,Clothing and clothing accessories stores,Total,115,212444,26801,1695
+4481,Clothing stores,Total,72,157250,19357,1338
+44811,Men's clothing stores,Total,4,5470,1203,34
+448110,Men's clothing stores,Total,4,5470,1203,34
+44812,Women's clothing stores,Total,28,45344,6001,344
+448120,Women's clothing stores,Total,28,45344,6001,344
+44813,Children's and infants' clothing stores,Total,4,5468,784,99
+448130,Children's and infants' clothing stores,Total,4,5468,784,99
+44814,Family clothing stores,Total,27,90099,10056,768
+448140,Family clothing stores,Total,27,90099,10056,768
+44815,Clothing accessories stores,Total,5,D,D,b
+448150,Clothing accessories stores,Total,5,D,D,b
+44819,Other clothing stores,Total,4,D,D,b
+448190,Other clothing stores,Total,4,D,D,b
+4482,Shoe stores,Total,25,30403,3652,211
+44821,Shoe stores,Total,25,30403,3652,211
+448210,Shoe stores,Total,25,30403,3652,211
+4482102,Women's shoe stores,Total,4,3750,738,34
+4482104,Family shoe stores,Total,13,14955,1534,100
+4482105,Athletic footwear stores,Total,8,11698,1380,77
+4483,"Jewelry, luggage, and leather goods stores",Total,18,24791,3792,146
+44831,Jewelry stores,Total,18,24791,3792,146
+448310,Jewelry stores,Total,18,24791,3792,146
+451,"Sporting goods, hobby, book, and music stores",Total,51,138050,12436,676
+4511,"Sporting goods, hobby, and musical instrument stores",Total,25,25862,3616,227
+45111,Sporting goods stores,Total,12,17206,2015,123
+451110,Sporting goods stores,Total,12,17206,2015,123
+4511101,General-line sporting goods stores,Total,5,10587,1112,78
+4511102,Specialty-line sporting goods stores,Total,7,6619,903,45
+45112,"Hobby, toy, and game stores",Total,9,6796,1251,81
+451120,"Hobby, toy, and game stores",Total,9,6796,1251,81
+45114,Musical instrument and supplies stores,Total,1,D,D,a
+451140,Musical instrument and supplies stores,Total,1,D,D,a
+4512,"Book, periodical, and music stores",Total,26,112188,8820,449
+45121,Book stores and news dealers,Total,22,D,D,e
+451211,Book stores,Total,16,101353,7809,389
+4512111,"Book stores, general",Total,7,D,D,c
+4512112,Specialty book stores,Total,2,D,D,a
+4512113,College book stores,Total,7,D,D,c
+451212,News dealers and newsstands,Total,6,D,D,b
+45122,"Prerecorded tape, compact disc, and record stores",Total,4,D,D,b
+451220,"Prerecorded tape, compact disc, and record stores",Total,4,D,D,b
+452,General merchandise stores,Total,6,48259,6026,312
+452111,Department stores (except discount department stores),Total,2,D,D,e
+453,Miscellaneous store retailers,Total,53,D,D,e
+4531,Florists,Total,8,4864,858,37
+45311,Florists,Total,8,4864,858,37
+453110,Florists,Total,8,4864,858,37
+4532,"Office supplies, stationery, and gift stores",Total,22,33225,4825,250
+45321,Office supplies and stationery stores,Total,9,21016,2729,118
+453210,Office supplies and stationery stores,Total,9,21016,2729,118
+45322,"Gift, novelty, and souvenir stores",Total,13,12209,2096,132
+453220,"Gift, novelty, and souvenir stores",Total,13,12209,2096,132
+4533,Used merchandise stores,Total,10,8037,1942,88
+45331,Used merchandise stores,Total,10,8037,1942,88
+453310,Used merchandise stores,Total,10,8037,1942,88
+4539,Other miscellaneous store retailers,Total,13,D,D,c
+45391,Pet and pet supplies stores,Total,2,D,D,b
+453910,Pet and pet supplies stores,Total,2,D,D,b
+45392,Art dealers,Total,2,D,D,a
+453920,Art dealers,Total,2,D,D,a
+45399,All other miscellaneous store retailers,Total,9,8699,1216,77
+454,Nonstore retailers,Total,25,49774,8733,188
+4541,Electronic shopping and mail-order houses,Total,10,27951,5430,99
+45411,Electronic shopping and mail-order houses,Total,10,27951,5430,99
+4543,Direct selling establishments,Total,15,21823,3303,89
+45431,Fuel dealers,Total,2,D,D,b
+454311,Heating oil dealers,Total,2,D,D,b
+45439,Other direct selling establishments,Total,13,D,D,b
+454390,Other direct selling establishments,Total,13,D,D,b
+51,Information,Total,192,N,821404,7261
+511,Publishing industries (except Internet),Total,75,2993453,560255,4859
+5111,"Newspaper, periodical, book, and directory publishers",Total,27,140856,27036,441
+51112,Periodical publishers,Total,15,54651,12191,169
+511120,Periodical publishers,Total,15,54651,12191,169
+51113,Book publishers,Total,8,84001,14231,258
+511130,Book publishers,Total,8,84001,14231,258
+5112,Software publishers,Total,48,2852597,533219,4418
+51121,Software publishers,Total,48,2852597,533219,4418
+511210,Software publishers,Total,48,2852597,533219,4418
+512,Motion picture and sound recording industries,Total,21,N,D,c
+5121,Motion picture and video industries,Total,18,N,D,c
+51213,Motion picture and video exhibition,Total,5,9163,1175,96
+512131,Motion picture theaters (except drive-ins),Total,5,9163,1175,96
+517,Telecommunications,Total,40,N,14523,363
+518,"Data processing, hosting and related services",Total,31,507814,226136,1570
+5182,"Data processing, hosting, and related services",Total,31,507814,226136,1570
+51821,"Data processing, hosting, and related services",Total,31,507814,226136,1570
+518210,"Data processing, hosting, and related services",Total,31,507814,226136,1570
+519,Other information services,Total,23,53416,16244,314
+5191,Other information services,Total,23,53416,16244,314
+51912,Libraries and archives,Total,2,D,D,b
+519120,Libraries and archives,Total,2,D,D,b
+51913,Internet publishing and broadcasting and web search portals,Total,20,49586,14172,278
+519130,Internet publishing and broadcasting and web search portals,Total,20,49586,14172,278
+53,Real estate and rental and leasing,Total,160,332529,44645,937
+531,Real estate,Total,134,255940,33777,630
+5311,Lessors of real estate,Total,54,178002,8170,174
+53111,Lessors of residential buildings and dwellings,Total,25,37339,3387,92
+531110,Lessors of residential buildings and dwellings,Total,25,37339,3387,92
+5311101,Lessors of apartment buildings,Total,22,36058,2943,81
+53112,Lessors of nonresidential buildings (except miniwarehouses),Total,26,139137,4455,75
+531120,Lessors of nonresidential buildings (except miniwarehouses),Total,26,139137,4455,75
+5311201,Lessors of professional and other office buildings,Total,21,135749,3881,65
+5312,Offices of real estate agents and brokers,Total,28,31858,4137,74
+53121,Offices of real estate agents and brokers,Total,28,31858,4137,74
+531210,Offices of real estate agents and brokers,Total,28,31858,4137,74
+5312101,Offices of residential real estate agents and brokers,Total,23,28387,2329,51
+5313,Activities related to real estate,Total,52,46080,21470,382
+53131,Real estate property managers,Total,44,35867,18363,341
+531311,Residential property managers,Total,27,18683,8517,185
+531312,Nonresidential property managers,Total,17,17184,9846,156
+532,Rental and leasing services,Total,26,76589,10868,307
+5322,Consumer goods rental,Total,14,7693,2825,115
+54,"Professional, scientific, and technical services",All establishments,856,6710421,2986927,28570
+54,"Professional, scientific, and technical services",Establishments subject to federal income tax,824,D,D,k
+54,"Professional, scientific, and technical services",Establishments exempt from federal income tax,32,D,D,g
+541,"Professional, scientific, and technical services",All establishments,856,6710421,2986927,28570
+541,"Professional, scientific, and technical services",Establishments subject to federal income tax,824,D,D,k
+541,"Professional, scientific, and technical services",Establishments exempt from federal income tax,32,D,D,g
+5411,Legal services,All establishments,81,D,D,e
+5411,Legal services,Establishments subject to federal income tax,79,D,D,e
+54111,Offices of lawyers,All establishments,80,D,D,e
+54111,Offices of lawyers,Establishments subject to federal income tax,78,D,D,e
+541110,Offices of lawyers,All establishments,80,D,D,e
+541110,Offices of lawyers,Establishments subject to federal income tax,78,D,D,e
+5411101,Offices of lawyers,All establishments,78,D,D,e
+5411101,Offices of lawyers,Establishments subject to federal income tax,78,D,D,e
+5412,"Accounting, tax preparation, bookkeeping, and payroll services",All establishments,19,36659,16415,342
+5412,"Accounting, tax preparation, bookkeeping, and payroll services",Establishments subject to federal income tax,19,36659,16415,342
+54121,"Accounting, tax preparation, bookkeeping, and payroll services",All establishments,19,36659,16415,342
+54121,"Accounting, tax preparation, bookkeeping, and payroll services",Establishments subject to federal income tax,19,36659,16415,342
+541211,Offices of certified public accountants,All establishments,7,D,D,c
+541211,Offices of certified public accountants,Establishments subject to federal income tax,7,D,D,c
+541213,Tax preparation services,All establishments,9,D,D,c
+541213,Tax preparation services,Establishments subject to federal income tax,9,D,D,c
+5413,"Architectural, engineering, and related services",All establishments,135,1198126,745843,5615
+5413,"Architectural, engineering, and related services",Establishments subject to federal income tax,135,1198126,745843,5615
+54131,Architectural services,All establishments,76,229890,86699,1097
+54131,Architectural services,Establishments subject to federal income tax,76,229890,86699,1097
+541310,Architectural services,All establishments,76,229890,86699,1097
+541310,Architectural services,Establishments subject to federal income tax,76,229890,86699,1097
+54132,Landscape architectural services,All establishments,9,14546,6481,102
+54132,Landscape architectural services,Establishments subject to federal income tax,9,14546,6481,102
+541320,Landscape architectural services,All establishments,9,14546,6481,102
+541320,Landscape architectural services,Establishments subject to federal income tax,9,14546,6481,102
+54133,Engineering services,All establishments,46,949904,650676,4375
+54133,Engineering services,Establishments subject to federal income tax,46,949904,650676,4375
+541330,Engineering services,All establishments,46,949904,650676,4375
+541330,Engineering services,Establishments subject to federal income tax,46,949904,650676,4375
+5414,Specialized design services,All establishments,37,40615,17588,209
+5414,Specialized design services,Establishments subject to federal income tax,37,40615,17588,209
+54141,Interior design services,All establishments,9,D,D,b
+54141,Interior design services,Establishments subject to federal income tax,9,D,D,b
+541410,Interior design services,All establishments,9,D,D,b
+541410,Interior design services,Establishments subject to federal income tax,9,D,D,b
+54142,Industrial design services,All establishments,6,10741,5233,65
+54142,Industrial design services,Establishments subject to federal income tax,6,10741,5233,65
+541420,Industrial design services,All establishments,6,10741,5233,65
+541420,Industrial design services,Establishments subject to federal income tax,6,10741,5233,65
+54143,Graphic design services,All establishments,21,21001,8964,96
+54143,Graphic design services,Establishments subject to federal income tax,21,21001,8964,96
+541430,Graphic design services,All establishments,21,21001,8964,96
+541430,Graphic design services,Establishments subject to federal income tax,21,21001,8964,96
+5415,Computer systems design and related services,All establishments,175,1061969,453100,6004
+5415,Computer systems design and related services,Establishments subject to federal income tax,175,1061969,453100,6004
+54151,Computer systems design and related services,All establishments,175,1061969,453100,6004
+54151,Computer systems design and related services,Establishments subject to federal income tax,175,1061969,453100,6004
+541511,Custom computer programming services,All establishments,112,733002,317772,4683
+541511,Custom computer programming services,Establishments subject to federal income tax,112,733002,317772,4683
+541512,Computer systems design services,All establishments,44,216910,76059,717
+541512,Computer systems design services,Establishments subject to federal income tax,44,216910,76059,717
+5415121,Computer systems integrators,All establishments,24,178596,55188,532
+5415121,Computer systems integrators,Establishments subject to federal income tax,24,178596,55188,532
+5415122,Computer systems consultants (except systems integrators),All establishments,20,38314,20871,185
+5415122,Computer systems consultants (except systems integrators),Establishments subject to federal income tax,20,38314,20871,185
+541519,Other computer related services,All establishments,16,D,D,f
+541519,Other computer related services,Establishments subject to federal income tax,16,D,D,f
+5416,"Management, scientific, and technical consulting services",All establishments,162,647763,238253,1994
+5416,"Management, scientific, and technical consulting services",Establishments subject to federal income tax,162,647763,238253,1994
+54161,Management consulting services,All establishments,132,536797,189054,1613
+54161,Management consulting services,Establishments subject to federal income tax,132,536797,189054,1613
+541611,Administrative management and general management consulting services,All establishments,85,271804,110330,893
+541611,Administrative management and general management consulting services,Establishments subject to federal income tax,85,271804,110330,893
+541612,Human resources consulting services,All establishments,11,D,D,b
+541612,Human resources consulting services,Establishments subject to federal income tax,11,D,D,b
+5416123,Human resources and personnel management consulting,All establishments,11,D,D,b
+5416123,Human resources and personnel management consulting,Establishments subject to federal income tax,11,D,D,b
+541613,Marketing consulting services,All establishments,30,226398,59565,512
+541613,Marketing consulting services,Establishments subject to federal income tax,30,226398,59565,512
+541614,"Process, physical distribution, and logistics consulting services",All establishments,5,D,D,c
+541614,"Process, physical distribution, and logistics consulting services",Establishments subject to federal income tax,5,D,D,c
+54162,Environmental consulting services,All establishments,6,D,D,c
+54162,Environmental consulting services,Establishments subject to federal income tax,6,D,D,c
+541620,Environmental consulting services,All establishments,6,D,D,c
+541620,Environmental consulting services,Establishments subject to federal income tax,6,D,D,c
+54169,Other scientific and technical consulting services,All establishments,24,D,D,e
+54169,Other scientific and technical consulting services,Establishments subject to federal income tax,24,D,D,e
+541690,Other scientific and technical consulting services,All establishments,24,D,D,e
+541690,Other scientific and technical consulting services,Establishments subject to federal income tax,24,D,D,e
+5416901,Economic and related consulting services,All establishments,12,72911,36228,199
+5416901,Economic and related consulting services,Establishments subject to federal income tax,12,72911,36228,199
+5416909,All other scientific and technical consulting services,All establishments,12,D,D,b
+5416909,All other scientific and technical consulting services,Establishments subject to federal income tax,12,D,D,b
+5417,Scientific research and development services,All establishments,174,D,D,j
+5417,Scientific research and development services,Establishments subject to federal income tax,144,D,D,j
+5417,Scientific research and development services,Establishments exempt from federal income tax,30,D,D,g
+54171,"Research and development in the physical, engineering, and life sciences",All establishments,151,3406183,1368362,12334
+54171,"Research and development in the physical, engineering, and life sciences",Establishments subject to federal income tax,133,D,D,j
+54171,"Research and development in the physical, engineering, and life sciences",Establishments exempt from federal income tax,18,D,D,g
+541711,Research and development in biotechnology,All establishments,70,1255866,685466,5242
+541711,Research and development in biotechnology,Establishments subject to federal income tax,69,D,D,i
+541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",All establishments,81,2150317,682896,7092
+541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",Establishments subject to federal income tax,64,D,D,i
+541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",Establishments exempt from federal income tax,17,D,D,g
+5417121,Research and development in the physical and engineering sciences,All establishments,36,646576,244696,2400
+5417121,Research and development in the physical and engineering sciences,Establishments subject to federal income tax,31,D,D,g
+5417121,Research and development in the physical and engineering sciences,Establishments exempt from federal income tax,5,D,D,g
+5417122,Research and development in other life sciences,All establishments,45,1503741,438200,4692
+5417122,Research and development in other life sciences,Establishments subject to federal income tax,33,D,D,h
+5417122,Research and development in other life sciences,Establishments exempt from federal income tax,12,D,D,f
+54172,Research and development in the social sciences and humanities,All establishments,23,D,D,g
+54172,Research and development in the social sciences and humanities,Establishments subject to federal income tax,11,D,D,f
+54172,Research and development in the social sciences and humanities,Establishments exempt from federal income tax,12,D,D,e
+541720,Research and development in the social sciences and humanities,All establishments,23,D,D,g
+541720,Research and development in the social sciences and humanities,Establishments subject to federal income tax,11,D,D,f
+541720,Research and development in the social sciences and humanities,Establishments exempt from federal income tax,12,D,D,e
+5418,"Advertising, public relations, and related services",All establishments,29,75698,38340,446
+5418,"Advertising, public relations, and related services",Establishments subject to federal income tax,29,75698,38340,446
+54181,Advertising agencies,All establishments,9,40975,18397,190
+54181,Advertising agencies,Establishments subject to federal income tax,9,40975,18397,190
+541810,Advertising agencies,All establishments,9,40975,18397,190
+541810,Advertising agencies,Establishments subject to federal income tax,9,40975,18397,190
+54182,Public relations agencies,All establishments,13,32102,18372,233
+54182,Public relations agencies,Establishments subject to federal income tax,13,32102,18372,233
+541820,Public relations agencies,All establishments,13,32102,18372,233
+541820,Public relations agencies,Establishments subject to federal income tax,13,32102,18372,233
+54189,Other services related to advertising,All establishments,5,D,D,b
+54189,Other services related to advertising,Establishments subject to federal income tax,5,D,D,b
+541890,Other services related to advertising,All establishments,5,D,D,b
+541890,Other services related to advertising,Establishments subject to federal income tax,5,D,D,b
+5419,"Other professional, scientific, and technical services",All establishments,44,D,D,c
+5419,"Other professional, scientific, and technical services",Establishments subject to federal income tax,44,D,D,c
+54191,Marketing research and public opinion polling,All establishments,15,18872,7385,100
+54191,Marketing research and public opinion polling,Establishments subject to federal income tax,15,18872,7385,100
+541910,Marketing research and public opinion polling,All establishments,15,18872,7385,100
+541910,Marketing research and public opinion polling,Establishments subject to federal income tax,15,18872,7385,100
+54193,Translation and interpretation services,All establishments,4,D,D,b
+54193,Translation and interpretation services,Establishments subject to federal income tax,4,D,D,b
+541930,Translation and interpretation services,All establishments,4,D,D,b
+541930,Translation and interpretation services,Establishments subject to federal income tax,4,D,D,b
+56,Administrative and support and waste management and remediation services,Total,139,232072,105563,2728
+561,Administrative and support services,Total,136,D,D,h
+5611,Office administrative services,Total,20,41726,23277,416
+56111,Office administrative services,Total,20,41726,23277,416
+561110,Office administrative services,Total,20,41726,23277,416
+5613,Employment services,Total,19,23541,15209,493
+56131,Employment placement agencies and executive search services,Total,9,D,D,b
+561312,Executive search services,Total,7,D,D,b
+5614,Business support services,Total,15,21832,5842,272
+56142,Telephone call centers,Total,2,D,D,c
+56143,Business service centers,Total,8,D,D,b
+561439,Other business service centers (including copy shops),Total,8,D,D,b
+5615,Travel arrangement and reservation services,Total,31,85572,35423,797
+56151,Travel agencies,Total,25,D,D,c
+561510,Travel agencies,Total,25,D,D,c
+56152,Tour operators,Total,3,D,D,f
+561520,Tour operators,Total,3,D,D,f
+5616,Investigation and security services,Total,4,D,D,c
+56161,"Investigation, guard, and armored car services",Total,4,D,D,c
+5617,Services to buildings and dwellings,Total,29,22794,11238,433
+56172,Janitorial services,Total,14,9935,5253,294
+561720,Janitorial services,Total,14,9935,5253,294
+56173,Landscaping services,Total,12,D,D,c
+561730,Landscaping services,Total,12,D,D,c
+5619,Other support services,Total,9,D,D,b
+56199,All other support services,Total,6,D,D,b
+561990,All other support services,Total,6,D,D,b
+5619903,Economic or industrial planning or development organization,Total,4,D,D,b
+562,Waste management and remediation services,Total,3,D,D,b
+61,Educational services,All establishments,69,103566,27871,674
+61,Educational services,Establishments subject to federal income tax,39,44542,11461,286
+61,Educational services,Establishments exempt from federal income tax,30,59024,16410,388
+611,Educational services,All establishments,69,103566,27871,674
+611,Educational services,Establishments subject to federal income tax,39,44542,11461,286
+611,Educational services,Establishments exempt from federal income tax,30,59024,16410,388
+6114,Business schools and computer and management training,All establishments,16,42697,10545,131
+6114,Business schools and computer and management training,Establishments subject to federal income tax,11,D,D,b
+6114,Business schools and computer and management training,Establishments exempt from federal income tax,5,D,D,b
+61143,Professional and management development training,All establishments,12,40824,9737,102
+61143,Professional and management development training,Establishments subject to federal income tax,8,D,D,b
+61143,Professional and management development training,Establishments exempt from federal income tax,4,D,D,b
+611430,Professional and management development training,All establishments,12,40824,9737,102
+611430,Professional and management development training,Establishments subject to federal income tax,8,D,D,b
+611430,Professional and management development training,Establishments exempt from federal income tax,4,D,D,b
+6115,Technical and trade schools,All establishments,8,5745,1856,58
+6115,Technical and trade schools,Establishments subject to federal income tax,6,D,D,b
+61151,Technical and trade schools,All establishments,8,5745,1856,58
+61151,Technical and trade schools,Establishments subject to federal income tax,6,D,D,b
+611511,Cosmetology and barber schools,All establishments,1,D,D,a
+611511,Cosmetology and barber schools,Establishments subject to federal income tax,1,D,D,a
+6116,Other schools and instruction,All establishments,33,31997,10245,369
+6116,Other schools and instruction,Establishments subject to federal income tax,19,D,D,c
+6116,Other schools and instruction,Establishments exempt from federal income tax,14,D,D,c
+61161,Fine arts schools,All establishments,7,D,D,b
+61161,Fine arts schools,Establishments exempt from federal income tax,3,D,D,b
+611610,Fine arts schools,All establishments,7,D,D,b
+611610,Fine arts schools,Establishments exempt from federal income tax,3,D,D,b
+6116102,"Art, drama, and music schools",All establishments,5,D,D,b
+6116102,"Art, drama, and music schools",Establishments exempt from federal income tax,3,D,D,b
+61162,Sports and recreation instruction,All establishments,8,5674,1986,70
+61162,Sports and recreation instruction,Establishments subject to federal income tax,6,D,D,b
+611620,Sports and recreation instruction,All establishments,8,5674,1986,70
+611620,Sports and recreation instruction,Establishments subject to federal income tax,6,D,D,b
+61163,Language schools,All establishments,3,D,D,b
+61163,Language schools,Establishments subject to federal income tax,2,D,D,b
+611630,Language schools,All establishments,3,D,D,b
+611630,Language schools,Establishments subject to federal income tax,2,D,D,b
+61169,All other schools and instruction,All establishments,15,D,D,c
+61169,All other schools and instruction,Establishments subject to federal income tax,7,D,D,b
+61169,All other schools and instruction,Establishments exempt from federal income tax,8,D,D,c
+611691,Exam preparation and tutoring,All establishments,9,D,D,c
+611691,Exam preparation and tutoring,Establishments subject to federal income tax,4,D,D,b
+611691,Exam preparation and tutoring,Establishments exempt from federal income tax,5,D,D,b
+611699,All other miscellaneous schools and instruction,All establishments,6,D,D,b
+611699,All other miscellaneous schools and instruction,Establishments exempt from federal income tax,3,D,D,b
+6117,Educational support services,All establishments,12,23127,5225,116
+6117,Educational support services,Establishments exempt from federal income tax,9,22235,4809,102
+61171,Educational support services,All establishments,12,23127,5225,116
+61171,Educational support services,Establishments exempt from federal income tax,9,22235,4809,102
+611710,Educational support services,All establishments,12,23127,5225,116
+611710,Educational support services,Establishments exempt from federal income tax,9,22235,4809,102
+62,Health care and social assistance,All establishments,336,1176819,502341,10208
+62,Health care and social assistance,Establishments subject to federal income tax,214,510254,195305,3195
+62,Health care and social assistance,Establishments exempt from federal income tax,122,666565,307036,7013
+621,Ambulatory health care services,All establishments,211,503057,194763,2811
+621,Ambulatory health care services,Establishments subject to federal income tax,199,D,D,h
+621,Ambulatory health care services,Establishments exempt from federal income tax,12,D,D,c
+6211,Offices of physicians,All establishments,82,144950,63508,810
+6211,Offices of physicians,Establishments subject to federal income tax,82,144950,63508,810
+62111,Offices of physicians,All establishments,82,144950,63508,810
+62111,Offices of physicians,Establishments subject to federal income tax,82,144950,63508,810
+621111,Offices of physicians (except mental health specialists),All establishments,72,139032,61175,764
+621111,Offices of physicians (except mental health specialists),Establishments subject to federal income tax,72,139032,61175,764
+621112,"Offices of physicians, mental health specialists",All establishments,10,5918,2333,46
+621112,"Offices of physicians, mental health specialists",Establishments subject to federal income tax,10,5918,2333,46
+6212,Offices of dentists,All establishments,52,40154,16587,301
+6212,Offices of dentists,Establishments subject to federal income tax,52,40154,16587,301
+62121,Offices of dentists,All establishments,52,40154,16587,301
+62121,Offices of dentists,Establishments subject to federal income tax,52,40154,16587,301
+621210,Offices of dentists,All establishments,52,40154,16587,301
+621210,Offices of dentists,Establishments subject to federal income tax,52,40154,16587,301
+6213,Offices of other health practitioners,All establishments,42,14620,5136,164
+6213,Offices of other health practitioners,Establishments subject to federal income tax,42,14620,5136,164
+62131,Offices of chiropractors,All establishments,10,2626,694,23
+62131,Offices of chiropractors,Establishments subject to federal income tax,10,2626,694,23
+621310,Offices of chiropractors,All establishments,10,2626,694,23
+621310,Offices of chiropractors,Establishments subject to federal income tax,10,2626,694,23
+62133,Offices of mental health practitioners (except physicians),All establishments,14,6486,2298,58
+62133,Offices of mental health practitioners (except physicians),Establishments subject to federal income tax,14,6486,2298,58
+621330,Offices of mental health practitioners (except physicians),All establishments,14,6486,2298,58
+621330,Offices of mental health practitioners (except physicians),Establishments subject to federal income tax,14,6486,2298,58
+62139,Offices of all other health practitioners,All establishments,9,2346,756,46
+62139,Offices of all other health practitioners,Establishments subject to federal income tax,9,2346,756,46
+6214,Outpatient care centers,All establishments,15,19613,10408,185
+6214,Outpatient care centers,Establishments exempt from federal income tax,11,D,D,c
+62141,Family planning centers,All establishments,3,D,D,b
+62141,Family planning centers,Establishments exempt from federal income tax,2,D,D,b
+621410,Family planning centers,All establishments,3,D,D,b
+621410,Family planning centers,Establishments exempt from federal income tax,2,D,D,b
+6215,Medical and diagnostic laboratories,All establishments,11,D,D,g
+6215,Medical and diagnostic laboratories,Establishments subject to federal income tax,11,D,D,g
+62151,Medical and diagnostic laboratories,All establishments,11,D,D,g
+62151,Medical and diagnostic laboratories,Establishments subject to federal income tax,11,D,D,g
+621511,Medical laboratories,All establishments,8,D,D,g
+621511,Medical laboratories,Establishments subject to federal income tax,8,D,D,g
+6219,Other ambulatory health care services,All establishments,4,D,D,e
+6219,Other ambulatory health care services,Establishments subject to federal income tax,4,D,D,e
+62191,Ambulance services,All establishments,1,D,D,b
+62191,Ambulance services,Establishments subject to federal income tax,1,D,D,b
+621910,Ambulance services,All establishments,1,D,D,b
+621910,Ambulance services,Establishments subject to federal income tax,1,D,D,b
+62199,All other ambulatory health care services,All establishments,3,D,D,e
+62199,All other ambulatory health care services,Establishments subject to federal income tax,3,D,D,e
+621991,Blood and organ banks,All establishments,3,D,D,e
+621991,Blood and organ banks,Establishments subject to federal income tax,3,D,D,e
+622,Hospitals,All establishments,4,503865,233241,4492
+622,Hospitals,Establishments exempt from federal income tax,4,503865,233241,4492
+6221,General medical and surgical hospitals,All establishments,2,D,D,h
+6221,General medical and surgical hospitals,Establishments exempt from federal income tax,2,D,D,h
+62211,General medical and surgical hospitals,All establishments,2,D,D,h
+62211,General medical and surgical hospitals,Establishments exempt from federal income tax,2,D,D,h
+622110,General medical and surgical hospitals,All establishments,2,D,D,h
+622110,General medical and surgical hospitals,Establishments exempt from federal income tax,2,D,D,h
+6223,Specialty (except psychiatric and substance abuse) hospitals,All establishments,2,D,D,f
+6223,Specialty (except psychiatric and substance abuse) hospitals,Establishments exempt from federal income tax,2,D,D,f
+62231,Specialty (except psychiatric and substance abuse) hospitals,All establishments,2,D,D,f
+62231,Specialty (except psychiatric and substance abuse) hospitals,Establishments exempt from federal income tax,2,D,D,f
+622310,Specialty (except psychiatric and substance abuse) hospitals,All establishments,2,D,D,f
+622310,Specialty (except psychiatric and substance abuse) hospitals,Establishments exempt from federal income tax,2,D,D,f
+623,Nursing and residential care facilities,All establishments,28,59951,29843,1033
+623,Nursing and residential care facilities,Establishments subject to federal income tax,4,D,D,c
+623,Nursing and residential care facilities,Establishments exempt from federal income tax,24,D,D,f
+6231,Nursing care facilities,All establishments,4,D,D,e
+6231,Nursing care facilities,Establishments exempt from federal income tax,3,D,D,e
+62311,Nursing care facilities,All establishments,4,D,D,e
+62311,Nursing care facilities,Establishments exempt from federal income tax,3,D,D,e
+623110,Nursing care facilities,All establishments,4,D,D,e
+623110,Nursing care facilities,Establishments exempt from federal income tax,3,D,D,e
+6232,"Residential mental retardation, mental health and substance abuse facilities",All establishments,19,D,D,e
+6232,"Residential mental retardation, mental health and substance abuse facilities",Establishments exempt from federal income tax,18,D,D,e
+62321,Residential mental retardation facilities,All establishments,5,D,D,c
+62321,Residential mental retardation facilities,Establishments exempt from federal income tax,4,D,D,c
+623210,Residential mental retardation facilities,All establishments,5,D,D,c
+623210,Residential mental retardation facilities,Establishments exempt from federal income tax,4,D,D,c
+62322,Residential mental health and substance abuse facilities,All establishments,14,D,D,b
+62322,Residential mental health and substance abuse facilities,Establishments exempt from federal income tax,14,D,D,b
+623220,Residential mental health and substance abuse facilities,All establishments,14,D,D,b
+623220,Residential mental health and substance abuse facilities,Establishments exempt from federal income tax,14,D,D,b
+6233,Community care facilities for the elderly,All establishments,5,15612,5394,211
+6233,Community care facilities for the elderly,Establishments subject to federal income tax,2,D,D,c
+6233,Community care facilities for the elderly,Establishments exempt from federal income tax,3,D,D,c
+62331,Community care facilities for the elderly,All establishments,5,15612,5394,211
+62331,Community care facilities for the elderly,Establishments subject to federal income tax,2,D,D,c
+62331,Community care facilities for the elderly,Establishments exempt from federal income tax,3,D,D,c
+623312,Homes for the elderly,All establishments,4,D,D,c
+623312,Homes for the elderly,Establishments subject to federal income tax,2,D,D,c
+623312,Homes for the elderly,Establishments exempt from federal income tax,2,D,D,b
+624,Social assistance,All establishments,93,109946,44494,1872
+624,Social assistance,Establishments subject to federal income tax,11,11291,4704,347
+624,Social assistance,Establishments exempt from federal income tax,82,98655,39790,1525
+6241,Individual and family services,All establishments,40,D,D,f
+6241,Individual and family services,Establishments exempt from federal income tax,38,39371,18526,867
+62411,Child and youth services,All establishments,10,D,D,c
+62411,Child and youth services,Establishments exempt from federal income tax,9,D,D,c
+624110,Child and youth services,All establishments,10,D,D,c
+624110,Child and youth services,Establishments exempt from federal income tax,9,D,D,c
+62412,Services for the elderly and persons with disabilities,All establishments,6,6079,4107,263
+62412,Services for the elderly and persons with disabilities,Establishments exempt from federal income tax,6,6079,4107,263
+624120,Services for the elderly and persons with disabilities,All establishments,6,6079,4107,263
+624120,Services for the elderly and persons with disabilities,Establishments exempt from federal income tax,6,6079,4107,263
+62419,Other individual and family services,All establishments,24,27680,11650,427
+62419,Other individual and family services,Establishments exempt from federal income tax,23,D,D,e
+624190,Other individual and family services,All establishments,24,27680,11650,427
+624190,Other individual and family services,Establishments exempt from federal income tax,23,D,D,e
+6242,"Community food and housing, and emergency and other relief services",All establishments,14,38092,10434,270
+6242,"Community food and housing, and emergency and other relief services",Establishments exempt from federal income tax,14,38092,10434,270
+62422,Community housing services,All establishments,9,D,D,c
+62422,Community housing services,Establishments exempt from federal income tax,9,D,D,c
+624229,Other community housing services,All establishments,5,12426,4737,102
+624229,Other community housing services,Establishments exempt from federal income tax,5,12426,4737,102
+62423,Emergency and other relief services,All establishments,3,D,D,c
+62423,Emergency and other relief services,Establishments exempt from federal income tax,3,D,D,c
+624230,Emergency and other relief services,All establishments,3,D,D,c
+624230,Emergency and other relief services,Establishments exempt from federal income tax,3,D,D,c
+6243,Vocational rehabilitation services,All establishments,4,D,D,a
+6243,Vocational rehabilitation services,Establishments exempt from federal income tax,4,D,D,a
+62431,Vocational rehabilitation services,All establishments,4,D,D,a
+62431,Vocational rehabilitation services,Establishments exempt from federal income tax,4,D,D,a
+624310,Vocational rehabilitation services,All establishments,4,D,D,a
+624310,Vocational rehabilitation services,Establishments exempt from federal income tax,4,D,D,a
+6244,Child day care services,All establishments,35,26665,14541,712
+6244,Child day care services,Establishments subject to federal income tax,9,D,D,e
+6244,Child day care services,Establishments exempt from federal income tax,26,D,D,e
+62441,Child day care services,All establishments,35,26665,14541,712
+62441,Child day care services,Establishments subject to federal income tax,9,D,D,e
+62441,Child day care services,Establishments exempt from federal income tax,26,D,D,e
+624410,Child day care services,All establishments,35,26665,14541,712
+624410,Child day care services,Establishments subject to federal income tax,9,D,D,e
+624410,Child day care services,Establishments exempt from federal income tax,26,D,D,e
+71,"Arts, entertainment, and recreation",All establishments,68,147428,23513,760
+71,"Arts, entertainment, and recreation",Establishments subject to federal income tax,50,133421,20668,651
+71,"Arts, entertainment, and recreation",Establishments exempt from federal income tax,18,14007,2845,109
+711,"Performing arts, spectator sports, and related industries",All establishments,46,122137,14983,318
+711,"Performing arts, spectator sports, and related industries",Establishments subject to federal income tax,32,109133,12477,224
+711,"Performing arts, spectator sports, and related industries",Establishments exempt from federal income tax,14,13004,2506,94
+7111,Performing arts companies,All establishments,17,26955,5392,105
+7111,Performing arts companies,Establishments subject to federal income tax,7,D,D,b
+7111,Performing arts companies,Establishments exempt from federal income tax,10,D,D,b
+71111,Theater companies and dinner theaters,All establishments,4,D,D,b
+71111,Theater companies and dinner theaters,Establishments exempt from federal income tax,4,D,D,b
+711110,Theater companies and dinner theaters,All establishments,4,D,D,b
+711110,Theater companies and dinner theaters,Establishments exempt from federal income tax,4,D,D,b
+7111102,Theater companies,All establishments,4,D,D,b
+7111102,Theater companies,Establishments exempt from federal income tax,4,D,D,b
+71113,Musical groups and artists,All establishments,12,20332,4398,55
+71113,Musical groups and artists,Establishments subject to federal income tax,7,D,D,b
+71113,Musical groups and artists,Establishments exempt from federal income tax,5,D,D,a
+711130,Musical groups and artists,All establishments,12,20332,4398,55
+711130,Musical groups and artists,Establishments subject to federal income tax,7,D,D,b
+711130,Musical groups and artists,Establishments exempt from federal income tax,5,D,D,a
+7111309,Other music groups and artists,All establishments,9,D,D,b
+7111309,Other music groups and artists,Establishments subject to federal income tax,7,D,D,b
+7113,"Promoters of performing arts, sports, and similar events",All establishments,11,D,D,c
+7113,"Promoters of performing arts, sports, and similar events",Establishments subject to federal income tax,7,D,D,c
+71131,"Promoters of performing arts, sports, and similar events with facilities",All establishments,8,D,D,c
+71131,"Promoters of performing arts, sports, and similar events with facilities",Establishments subject to federal income tax,5,D,D,c
+711310,"Promoters of performing arts, sports, and similar events with facilities",All establishments,8,D,D,c
+711310,"Promoters of performing arts, sports, and similar events with facilities",Establishments subject to federal income tax,5,D,D,c
+7114,"Agents and managers for artists, athletes, entertainers, and other public figures",All establishments,6,D,D,b
+7114,"Agents and managers for artists, athletes, entertainers, and other public figures",Establishments subject to federal income tax,6,D,D,b
+71141,"Agents and managers for artists, athletes, entertainers, and other public figures",All establishments,6,D,D,b
+71141,"Agents and managers for artists, athletes, entertainers, and other public figures",Establishments subject to federal income tax,6,D,D,b
+711410,"Agents and managers for artists, athletes, entertainers, and other public figures",All establishments,6,D,D,b
+711410,"Agents and managers for artists, athletes, entertainers, and other public figures",Establishments subject to federal income tax,6,D,D,b
+7115,"Independent artists, writers, and performers",All establishments,12,9632,1093,37
+7115,"Independent artists, writers, and performers",Establishments subject to federal income tax,12,9632,1093,37
+71151,"Independent artists, writers, and performers",All establishments,12,9632,1093,37
+71151,"Independent artists, writers, and performers",Establishments subject to federal income tax,12,9632,1093,37
+711510,"Independent artists, writers, and performers",All establishments,12,9632,1093,37
+711510,"Independent artists, writers, and performers",Establishments subject to federal income tax,12,9632,1093,37
+713,"Amusement, gambling, and recreation industries",All establishments,20,D,D,e
+713,"Amusement, gambling, and recreation industries",Establishments subject to federal income tax,18,24288,8191,427
+7139,Other amusement and recreation industries,All establishments,20,D,D,e
+7139,Other amusement and recreation industries,Establishments subject to federal income tax,18,24288,8191,427
+71394,Fitness and recreational sports centers,All establishments,14,21667,7228,410
+71394,Fitness and recreational sports centers,Establishments subject to federal income tax,14,21667,7228,410
+713940,Fitness and recreational sports centers,All establishments,14,21667,7228,410
+713940,Fitness and recreational sports centers,Establishments subject to federal income tax,14,21667,7228,410
+7139409,Other fitness and recreational sports centers,All establishments,13,D,D,e
+7139409,Other fitness and recreational sports centers,Establishments subject to federal income tax,13,D,D,e
+72,Accommodation and food services,Total,398,594920,172798,8044
+721,Accommodation,Total,22,246555,66165,1942
+7211,Traveler accommodation,Total,20,D,D,g
+72111,Hotels (except casino hotels) and motels,Total,14,241971,64944,1890
+721110,Hotels (except casino hotels) and motels,Total,14,241971,64944,1890
+72119,Other traveler accommodation,Total,6,D,D,b
+7213,Rooming and boarding houses,Total,2,D,D,a
+72131,Rooming and boarding houses,Total,2,D,D,a
+721310,Rooming and boarding houses,Total,2,D,D,a
+722,Food services and drinking places,Total,376,348365,106633,6102
+7221,Full-service restaurants,Total,166,201257,67129,3720
+72211,Full-service restaurants,Total,166,201257,67129,3720
+722110,Full-service restaurants,Total,166,201257,67129,3720
+7222,Limited-service eating places,Total,141,92754,23101,1602
+72221,Limited-service eating places,Total,141,92754,23101,1602
+722211,Limited-service restaurants,Total,87,D,D,f
+722213,Snack and nonalcoholic beverage bars,Total,53,48850,11850,842
+7223,Special food services,Total,53,43960,13545,517
+72231,Food service contractors,Total,46,39806,12243,459
+722310,Food service contractors,Total,46,39806,12243,459
+72232,Caterers,Total,6,D,D,b
+722320,Caterers,Total,6,D,D,b
+7224,Drinking places (alcoholic beverages),Total,16,10394,2858,263
+72241,Drinking places (alcoholic beverages),Total,16,10394,2858,263
+722410,Drinking places (alcoholic beverages),Total,16,10394,2858,263
+81,Other services (except public administration),All establishments,262,313544,76735,1953
+81,Other services (except public administration),Establishments subject to federal income tax,147,103960,29384,1114
+81,Other services (except public administration),Establishments exempt from federal income tax,115,209584,47351,839
+811,Repair and maintenance,All establishments,39,26259,7609,227
+811,Repair and maintenance,Establishments subject to federal income tax,39,26259,7609,227
+8111,Automotive repair and maintenance,All establishments,32,22938,6595,197
+8111,Automotive repair and maintenance,Establishments subject to federal income tax,32,22938,6595,197
+81111,Automotive mechanical and electrical repair and maintenance,All establishments,19,11327,3063,98
+81111,Automotive mechanical and electrical repair and maintenance,Establishments subject to federal income tax,19,11327,3063,98
+811111,General automotive repair,All establishments,18,D,D,b
+811111,General automotive repair,Establishments subject to federal income tax,18,D,D,b
+81112,"Automotive body, paint, interior, and glass repair",All establishments,9,D,D,b
+81112,"Automotive body, paint, interior, and glass repair",Establishments subject to federal income tax,9,D,D,b
+811121,"Automotive body, paint, and interior repair and maintenance",All establishments,7,7672,2441,51
+811121,"Automotive body, paint, and interior repair and maintenance",Establishments subject to federal income tax,7,7672,2441,51
+8111211,Paint or body repair,All establishments,7,7672,2441,51
+8111211,Paint or body repair,Establishments subject to federal income tax,7,7672,2441,51
+81119,Other automotive repair and maintenance,All establishments,4,D,D,b
+81119,Other automotive repair and maintenance,Establishments subject to federal income tax,4,D,D,b
+8114,Personal and household goods repair and maintenance,All establishments,3,D,D,a
+8114,Personal and household goods repair and maintenance,Establishments subject to federal income tax,3,D,D,a
+812,Personal and laundry services,All establishments,108,77701,21775,887
+812,Personal and laundry services,Establishments subject to federal income tax,108,77701,21775,887
+8121,Personal care services,All establishments,47,21947,10005,438
+8121,Personal care services,Establishments subject to federal income tax,47,21947,10005,438
+81211,"Hair, nail, and skin care services",All establishments,40,19279,9488,395
+81211,"Hair, nail, and skin care services",Establishments subject to federal income tax,40,19279,9488,395
+812111,Barber shops,All establishments,5,D,D,b
+812111,Barber shops,Establishments subject to federal income tax,5,D,D,b
+812112,Beauty salons,All establishments,34,17731,8830,374
+812112,Beauty salons,Establishments subject to federal income tax,34,17731,8830,374
+81219,Other personal care services,All establishments,7,2668,517,43
+81219,Other personal care services,Establishments subject to federal income tax,7,2668,517,43
+8122,Death care services,All establishments,5,D,D,a
+8122,Death care services,Establishments subject to federal income tax,5,D,D,a
+81221,Funeral homes and funeral services,All establishments,5,D,D,a
+81221,Funeral homes and funeral services,Establishments subject to federal income tax,5,D,D,a
+812210,Funeral homes and funeral services,All establishments,5,D,D,a
+812210,Funeral homes and funeral services,Establishments subject to federal income tax,5,D,D,a
+8123,Drycleaning and laundry services,All establishments,22,D,D,b
+8123,Drycleaning and laundry services,Establishments subject to federal income tax,22,D,D,b
+81232,Drycleaning and laundry services (except coin-operated),All establishments,19,D,D,b
+81232,Drycleaning and laundry services (except coin-operated),Establishments subject to federal income tax,19,D,D,b
+812320,Drycleaning and laundry services (except coin-operated),All establishments,19,D,D,b
+812320,Drycleaning and laundry services (except coin-operated),Establishments subject to federal income tax,19,D,D,b
+8123202,Drycleaning plants,All establishments,11,2843,571,27
+8123202,Drycleaning plants,Establishments subject to federal income tax,11,2843,571,27
+8123203,Garment pressing and agents for laundries,All establishments,8,D,D,b
+8123203,Garment pressing and agents for laundries,Establishments subject to federal income tax,8,D,D,b
+8129,Other personal services,All establishments,34,D,D,e
+8129,Other personal services,Establishments subject to federal income tax,34,D,D,e
+81293,Parking lots and garages,All establishments,28,30213,5416,277
+81293,Parking lots and garages,Establishments subject to federal income tax,28,30213,5416,277
+812930,Parking lots and garages,All establishments,28,30213,5416,277
+812930,Parking lots and garages,Establishments subject to federal income tax,28,30213,5416,277
+81299,All other personal services,All establishments,4,D,D,b
+81299,All other personal services,Establishments subject to federal income tax,4,D,D,b
+812990,All other personal services,All establishments,4,D,D,b
+812990,All other personal services,Establishments subject to federal income tax,4,D,D,b
+8129902,Dating services,All establishments,1,D,D,b
+8129902,Dating services,Establishments subject to federal income tax,1,D,D,b
+813,"Religious, grantmaking, civic, professional, and similar organizations",All establishments,115,209584,47351,839
+813,"Religious, grantmaking, civic, professional, and similar organizations",Establishments exempt from federal income tax,115,209584,47351,839

@@ -1,0 +1,18 @@
+Test Referenced,Entry Type,Mayo ID,Description,Reporting Description,Method,Collection Container,Temperature,Stability,Specimen Volume,Unit of Measure,Specimen Requirements,Minimum Volume,Reject Due To,Reference Values,Days/Times Performed,Analytic Time,Maximum Lab Time,CPT Units,CPT Code,LOINC® Code,LOINC® Attributes,Always Performed,Orderable Separately,Performing Location
+CIFS,Test,CIFS,"Cutaneous Immunofluorescence Antibodies (IgG), Serum","Cutaneous Immfluor. Ab, S (IgG)",Detection of IgG Anit-Intercellular Substance (ICS) and Anti-Basement Membrane Zone (BMZ) Antibodies by Indirect Immunofluorescence Technique Using Rhesus Monkey Esophagus Substrate and Human NaCl Split-Skin Substrate,Serum Gel Tube: SGT,,,2.0,mL,"Container/Tube: 
+Preferred: Red top 
+Acceptable: Serum gel
+Specimen Volume: 2 mL
+Forms: If not ordering electronically, submit a Dermatopathology/Immunodermatology Request Form (Supply T060) with the specimen.",0.5 mL,"Hemolysis	Mild OK; Gross reject
+Thawing	Warm OK; Cold OK
+Lipemia	Mild reject; Gross reject
+Icterus	Mild OK; Gross reject
+Other	NA","Report includes presence and titer of circulating antibodies. If serum contains BMZ antibodies on split-skin substrate, patterns will be reported as: 1) epidermal pattern, consistent with pemphigoid or 2) dermal pattern, consistent with epidermolysis bullosa acquisita.
+ 
+Negative in normal individuals. See Results of IF Testing* in Cutaneous Immunofluorescence Testing in Special Instructions.",Monday through Friday; 7 a.m.-5 p.m.,2 days/7 days-Herpes (pemphigoid) gestationis or paraneoplastic pemphigus,7 days*,2.0,86255.0,,,,,Rochester
+CIFS,Specimen,SERUM,Serum,,,,Refrigerated,,,,,,,,,,,,,,,,,
+CIFS,Result,21539.0,Cell Surface Ab IgG,Cell Surface Ab IgG,Alphanumeric,,,,,,,,,,,,,,,In Process,,,,
+CIFS,Result,21540.0,Basement Membrane IgG,Basement Membrane IgG,Alphanumeric,,,,,,,,,,,,,,,29994-1,,,,
+CIFS,Result,21541.0,Monkey Esophagus IgG,Monkey Esophagus IgG,Alphanumeric,,,,,,,,,,,,,,,In Process,,,,
+CIFS,Result,21542.0,Human Split Skin IgG,Human Split Skin IgG,Alphanumeric,,,,,,,,,,,,,,,45178-1,,,,
+CIFS,Result,21638.0,Other,Other,Alphanumeric,,,,,,,,,,,,,,,In Process,,,,

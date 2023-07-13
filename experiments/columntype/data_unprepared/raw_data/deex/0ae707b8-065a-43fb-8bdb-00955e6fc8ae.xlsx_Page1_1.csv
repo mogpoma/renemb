@@ -1,0 +1,9 @@
+,,,Colorado Department of Education,,,Page: 1,
+,,,Business Rules,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+School Year:,2012-13,Dataset:,11th Grade Alt Assessment,File Type:,Demographics,,
+Data Element Name,Error/Warning Code,Error Type,Message,Status,Tier,Last Updated User,Last Updated Date
+TEST_SCORE_STATUS,E10,Error,Invalid Test score status,Active,1,System,2012-12-14 12:48:44.999424

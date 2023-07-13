@@ -1,0 +1,64 @@
+Table 1338. Meat Production by Type and Country,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+See notes,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Country,FIPS CODE,"Beef and veal \1 (1,000 metric tons)",,,,,Country,"Pork (1,000 metric tons)",,,,,Country,"Broiler meat \2 (1,000 metric tons)",,,
+,,,,,,,,,,,,,,,,,
+,,2005.0,2006.0,2007.0,"2008, preliminary",,,2005.0,2006.0,2007.0,"2008, preliminary",,,2005.0,2006.0,2007.0,"2008, preliminary"
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+World \3,,56679.0,58159.0,58898.0,58538.0,,World \3,94551.0,96156.0,94700.0,98441.0,,World \3,63041.0,64229.0,68187.0,71249.0
+United States,US,11318.0,11980.0,12096.0,12163.0,,China \4,45553.0,46505.0,42878.0,46150.0,,United States,15870.0,15930.0,16225.0,16561.0
+Brazil,BR,8592.0,9025.0,9303.0,9024.0,,European Union \5,21676.0,21791.0,22858.0,22530.0,,China \4,10200.0,10350.0,11291.0,11895.0
+European Union \5,EU,8090.0,8150.0,8188.0,8100.0,,United States,9392.0,9559.0,9962.0,10599.0,,Brazil,9350.0,9355.0,10305.0,11033.0
+China \4,CH,5681.0,5767.0,6134.0,6100.0,,Brazil,2710.0,2830.0,2990.0,3015.0,,European Union \5,8169.0,7740.0,8320.0,8560.0
+Argentina,AR,3200.0,3100.0,3300.0,3150.0,,Canada,1920.0,1898.0,1894.0,1920.0,,Mexico,2498.0,2592.0,2683.0,2804.0
+India,IN,2250.0,2375.0,2413.0,2470.0,,Russia,1735.0,1805.0,1910.0,2060.0,,India,1900.0,2000.0,2240.0,2490.0
+Mexico,MX,2125.0,2175.0,2207.0,2225.0,,Vietnam,1602.0,1713.0,1832.0,1850.0,,Japan,1166.0,1258.0,1250.0,1267.0
+Australia,AS,2102.0,2183.0,2172.0,2159.0,,Japan,1245.0,1247.0,1250.0,1249.0,,Argentina,1030.0,1200.0,1320.0,1420.0
+Russia,RS,1525.0,1430.0,1370.0,1315.0,,Mexico,1195.0,1108.0,1152.0,1160.0,,Russia,900.0,1180.0,1350.0,1600.0
+Canada,CA,1523.0,1391.0,1279.0,1285.0,,Philippines,1175.0,1215.0,1245.0,1190.0,,Iran,1237.0,1327.0,1423.0,1425.0
+Pakistan,PK,1005.0,1057.0,1089.0,1121.0,,"Korea, South",1036.0,1000.0,1043.0,1056.0,,South Africa,884.0,946.0,1005.0,1070.0
+New Zealand,NZ,(NA),(NA),(NA),(NA),,Taiwan \3,(NA),(NA),(NA),(NA),,Thailand,(NA),(NA),(NA),(NA)
+South Africa,SF,(NA),(NA),(NA),(NA),,Romania,(NA),(NA),(NA),(NA),,Canada,(NA),(NA),(NA),(NA)
+Uruguay,UY,(NA),(NA),(NA),(NA),,Ukraine,(NA),(NA),(NA),(NA),,Malaysia,(NA),(NA),(NA),(NA)
+Ukraine,UP,(NA),(NA),(NA),(NA),,Australia,(NA),(NA),(NA),(NA),,Australia,(NA),(NA),(NA),(NA)
+Egypt,EG,(NA),(NA),(NA),(NA),,Hong Kong,(NA),(NA),(NA),(NA),,Philippines,(NA),(NA),(NA),(NA)
+Japan,JA,(NA),(NA),(NA),(NA),,Bulgaria,(NA),(NA),(NA),(NA),,Indonesia,(NA),(NA),(NA),(NA)
+Philippines,RP,(NA),(NA),(NA),(NA),,Austria,(NA),(NA),(NA),(NA),,Taiwan \3,(NA),(NA),(NA),(NA)
+Romania,RO,(NA),(NA),(NA),(NA),,Belgium,(NA),(NA),(NA),(NA),,Saudi Arabia,(NA),(NA),(NA),(NA)
+"Korea, South",KS,(NA),(NA),(NA),(NA),,Czech Republic,(NA),(NA),(NA),(NA),,"Korea, South",(NA),(NA),(NA),(NA)
+Bulgaria,BU,(NA),(NA),(NA),(NA),,Denmark,(NA),(NA),(NA),(NA),,Venezuela,(NA),(NA),(NA),(NA)
+Hong Kong,HK,(NA),(NA),(NA),(NA),,France,(NA),(NA),(NA),(NA),,Ukraine,(NA),(NA),(NA),(NA)
+Taiwan \4,TW,(NA),(NA),(NA),(NA),,Germany,(NA),(NA),(NA),(NA),,Romania,(NA),(NA),(NA),(NA)
+Turkey,TU,(NA),(NA),(NA),(NA),,Hungary,(NA),(NA),(NA),(NA),,United Arab Emirates,(NA),(NA),(NA),(NA)
+Austria,AU,(NA),(NA),(NA),(NA),,Ireland,(NA),(NA),(NA),(NA),,Bulgaria,(NA),(NA),(NA),(NA)
+Belgium,BE,(NA),(NA),(NA),(NA),,Italy,(NA),(NA),(NA),(NA),,Colombia,(NA),(NA),(NA),(NA)
+Colombia,CO,(NA),(NA),(NA),(NA),,Netherlands,(NA),(NA),(NA),(NA),,Egypt,(NA),(NA),(NA),(NA)
+Costa Rica,CS,(NA),(NA),(NA),(NA),,Poland,(NA),(NA),(NA),(NA),,France,(NA),(NA),(NA),(NA)
+Czech Republic,EZ,(NA),(NA),(NA),(NA),,Portugal,(NA),(NA),(NA),(NA),,Germany,(NA),(NA),(NA),(NA)
+Denmark,DA,(NA),(NA),(NA),(NA),,Saudi Arabia,(NA),(NA),(NA),(NA),,Guatemala,(NA),(NA),(NA),(NA)
+Dominican Republic,DR,(NA),(NA),(NA),(NA),,Singapore,(NA),(NA),(NA),(NA),,Honduras,(NA),(NA),(NA),(NA)
+El Salvador,ES,(NA),(NA),(NA),(NA),,Spain,(NA),(NA),(NA),(NA),,Hong Kong,(NA),(NA),(NA),(NA)
+France,FR,(NA),(NA),(NA),(NA),,Sweden,(NA),(NA),(NA),(NA),,Hungary,(NA),(NA),(NA),(NA)
+Germany,GM,(NA),(NA),(NA),(NA),,United Kingdom,(NA),(NA),(NA),(NA),,Italy,(NA),(NA),(NA),(NA)
+Guatemala,GT,(NA),(NA),(NA),(NA),,Others,5312.0,5485.0,5686.0,5662.0,,Kuwait,(NA),(NA),(NA),(NA)
+Honduras,HO,(NA),(NA),(NA),(NA),,,,,,,,Netherlands,(NA),(NA),(NA),(NA)
+Ireland,EI,(NA),(NA),(NA),(NA),,,,,,,,Poland,(NA),(NA),(NA),(NA)
+Italy,IT,(NA),(NA),(NA),(NA),,,,,,,,Spain,(NA),(NA),(NA),(NA)
+Kazakhstan,KZ,(NA),(NA),(NA),(NA),,,,,,,,Turkey,(NA),(NA),(NA),(NA)
+Netherlands,NL,(NA),(NA),(NA),(NA),,,,,,,,United Kingdom,(NA),(NA),(NA),(NA)
+Nicaragua,NU,(NA),(NA),(NA),(NA),,,,,,,,Other,9837.0,10351.0,10775.0,11124.0
+Poland,PL,(NA),(NA),(NA),(NA),,,,,,,,,,,,
+Portugal,PO,(NA),(NA),(NA),(NA),,,,,,,,,,,,
+Saudi Arabia,SA,(NA),(NA),(NA),(NA),,,,,,,,,,,,
+Singapore,SN,(NA),(NA),(NA),(NA),,,,,,,,,,,,
+Spain,SP,(NA),(NA),(NA),(NA),,,,,,,,,,,,
+Sweden,SW,(NA),(NA),(NA),(NA),,,,,,,,,,,,
+United Kingdom,UK,(NA),(NA),(NA),(NA),,,,,,,,,,,,
+Venezuela,VE,(NA),(NA),(NA),(NA),,,,,,,,,,,,
+Others,,9268.0,9526.0,9347.0,9426.0,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Source:  U.S. Department of Agriculture, Foreign Agricultural Service, Livestock and Poultry:",,,,,,,,,,,,,,,,,
+"World Markets and Trade, annual.",,,,,,,,,,,,,,,,,

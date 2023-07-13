@@ -1,0 +1,2 @@
+rank,matrix name,transcription factor name,matrix information content,matrix gc content (G+C)%,location of identified binding sites (relative to TSS),p-value,
+1,V$NFY_01,NF-Y,12.7728840972,0.523544444998,- 172 : 11,3.76852219315e-15,

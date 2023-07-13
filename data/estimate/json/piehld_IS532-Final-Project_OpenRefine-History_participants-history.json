@@ -1,0 +1,86 @@
+[
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "participantLabel",
+          "expression": "value",
+          "columnName": "participantLabel",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Q16119447",
+                "l": "Q16119447"
+              }
+            },
+            {
+              "v": {
+                "v": "Q20411748",
+                "l": "Q20411748"
+              }
+            },
+            {
+              "v": {
+                "v": "Q20390543",
+                "l": "Q20390543"
+              }
+            },
+            {
+              "v": {
+                "v": "Q6854149",
+                "l": "Q6854149"
+              }
+            },
+            {
+              "v": {
+                "v": "Q16126787",
+                "l": "Q16126787"
+              }
+            },
+            {
+              "v": {
+                "v": "Q12228141",
+                "l": "Q12228141"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "inception",
+    "expression": "grel:chomp(value,\"T00:00:00Z\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column inception using expression grel:chomp(value,\"T00:00:00Z\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "dissolved",
+    "expression": "grel:chomp(value,\"T00:00:00Z\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column dissolved using expression grel:chomp(value,\"T00:00:00Z\")"
+  }
+]

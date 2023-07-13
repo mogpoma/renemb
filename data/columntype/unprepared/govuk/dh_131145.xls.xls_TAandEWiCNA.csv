@@ -1,0 +1,15 @@
+Back to Index,National Schedule of Reference Costs Year : 2010-11 - NHS Trusts Accident and Emergency Services: Walk In Centres: Not Leading to Admitted,,,,,
+Notes:,,,,,,
+1. National Average Unit Costs and Interquartile Ranges are weighted by activity.,,,,,,
+2. UZ01Z (Data invalid for grouping) and WD (Patients with a Mental Health Primary Diagnosis [treated by a Non-Specialist Mental Health Service Provider]) prefixed HRGs have been excluded from the Schedules.,,,,,,
+Currency Code,Currency Description,Activity,National Average Unit Cost,Lower Quartile Unit Cost,Upper Quartile Unit Cost,No. Data Submissions
+VB01Z,Any investigation with category 5 treatment,2,£46,£42,£50,2
+VB02Z,Category 3 investigation with category 4 treatment,14,£83,£50,£88,2
+VB03Z,Category 3 investigation with category 1-3 treatment,159,£121,£80,£147,5
+VB04Z,Category 2 investigation with category 4 treatment,"5,697",£51,£50,£50,4
+VB05Z,Category 2 investigation with category 3 treatment,729,£187,£147,£329,6
+VB06Z,Category 1 investigation with category 3-4 treatment,"86,839",£59,£59,£59,7
+VB07Z,Category 2 investigation with category 2 treatment,"110,436",£43,£40,£40,6
+VB08Z,Category 2 investigation with category 1 treatment,"78,477",£56,£42,£50,6
+VB09Z,Category 1 investigation with category 1-2 treatment,"40,795",£45,£32,£50,5
+VB10Z,Dental Care,5,£44,£38,£49,2

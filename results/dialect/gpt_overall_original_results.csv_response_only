@@ -1,0 +1,391 @@
+filename,response,prediction_time
+000ba0f06544818a09009c2ca28ff757.csv,"
+Delimiter: ;
+Quotation: ""
+Escape: None",0.01155004199999965
+0015995972b49ff788d6fd01d30816bd.csv,"
+Delimiter: Comma (,); Quotation: None; Escape: None",0.0037709770000020626
+0067f7405cd8db4dbcf17d4f7476cd1d.csv,"
+Delimiter: \t
+Quotation: ""
+Escape: None",0.013342888999996916
+0068b670293dfcaae0c9232a2e02ad25.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.0033765139999992755
+008ce940c57295c4394e6517bb893c18.csv,"
+Delimiter: ""
+Quotation: '
+Escape: \",0.1274757539999989
+00baa9133c76b183f86c21cb4b6be526.csv,"
+Delimiter: ',' 
+Quotation: None 
+Escape: None",0.003602476000001076
+00e2abe7b92ca6ce4369ceed2e13e607.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.0034745759999985637
+00f41377342a8249b3385f9452b09dd0.csv,"
+Delimiter: Tab
+Quotation: None
+Escape: None",0.0033928649999985794
+01173939de9922f6df842304e5b70796.csv,"
+Delimiter: \t (tab)
+Quotation: None
+Escape: None",0.007646023999999585
+0146cf5fd5f97e25fb6034d5434c8537.csv,"
+Delimiter: |
+Quotation: None
+Escape: None",0.002427949999997736
+014cf9725660f771dba66cd45af33ffe.csv," ;, "" , \",0.0588266449999999
+014f62b5cc433f7840630059027a7053.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.010022655000000213
+017c2956626c95b692b4dae40a5a3730.csv,"
+Delimiter: , 
+Quotation: "" 
+Escape: None",0.014524595000001028
+017eb629d80ecc5f2a467670c70285c5.csv,"
+Delimiter: ,
+Quotation: """"
+Escape: \",0.004899471999998184
+0197ed819976d613f585ca619134333e.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.02039005199999977
+01bd8030f92d4b95cc3899801b33e819.csv,"
+Delimiter: \t
+Quotation: ""
+Escape: None",0.004387809000000686
+01be94c8fc4cd2f95fd5f1da5fedb42d.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.01041781700000044
+01c24f3076429373e2b23da5baf587d3.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.00575242600000081
+01e476e1aaa93d2d6d4609d4c748cac5.csv,"
+Delimiter: ;
+Quotation: None
+Escape: None",0.00243475200000276
+01e7ba2cac5e2e9dfa06e998a1a4b74c.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.016063742000000047
+01ec9a29b02f7fa1df96e8a87ef237ad.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.0025802919999975416
+020ba1827aab42eed48630e70226f657.csv,"
+Delimiter: ;
+Quotation: None
+Escape: None",0.00435263999999691
+02499ade34f9c9e00d7f2ff39680777c.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.009755852999997927
+0256bbbdab959261f0429063d9fae950.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.006050436999998965
+029-13-households-by-composition-plymstock-dunstone.csv," Comma (,), Double Quotes (""), Backslash (\)",0.0036298069999993743
+02P-2016-2017-06.csv,"
+Delimiter: ,
+Quotation: ""
+Escape: None",0.027337562999999676
+02P-2019-2020-09.csv,"
+Delimiter: comma (,)
+Quotation: double quotation marks ("")
+Escape: backslash (\)",0.01855368400000046
+02P-2020-2021-07.csv,"
+Delimiter: comma (,)
+Quotation: double quotation marks ("")
+Escape: backslash (\)",0.017421447000000256
+02a4ede17e5ac3c706351afe64b212b9.csv,"
+Delimiter: , 
+Quotation: "" 
+Escape: \",0.015828012000000058
+02a9094371d6e6e9cd02552fdbbaf31b.csv,"
+Delimiter: ,
+Quotation: ""
+Escape: \",0.026123408000000126
+02ba40461a0cc793d0472c8756ed8c0e.csv,"
+Delimiter: ;
+Quotation: ""
+Escape: \",0.016419504000001695
+0312c8c8ee1d2ff0a1a4259f0a655053.csv,"
+Delimiter: "",""
+Quotation: ""
+Escape: \",0.015453668999999337
+031d4671866e42bb1b14ea1423da2ceb.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.038428321999997905
+036f410f3934d9bcfd552cb38114a963.csv,"
+Delimiter: ;
+Quotation: None
+Escape: None",0.011881864000002906
+03_spend_over_25k_2016_march.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.011740663000001206
+03d7064d49ee29d4dfef9cf19befb920.csv,"
+Delimiter: ; 
+Quotation: None 
+Escape: None",0.002970653999998518
+03ef3cb8ddcfe53fdcdb8e0cda005be2.csv,"
+Delimiter: \t
+Quotation: ""
+Escape: \",1.9757426420000002
+04181c9dbebb65ead48ca20fd8cb5245.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.0022374310000010666
+0426183a304f575d7a87378d706e0590.csv,"
+Delimiter: "",""
+Quotation: ""
+Escape: \",0.05323944000000225
+042f375cce03ace12af8c228521a2dc4.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.0034722160000022484
+044a0a8df560c08d97ca919be0971421.csv,"
+Delimiter: ','
+Quotation: None
+Escape: None",0.007744235000000543
+045a9b6ab2306b9ca30e7041fde97b17.csv,"
+Delimiter: ; 
+Quotation: None 
+Escape: None",0.002474261999999783
+046b3418031b1a67127b6adf62ece75e.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.002659621999999473
+047796ab7fdbc8936da7a64b7eb05d75.csv,"
+Delimiter: "",""
+Quotation: """"
+Escape: None",0.003663425999999248
+04caa4f9814a7b4d4e1ddc94bf827dd6.csv,"
+Delimiter: ;
+Quotation: ""
+Escape: \",0.007773496000002211
+0504e272582c6290945fc37ba4d1a24e.csv,"
+Delimiter: ,
+Quotation: ""
+Escape: \",0.016088973000002227
+055195a61914574c288435e600fd449e.csv,"
+Delimiter: , 
+Quotation: none 
+Escape: none",0.06475514099999913
+05699d9880b48f5b56e3a29d6fcfee6d.csv,"
+Delimiter: , 
+Quotation: """" 
+Escape: \",0.0031029930000023853
+0584bf31bcfea5318490c2d7f52910bc.csv,"
+Delimiter: comma (,)
+Quotation: none
+Escape: none",0.013378780000000035
+059f562d9a4b409e2aeae635814448cd.csv,"
+Delimiter: , 
+Quotation: "" 
+Escape: \",0.05843577399999944
+05_spend_over_25k_2016_may.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.011335411000001017
+05aa018343b33ce916809091870e55b9.csv,"
+Delimiter: ;
+Quotation: '
+Escape: None",0.024307099999997916
+05c42b04fb855494f4642a9546ef38e7.csv,"
+Delimiter: , 
+Quotation: "" 
+Escape: \",0.01554673800000117
+05cc1a06f7ec3343d49c5792b903b87b.csv,"
+Delimiter: ,
+Quotation: ""
+Escape: \",0.03720195700000062
+05d8a38aff56897d359c7b894c548301.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.013823581000000473
+05ec5ca5fbd986f644dc3de7a16c6d98.csv,"
+Delimiter: ;
+Quotation: ""
+Escape: None",0.004294069000000178
+061e54b9e98943697bb0a45e83fae108.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.0025291410000001235
+0624df95ed28dde56ffd83bc2bfd0eb4.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.007453182999999086
+062fea1f9b460a96af7128fd89bacff3.csv,"
+Delimiter: , 
+Quotation: "" 
+Escape: None",0.014446834999997549
+063c87f59fbd8f0b7729259f1f53dbfb.csv,"
+Delimiter: Comma (,)
+Quotation: None
+Escape: None",1.8626859949999997
+0640d6810aedf0763f59bbf63449dcd1.csv,"
+Delimiter: Comma (,). 
+Quotation: Double quotation (""). 
+Escape: None.",0.01750285900000037
+064b283376123b2f21b7e9e9dfd55b83.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.019935249999999627
+0656a509552c88b61196ca1f42246fcd.csv,"
+Delimiter: Comma (,); Quotation: None; Escape: None",0.0026598220000018102
+06620a51d07267270ede3037cf833191.csv,"
+Delimiter: "",""
+Quotation: ""
+Escape: None",0.002365390999997885
+067af7c63b48b113514eba39cb2a50cc.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.0025668510000009803
+06K-25k-spend-for-april-202021.csv,"
+Delimiter: comma (,)
+Quotation: double quotation ("")
+Escape: backslash (\)",0.028363786999999974
+06K-25k-spend-for-february-202021.csv,"
+Delimiter: Comma (,)
+Quotation: Double quotation ("")
+Escape: Backslash (\)",0.0191723159999988
+06_spend_over_25k_2014_june.csv,"
+Delimiter: , 
+Quotation: "" 
+Escape: None",0.010780958000001561
+06a52f791dd3d78903cbf96f05ccb1d1.csv,"
+Delimiter: ',' 
+Quotation: None 
+Escape: None",0.0026403130000005604
+06b08f8ca4ef8c7b458155feff896fe4.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.0052231329999976595
+06b6e2a9cec15090ff07204a758b998e.csv,"
+Delimiter: "",""
+Quotation: ""
+Escape: \",0.0026218120000010003
+06e7fac9425b9f2e7f7a4f5ddd5a3f32.csv,"
+Delimiter: ;
+Quotation: ""
+Escape: None",0.5208750150000014
+06k-25k-spend-for-December-201516.csv,"
+Delimiter: comma (,)
+Quotation: double quotation ("")
+Escape: backslash (\)",0.008416076999999689
+06k-25k-spend-for-may-201920.csv,"
+Delimiter: Comma (,)
+Quotation: Double quotation ("")
+Escape: None",0.022369830999998896
+0713320683e417aab673d3bcefd03400.csv,"
+Delimiter: comma (,) 
+Quotation: none 
+Escape: none",0.0032328349999986017
+071e00d6c8a35ad105410c9fe109ac56.csv,"
+Delimiter: \t (tab)
+Quotation: None
+Escape: None",0.0031794639999986885
+07588a0dc12348789a093d1d8e3baebc.csv,"
+Delimiter: -
+Quotation: None
+Escape: None",0.11920360800000296
+078332114df932a1c7aff54c600a3525.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.0030914929999994456
+07aae4146ea388075447f457a2afde79.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.010811956999997818
+07b53b03726661799ad754c35939794a.csv,"
+Delimiter: "",""
+Quotation: ""
+Escape: \",0.02577381600000095
+07b921d24c053f9223ece381ed7e3967.csv,"
+Delimiter: "",""
+Quotation: ""
+Escape: None",0.0032932849999980363
+07c1c0402ecebe7e95f8344d40cfec99.csv,"
+Delimiter: ','
+Quotation: None
+Escape: None",0.004255848999999756
+07d43af9afaf7e033d0afabc59781a53.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.003752727999998484
+07d675277f2d378db9261530fe8383cb.csv,"
+Delimiter: , 
+Quotation: "" 
+Escape: \",0.01709050599999884
+07efa14c39ab591fab5dcdc3339c8cb5.csv,"
+Delimiter: "",""
+Quotation: """"
+Escape: None",0.007954005999998515
+08004e180c20e803f9f9455f3928fe8c.csv,"
+Delimiter: ',' 
+Quotation: None 
+Escape: None",0.0026585120000000018
+080243eae4b036eb23ed4759ca1ddc7a.csv,"
+Delimiter: Comma (,)
+Quotation: None
+Escape: None",0.0032402430000004756
+08133bb07fc4c975236970c3c658eae6.csv,"
+Delimiter: ;
+Quotation: None
+Escape: None",0.009516151999999778
+08194ba47d5ea863220e66b24ce889ae.csv,"
+Delimiter: ',' 
+Quotation: None 
+Escape: None",0.002350661000001253
+082cae4295f49c325c1e9cf0062a356c.csv,"
+Delimiter: , 
+Quotation: "" 
+Escape: None",0.002572660999998533
+084dac4713ca606920e824d6f42b0d54.csv,"
+Delimiter: \t
+Quotation: ""
+Escape: None",0.002537061999998258
+086b6bdad2cac6a9a7e7cad7d4aec80a.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.0578501299999985
+08723979193e5ef879e4e6d04bab09ac.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.0833443349999996
+08abc775ae2a79b402cc75f3a29e4b7d.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.1531162100000003
+08b5e7ec6126b220659cda369677ce55.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.004875521999998966
+08ed10bc99298a3da0199e896b0ef9c8.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.003179323999997763
+090a25645786f0379b0f97e56280f90e.csv,"
+Delimiter: : 
+Quotation: None 
+Escape: None",0.0034581359999990013
+092d899e8237c0bc7f78e53846d10a2c.csv,"
+Delimiter: , 
+Quotation: None 
+Escape: None",0.0025611030000014523
+0976e8afc4d450d398b33c55efbb59e5.csv,"
+Delimiter: "",""
+Quotation: ""
+Escape: \",0.014596344999997513
+09f49f5631eb1236584f1acc66e00fda.csv,"
+Delimiter: ,
+Quotation: None
+Escape: None",0.008092636999997183

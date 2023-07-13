@@ -1,0 +1,22 @@
+Grade,years in service,Current Spine point,Current salary 1.8.04,Proposed new spine point,Proposed salary from 1.8.04,annual salary difference,comments,career earnings plus/minus
+Lecturer A/Proposed Academic 2,0 (pt 8/30),8.0,23643.0,30.0,24886.0,1243.0,,1243.0
+,1 (pt 9/31),9.0,24820.0,31.0,25633.0,813.0,,2056.0
+,2 (pt 10/32),10.0,25699.0,32.0,26401.0,702.0,,2758.0
+,3 (pt 11/33),11.0,27116.0,33.0,27194.0,78.0,"old L""A"" std max",2836.0
+Lecturer B/Proposed Academic 3,4 (pt12/34),12.0,27989.0,34.0,28009.0,20.0,new std max AC 2,2856.0
+,5 (pt13/35),13.0,29128.0,35.0,28850.0,-278.0,,2578.0
+,6 (pt14/36),14.0,30363.0,36.0,29715.0,-648.0,,1930.0
+,7 (pt 15/37),15.0,31559.0,37.0,30607.0,-952.0,,978.0
+,8 (pt 16/38),16.0,32666.0,38.0,31544.0,-1122.0,,-144.0
+,9 (pt 17/39),17.0,34227.0,39.0,32471.0,-1756.0,,-1900.0
+,10 (pt 18/40),18.0,35883.0,40.0,33445.0,-2438.0,"old L""B"" std max",-4338.0
+,11 (pt 18/41),18.0,35883.0,41.0,34448.0,-1435.0,,-5773.0
+,12 (pt 18/42),18.0,35883.0,42.0,35482.0,-401.0,,-6174.0
+,13 (pt 18/43),18.0,35883.0,43.0,36546.0,663.0,new std max AC 3,-5511.0
+,,,,,,,,
+Notes:,,,,,,,,
+Point of comparison is proposed existing scale as 1.8.04,,,,,,,,
+Career earnings calculation assumes starting grade for lecturer A as current spine point 8,,,,,,,,
+Automatic career progression is assumed at top of Lecturer A scale,,,,,,,,
+This analysis ignores all discretionary/contribution points in either existing scale or proposed,,,,,,,,
+Figures may not add up exactly due to effect of 3.44% increase,,,,,,,,

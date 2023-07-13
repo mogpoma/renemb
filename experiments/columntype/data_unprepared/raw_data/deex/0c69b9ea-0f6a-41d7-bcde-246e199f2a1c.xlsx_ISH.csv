@@ -1,0 +1,27 @@
+CRM Rank,Gene,Name,ISH Results,FC,Mesoderm
+18,CG4768,CG4768,VM; foregut; hindgut,0,1
+26,CG32062,CG32062,pan-mesodermal early; FC+FCM gene,1,1
+36,CG10145,mspo,faint early in Ras-resp FCs but stronger in 13+ muscles; heart,1,1
+44,CG1817,Ptp10D,PNS; CNS,0,0
+55,CG10772,Fur1,pan-mesodermal early; VM; hindgut,0,1
+57,CG5799,dve,FC; midline; midgut; brain,1,1
+72,CG31092,LpR2,CNS; PNS; st 15/16 gut muscle,0,1
+75,CG5912,arr,foregut; hindgut; epidermis,0,0
+76,CG13475,HGTX,CNS; midline,0,0
+79,CG6775,rg,CNS; tracheal pits; hindgut,0,0
+80,CG11354,Lim1,salivary gland; CNS,0,0
+82,CG1007,emc,tracheal pits; pan-mesodermal through st. 9/10; hindgut; FCM,0,1
+103,CG31721,Trim9,"FC; midgut, PNS, CNS",1,1
+111,CG1691,Imp,CNS,0,0
+144,CG17299,SNF4Agamma,ventral midline,0,0
+163,CG32423,shep,midline; CNS; brain,0,0
+172,CG30421,CG30421,VM,0,1
+181,CG9181,Ptp61F,pan-mesodermal early,0,1
+184,CG11614,nkd,ectoderm; FC,1,1
+185,CG17888,Pdp1,"gut, anal pad",0,0
+,,,,,
+,VM=visceral mesoderm,,,,
+,FC=founder cell,,,,
+,FCM=fusion competent myoblast,,,,
+,PNS=peripheral nervous system,,,,
+,CNS=central nervous system,,,,

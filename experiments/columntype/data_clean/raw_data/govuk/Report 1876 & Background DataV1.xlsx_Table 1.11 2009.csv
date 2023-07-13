@@ -1,0 +1,12 @@
+District,Road Length KM,Car Casualties,Casualty Rate Per 100 Million Car Km,Goods Casualties,Casualty Rate Per 100 Million Goods Km,All Casualties,Casualty Rate Per 100 Million Vehicle Km
+Bolton,46,76,52,4,22,115,69
+Bury,33,75,82,1,10,109,106
+Manchester,36,154,106,0,0,261,157
+Oldham,30,55,69,2,17,77,83
+Rochdale,24,43,50,0,0,66,68
+Salford,29,42,41,0,0,79,68
+Stockport,36,68,47,1,6,108,65
+Tameside,32,71,70,1,7,97,83
+Trafford,52,78,42,3,15,129,61
+Wigan,56,49,25,1,4,89,39
+Greater Manchester,375,711,55,13,8,1130,77

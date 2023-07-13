@@ -1,0 +1,261 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "titulo",
+    "expression": "grel:if(length(cells[\"cnae09\"].value)==2,\"Seccion/\"+substring(cells[\"cnae09\"].value,0,length(cells[\"cnae09\"].value)-1),if(length(cells[\"cnae09\"].value)==3,\"Division/\"+substring(cells[\"cnae09\"].value,0,length(cells[\"cnae09\"].value)-1),if(length(cells[\"cnae09\"].value)==4,\"Cod3/\"+substring(cells[\"cnae09\"].value,0,length(cells[\"cnae09\"].value)-1),null)))",
+    "onError": "set-to-blank",
+    "newColumnName": "Padre",
+    "columnInsertIndex": 6,
+    "description": "Create column Padre at index 6 based on column titulo using expression grel:if(length(cells[\"cnae09\"].value)==2,\"Seccion/\"+substring(cells[\"cnae09\"].value,0,length(cells[\"cnae09\"].value)-1),if(length(cells[\"cnae09\"].value)==3,\"Division/\"+substring(cells[\"cnae09\"].value,0,length(cells[\"cnae09\"].value)-1),if(length(cells[\"cnae09\"].value)==4,\"Cod3/\"+substring(cells[\"cnae09\"].value,0,length(cells[\"cnae09\"].value)-1),null)))"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Column",
+    "expression": "grel:if(value>=0,blank,if(value<=10,blank,value))",
+    "onError": "set-to-blank",
+    "newColumnName": "Seccion",
+    "columnInsertIndex": 2,
+    "description": "Create column Seccion at index 2 based on column Column using expression grel:if(value>=0,blank,if(value<=10,blank,value))"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Seccion",
+    "description": "Fill down cells in column Seccion"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Seccion",
+    "index": 1,
+    "description": "Move column Seccion to position 1"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Padre",
+    "expression": "grel:if(value.contains(\"Seccion\"),\"Seccion/\"+cells[\"Seccion\"].value,value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Padre using expression grel:if(value.contains(\"Seccion\"),\"Seccion/\"+cells[\"Seccion\"].value,value)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Column5",
+    "expression": "grel:if(length(cells[\"cnae09\"].value)==1,\"Seccion\",if(length(cells[\"cnae09\"].value)==2,\"Division\",if(length(cells[\"cnae09\"].value)==3,\"Cod3\",\"Cod4\")))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Column5 using expression grel:if(length(cells[\"cnae09\"].value)==1,\"Seccion\",if(length(cells[\"cnae09\"].value)==2,\"Division\",if(length(cells[\"cnae09\"].value)==3,\"Cod3\",\"Cod4\")))"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Column5",
+    "index": 0,
+    "description": "Move column Column5 to position 0"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column5",
+    "newColumnName": "TipoActividad",
+    "description": "Rename column Column5 to TipoActividad"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "cnae09",
+    "expression": "grel:\"http://vocab.linkeddata.es/datosabiertos/kos/comercio/cnae/\"+cells[\"TipoActividad\"].value+\"/\"+value",
+    "onError": "set-to-blank",
+    "newColumnName": "URI_CNAE",
+    "columnInsertIndex": 2,
+    "description": "Create column URI_CNAE at index 2 based on column cnae09 using expression grel:\"http://vocab.linkeddata.es/datosabiertos/kos/comercio/cnae/\"+cells[\"TipoActividad\"].value+\"/\"+value"
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "schema": {
+      "prefixes": [
+        {
+          "name": "cnae",
+          "uri": "http://vocab.linkeddata.es/datosabiertos/def/comercio/cnae#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "city",
+          "uri": "http://datos.localidata.com/def/City#"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "skos",
+          "uri": "http://www.w3.org/2004/02/skos/core#"
+        },
+        {
+          "name": "dcterms",
+          "uri": "http://purl.org/dc/terms/"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        }
+      ],
+      "baseUri": "http://vocab.linkeddata.es/datosabiertos/kos/comercio/cnae/",
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "columnName": "URI_CNAE",
+          "expression": "value",
+          "isRowNumberCell": false,
+          "links": [
+            {
+              "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+              "curie": "rdfs:label",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "titulo",
+                "expression": "value",
+                "lang": "es",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+              "curie": "rdf:type",
+              "target": {
+                "nodeType": "cell-as-resource",
+                "columnName": "TipoActividad",
+                "expression": "\"http://vocab.linkeddata.es/datosabiertos/def/comercio/cnae#\"+value",
+                "isRowNumberCell": false,
+                "links": [],
+                "rdfTypes": []
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#broader",
+              "curie": "skos:broader",
+              "target": {
+                "nodeType": "cell-as-resource",
+                "columnName": "Padre",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "links": [
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#narrower",
+                    "curie": "skos:narrower",
+                    "target": {
+                      "nodeType": "cell-as-resource",
+                      "columnName": "URI_CNAE",
+                      "expression": "value",
+                      "isRowNumberCell": false,
+                      "links": [],
+                      "rdfTypes": []
+                    }
+                  }
+                ],
+                "rdfTypes": []
+              }
+            },
+            {
+              "uri": "http://purl.org/dc/terms/identifier",
+              "curie": "dcterms:identifier",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "cnae09",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#inScheme",
+              "curie": "skos:inScheme",
+              "target": {
+                "nodeType": "resource",
+                "value": "http://vocab.linkeddata.es/datosabiertos/kos/comercio/cnae",
+                "links": [
+                  {
+                    "uri": "http://purl.org/dc/terms/created",
+                    "curie": "dcterms:created",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "2014-05-20",
+                      "valueType": "http://www.w3.org/2001/XMLSchema#date"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Oscar Corcho (Ontology Engineering Group y Localidata)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/title",
+                    "curie": "dcterms:title",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Lista de códigos CNAE 2009"
+                    }
+                  },
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#hasTopConcept",
+                    "curie": "skos:hasTopConcept",
+                    "target": {
+                      "nodeType": "cell-as-resource",
+                      "columnName": "URI_CNAE",
+                      "expression": "if(value.contains(\"Seccion\"),value,null)",
+                      "isRowNumberCell": false,
+                      "links": [],
+                      "rdfTypes": []
+                    }
+                  }
+                ],
+                "rdfTypes": [
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+                    "curie": "skos:ConceptScheme"
+                  }
+                ]
+              }
+            }
+          ],
+          "rdfTypes": []
+        }
+      ]
+    },
+    "description": "Save RDF schema skeleton"
+  }
+]

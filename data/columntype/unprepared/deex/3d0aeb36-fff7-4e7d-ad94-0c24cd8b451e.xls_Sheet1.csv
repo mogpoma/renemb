@@ -1,0 +1,51 @@
+Massachusetts ADRC IT Survey,,,,,,,,,,
+"IT Systems Development Questions
+
+We are canvassing grantees to gain a better handle on the IT-MIS systems used by the ADRCs and the types of information that will be tracked for their ADRC program and services from other programs an individual might receive subsequent to an ADRC contact.  Please check which of the following features will be part of your IT-MIS systems, whether the information will be recorded at the individual or aggregate level, the source of the data, and how this information will be brought together specifically for each:",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,Included in ADRC MIS?,,,,,Available directly to Consumers?,"Source of the Data 
+(client report, provider submits, ADRC follow-up, electronic administrative data, MMIS)","Who maintains the IT system? (in-house agency, vendor …)","How Data Will Be Integrated?
+(e.g., electronic interface that merges data from different sources, ADRC staff follow-up with customer, reports from __ system entered manually, etc.; or do not plan to integrate)"
+"ESMV-- Elder Services of the Merrimack Valley, Inc.","Individual or Aggregate Tracking
+Indicate with an I for individual or A for aggregate at what level the information will be recorded",Part of existing MIS prior to ADRC,Added or enhanced through ADRC,Will be added or enhanced through ADRC,"Other, please describe",Software Program/ Vendor,,,,
+,,,,,,,,,,
+Resource Information,NA,,,,,HOMIS -developed and provided by State,,,In-house at ESMV--IT Department and Administrator.  Support at State-level,NA
+Website,NA,x,,possibly,,,Yes,NA,,NA
+Customer Information/Use of ADRC Services,,,,,,,,,,System entered manually.  No plan to integrate with financial data from Medicaid.
+Intake,I and A,x,,,,,,HOMIS,,
+Referral to Services,I and A,x,,,,,,HOMIS,,
+LTC Support Options,I and A,x,,,,,,HOMIS,,
+Futures Planning,?,,,,,,,,,
+Functional Screen/LOC Determination,,,,,,,,,,
+Conducted,I and A,x,,,,,,HOMIS,,
+Outcome (approved/denied),I and A,x,,,,,,HOMIS,,
+Financial Eligibility,,,,,,,,,,
+Conducted,N/A,,,,,,,,,
+Outcome (approved/denied),N/A,,,,,,,,,
+Needs Assessment1,,,,,,,,,,
+Care Plan,I,,,,,,,HOMIS,,
+Other Services Provided by ADRC2,,,,,,,,,,
+All Programs Offered by ESMV,I and A,,,,,,,HOMIS,,
+,,,,,,,,,,
+,,,,,,,,,,
+Service Use Subsequent to ADRC Contact3,,,,,,,,,,
+Medicaid,A,,,,,,,,,
+HCBS,A,,,,,,,HOMIS,,
+Institutional4,A,,,,,,,HOMIS,,
+OAA,A,,,,,,,HOMIS,,
+State Program,A,,,,,,,HOMIS,,
+Other (please specify),,,,,,,,HOMIS,,
+,,,,,,,,,,
+Payments for Services Subsequent to ADRC Contact,,,,,,,,,,
+Medicaid,,,,,,,,,,
+HCBS,A,,,,,Medicaid,,MMIS,,
+Institutional4,A,,,,,Medicaid,,MMIS,,
+OAA,A,,,,,,,HOMIS,,
+State Program,A,,,,,,,HOMIS,,
+Other (please specify),,,,,,,,,,
+,,,,,,,,,,
+"1  May not differ from screen or LOC determination.
+2  Please identify any other services that would be tracked on an individual or aggregate basis.
+3  An indication of individual implies that individual data from ADRC contacts will be matched to individual data for use of services funded by Medicaid, OAA, State Program and Other.  Aggregate means that the overall trends in the use of services form these payment sources will be available, bit not specifically for ADRC customers.
+4  Nursing facility or ICF-MR.",,,,,,,,,,

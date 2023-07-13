@@ -1,0 +1,58 @@
+Establishment Type,Establishment Group
+Academy 16-19 Converter,Academies
+Academy 16-19 Sponsor Led,Academies
+Academy Alternative Provision Converter,Academies
+Academy Alternative Provision Sponsor Led,Academies
+Academy Converter,Academies
+Academy Special Converter,Academies
+Academy Special Sponsor Led,Academies
+Academy Sponsor Led,Academies
+City Technology College,Independent schools
+Community School,LA maintained schools
+Community Special School,LA maintained schools
+Foundation School,LA maintained schools
+Foundation Special School,LA maintained schools
+Free Schools,Free Schools
+Free Schools - 16-19,Free Schools
+Free Schools - Alternative Provision,Free Schools
+Free Schools Special,Free Schools
+LA Nursery School,LA maintained schools
+Non-Maintained Special School,Independent schools
+Other Independent School,Independent schools
+Other Independent Special School,Independent schools
+Pupil Referral Unit,LA maintained schools
+Studio Schools,Free Schools
+University Technical College,Free Schools
+Voluntary Aided School,LA maintained schools
+Voluntary Controlled School,LA maintained schools
+URN,The establishment's Unique Reference Number as issued by the Department for Education
+Local authority,The local authority where the establishment is located or the maintaining local authority for LA maintained schools.
+Establishment number,The establishment number as issued by the Department for Education
+Establishment name,The establishment name.
+Street,The establishment address
+Locality,
+Address3,
+Town,
+County,
+Postcode,
+Type of establishment,"The establishment type. (academy, free school, independent etc.)"
+Statutory highest age,The highest age of pupil catered for by the establishment.
+Statutory lowest age,The lowest age of pupil catered for by the establishment.
+Boarders,The establishment's boarding provision.
+Sixth form,The establishment's sixth form provision.
+UKPRN,The UK provider reference number as issued by UKRLP.
+Phase of education,The education phase catered for by the establishment.
+Gender,The gender of pupils catered for by the establishment
+Religious character,An order made by the Secretary of State designating the school as having a religious character.
+Religious ethos,The religious ethos declared by the school.
+Admissions policy,The policy for admitting pupils to the establishment.
+Website address,The establishment's website address (where available)
+Telephone number,The establishment's telephone number (where available)
+Headteacher,The headteacher name.
+Establishment status,The open/closed status of the establishment.
+Reason establishment opened,Reason the establishment opened.
+Opening date,Date the establishment opened.
+Reason establishment closed,Reason the establishment closed.
+Closure date,Date the establishment closed.
+Parliamentary Constituency,"Westminster Parliamentary Constituencies, the parliamentary constituency in which the school is located. This is based on the school postcode and relates to constituencies which came into effect at the May 2010 General Election."
+Region,The Region (Formerly Government Office Region - GOR) in which the local authority of the school is located. The nine GORs were abolished on 1st April 2011 and are now known as ‘Regions’. They were the primary statistical subdivisions of England and also the areas in which the Government Offices for the Regions fulfilled their role. 

@@ -1,0 +1,19 @@
+Generation,Start Up Costs,Minimum Run Time (hrs),Minimum Down Time,Heat Rates 0.5,Heat Rates 1
+4 Corners Unit 4,,,,10.0576,10.0576
+4 Corners Unit 5,,,,10.0576,10.0576
+PV Unit 1,,,,10.16,10.16
+PV Unit 2,,,,10.16,10.16
+PV Unit 3,,,,10.16,10.16
+LOCAL GEN. ( in order of increasing cost),,,,,
+Newman  4,,8,8,10.557,9.168
+GT1+ST1(only avail. when Newman 4 is off),657,8,8,10.887,9.212
+GT2+ST1(only avail. when Newman 4 is off),657,8,8,10.887,9.212
+Newman 3,562,40,40,10.467,10.088
+Rio Grande 8,1822,24,36,10.253,10.691
+Newman 2,554,40,40,11.168,10.784
+Rio Grande 7,619,24,36,10.948,11.016
+Newman 1,1070,40,40,12.433,11.767
+Rio Grande 6,619,24,36,12.699,12.255
+Copper,657,2,2,15.5627,12.784
+GT 1(only avail. when Newman 4 is off),657,8,8,14.528,12.987
+GT 2(only avail. when Newman 4 is off),657,8,8,14.528,12.987

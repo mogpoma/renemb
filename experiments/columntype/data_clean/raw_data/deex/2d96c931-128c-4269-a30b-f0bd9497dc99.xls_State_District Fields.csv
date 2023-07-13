@@ -1,0 +1,38 @@
+Field #,Item Detail,Number of Characters,Starting Position,Ending Position,Character Type,Item Description,Example,,Warehouse Variable Name
+55.0,State Defined Optional Data,10.0,195.0,204.0,Alpha/Numeric,State Designated Additional Data,,This row is left for reference only.  The details of the field are below,
+56.0,District Defined Optional Data,10.0,205.0,214.0,Alpha/Numeric,District Designated Additional Data (this may also be additional State Data),,This row is left for reference only.  The details of the field are below,
+55.0,Primary Disability,2.0,195.0,196.0,Numeric,"00 =None
+01 = Intellectual Disability (Significant Limited Intellectual Capacity)
+03=Serious Emotional Disability
+04 = Specific Learning Disability  
+05 = Hearing Impairment, including Deafness
+06 =Visual Impairment, including Blindness
+07=Physical Disability
+08 =Speech or Language Impairment
+09= Deaf-Blindness
+10= Multiple Disabilities
+11= Preschooler with a Disability
+13= Autism Spectrum Disorders
+14 = Traumatic Brain Injury (TBI)
+15= Orthopedic Impairment
+16= Other Health Impairment",16,,
+,Federal Race/Ethnicity,2.0,197.0,198.0,Numberic,"01 = American Indian or Alaska Native 
+02 = Asian 
+03 = Black or African American 
+04 = Hispanic or Latino 
+05 = White 
+06 = Native Hawaiian or other Pacific Islander 
+07 = Two or more races",1.0,,
+,Language Proficiency,1.0,199.0,199.0,Numeric,"1=NEP, 2=LEP",1.0,,
+,ELL Program - Bilingual,1.0,200.0,200.0,Numeric,No(0) Yes(1)  Parent Choice(5),1.0,,
+,ELL Program - ESL,1.0,201.0,201.0,Numeric,No(0) Yes(1)  Parent Choice(5),1.0,,
+,Continuously Enrolled 1 year in School,1.0,202.0,202.0,Numeric,"No (0), Yes (1)",1.0,,
+,Continuously Enrolled 1 year in district,1.0,203.0,203.0,Numeric,"No (0), Yes (1)",1.0,,
+,Continuously Enrolled 3 years in district,1.0,204.0,204.0,Numeric,"No (0), Yes (1)",1.0,,
+56.0,Title 1,1.0,205.0,205.0,Numeric,"No (0), Yes (1)",1.0,,
+,October New to School,1.0,206.0,206.0,Numeric,"No (0), Yes (1)",1.0,,
+,Immigrant,1.0,207.0,207.0,Numeric,"No (0), Yes (1)",1.0,,
+,Homeless,1.0,208.0,208.0,Numeric,"No (0), Yes (1)",1.0,,
+,Expelled,1.0,209.0,209.0,Numeric,"No (0), Yes (1)",1.0,,
+,Free and Reduced Lunch,2.0,210.0,211.0,Numeric,"Not Eligible (00), Free Lunch Eligible (01), Reduced Lunch Eligible (02)",02,,
+,Gifted,1.0,212.0,212.0,Numeric,"No (0), Language Arts Gifted (1), Mathematics Gifted (2), Both Language Arts and Mathamatics Gifted (3), Other Gifted (4)",4,,

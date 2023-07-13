@@ -1,0 +1,316 @@
+[
+  {
+    "op": "core/column-addition",
+    "description": "Create column district at index 2 based on column name using expression grel:\"\"",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "selectNumeric": true,
+          "expression": "cell.recon.best.score",
+          "selectBlank": true,
+          "selectNonNumeric": true,
+          "selectError": true,
+          "name": "district: best candidate's score",
+          "from": 69,
+          "to": 101,
+          "type": "range",
+          "columnName": "district"
+        }
+      ]
+    },
+    "newColumnName": "district",
+    "columnInsertIndex": 2,
+    "baseColumnName": "name",
+    "expression": "grel:\"\"",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/recon",
+    "description": "Reconcile cells in column district to type Q3032114",
+    "columnName": "district",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://tools.wmflabs.org/openrefine-wikidata/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q3032114",
+        "name": "district of Madrid"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "selectNumeric": true,
+          "expression": "cell.recon.best.score",
+          "selectBlank": true,
+          "selectNonNumeric": true,
+          "selectError": true,
+          "name": "district: best candidate's score",
+          "from": 69,
+          "to": 101,
+          "type": "range",
+          "columnName": "district"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "description": "Match topic Puente de Vallecas (Q2003054) for cells containing \"puente vallecas\" in column district",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "selectNumeric": true,
+          "expression": "cell.recon.best.score",
+          "selectBlank": true,
+          "selectNonNumeric": true,
+          "selectError": true,
+          "name": "district: best candidate's score",
+          "from": 69,
+          "to": 101,
+          "type": "range",
+          "columnName": "district"
+        }
+      ]
+    },
+    "columnName": "district",
+    "similarValue": "puente vallecas",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2003054",
+      "name": "Puente de Vallecas",
+      "score": 91,
+      "types": [
+        "Q3032114"
+      ]
+    },
+    "shareNewTopics": false
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "description": "Match topic Villa de Vallecas (Q1947988) for cells containing \"villa vallecas\" in column district",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "selectNumeric": true,
+          "expression": "cell.recon.best.score",
+          "selectBlank": true,
+          "selectNonNumeric": true,
+          "selectError": true,
+          "name": "district: best candidate's score",
+          "from": 69,
+          "to": 101,
+          "type": "range",
+          "columnName": "district"
+        }
+      ]
+    },
+    "columnName": "district",
+    "similarValue": "villa vallecas",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1947988",
+      "name": "Villa de Vallecas",
+      "score": 90,
+      "types": [
+        "Q3032114"
+      ]
+    },
+    "shareNewTopics": false
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "description": "Match topic Fuencarral-El Pardo (Q656196) for cells containing \"fuencarral\" in column district",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "selectNumeric": true,
+          "expression": "cell.recon.best.score",
+          "selectBlank": true,
+          "selectNonNumeric": true,
+          "selectError": true,
+          "name": "district: best candidate's score",
+          "from": 69,
+          "to": 101,
+          "type": "range",
+          "columnName": "district"
+        }
+      ]
+    },
+    "columnName": "district",
+    "similarValue": "fuencarral",
+    "judgment": "matched",
+    "match": {
+      "id": "Q656196",
+      "name": "Fuencarral-El Pardo",
+      "score": 69,
+      "types": [
+        "Q3032114"
+      ]
+    },
+    "shareNewTopics": false
+  },
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "description": "Create column nlnkl at index 3 by fetching URLs based on column district using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "nlnkl",
+    "columnInsertIndex": 3,
+    "baseColumnName": "district",
+    "urlExpression": "grel:value",
+    "onError": "set-to-blank",
+    "delay": 5000
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column districtURI at index 3 based on column district using expression grel:\"http://www.wikidata.org/entity/\" + cell.recon.match.id",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "districtURI",
+    "columnInsertIndex": 3,
+    "baseColumnName": "district",
+    "expression": "grel:\"http://www.wikidata.org/entity/\" + cell.recon.match.id",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column nlnkl",
+    "columnName": "nlnkl"
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://www.group07.linkeddata.org/",
+      "prefixes": [
+        {
+          "name": "individual",
+          "uri": "http://www.group07.linkeddata.org/individual/"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "property",
+          "uri": "http://www.group07.linkeddata.org/property#"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "class",
+          "uri": "http://www.group07.linkeddata.org/class#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "\"station/\" + value",
+          "isRowNumberCell": false,
+          "columnName": "id",
+          "rdfTypes": [
+            {
+              "uri": "http://www.group07.linkeddata.org/class#Station",
+              "curie": "class:Station"
+            }
+          ],
+          "links": [
+            {
+              "uri": "http://www.group07.linkeddata.org/property#hasName",
+              "curie": "property:hasName",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "name"
+              }
+            },
+            {
+              "uri": "http://www.group07.linkeddata.org/property#hasAddress",
+              "curie": "property:hasAddress",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "address"
+              }
+            },
+            {
+              "uri": "http://www.group07.linkeddata.org/property#hasLongitude",
+              "curie": "property:hasLongitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "valueType": "http://www.w3.org/2001/XMLSchema#double",
+                "columnName": "lon"
+              }
+            },
+            {
+              "uri": "http://www.group07.linkeddata.org/property#hasLatitude",
+              "curie": "property:hasLatitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "valueType": "http://www.w3.org/2001/XMLSchema#double",
+                "columnName": "lat"
+              }
+            },
+            {
+              "uri": "http://www.group07.linkeddata.org/property#hasElevation",
+              "curie": "property:hasElevation",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "valueType": "http://www.w3.org/2001/XMLSchema#int",
+                "columnName": "elevation"
+              }
+            },
+            {
+              "uri": "http://www.group07.linkeddata.org/property#isInNeighbourhood",
+              "curie": "property:isInNeighbourhood",
+              "target": {
+                "nodeType": "cell-as-resource",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "districtURI",
+                "rdfTypes": [],
+                "links": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

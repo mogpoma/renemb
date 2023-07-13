@@ -1,0 +1,18 @@
+Commodity,Supply Field production,Refinery and blender net production,Imports,Adjustments \1,Disposition Stock change,Refinery and blender net inputs,Exports,Products supplied \2,Ending stocks
+Crude oil,1813.705,(X),3570.848,29.385,43.253,5360.221,10.464,0.0,1026.057
+Commercial,1813.705,(X),3568.202,29.385,38.371,(X),10.464,(X),324.234
+Alaskan,249.874,(X),(X),(X),(X),(X),(X),(X),(X)
+Lower 48 states,1563.831,(X),(X),(X),(X),(X),(X),(X),(X)
+SPR,(X),(X),2.646,(X),4.882,(X),(X),(X),701.823
+Imports by SPR,(X),(X),(NA),(X),(X),(X),(X),(X),(X)
+Imports into SPR by others,(X),(X),2.646,(X),(X),(X),(X),(X),(X)
+Natural gas liquids and LRGs,651.915,229.902,97.903,(X),21.421,178.254,36.951,743.094,126.908
+Pentanes plus,95.697,(X),7.984,(X),3.406,56.249,12.393,31.633,13.684
+Liquefied petroleum gases,556.218,229.902,89.919,(X),18.015,122.005,24.558,711.461,113.224
+Ethane/ethylene,256.876,6.671,0.121,(X),12.749,(NA),(NA),250.919,27.618
+Propane/propylene,187.209,189.965,66.676,(X),3.228,(NA),19.264,421.358,55.375
+Normal butane/butylene,48.901,30.698,15.607,(X),1.788,49.858,5.294,38.266,23.127
+Isobutane/isobutylene,63.232,2.568,7.515,(X),0.25,72.147,(NA),0.918,7.104
+Finished motor gasoline,(X),3072.39,111.345,148.253,-11.818,(X),62.841,3280.965,98.212
+Kerosene-type jet fuel,(X),539.538,37.163,(X),-1.244,(X),22.389,555.556,38.214
+Distillate fuel oil \3,(X),1569.533,77.245,0.0,12.375,(X),193.0,1441.403,145.883

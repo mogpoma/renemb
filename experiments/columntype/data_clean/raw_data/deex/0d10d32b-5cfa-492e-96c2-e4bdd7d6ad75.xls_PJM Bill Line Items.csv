@@ -1,0 +1,136 @@
+ID #,Weekly BLI,CHARGES,ID #,Weekly BLI,CREDITS
+1000.0,,Amount Due for Interest on Past Due Charges,,,
+1100.0,1.0,Network Integration Transmission Service,2100.0,1.0,Network Integration Transmission Service
+1101.0,1.0,Network Integration Transmission Service (ATSI Low Voltage),2101.0,1.0,Network Integration Transmission Service (ATSI Low Voltage)
+1104.0,1.0,Network Integration Transmission Service Offset,2104.0,1.0,Network Integration Transmission Service Offset
+,,,2106.0,1.0,Non-Zone Network Integration Transmission Service
+1108.0,,Transmission Enhancement,2108.0,,Transmission Enhancement
+1109.0,,MTEP Project Cost Recovery,2109.0,,MTEP Project Cost Recovery
+1110.0,,Direct Assignment Facilities,2110.0,,Direct Assignment Facilities
+1120.0,,Other Supporting Facilities,2120.0,,Other Supporting Facilities
+1130.0,,Firm Point-to-Point Transmission Service,2130.0,,Firm Point-to-Point Transmission Service
+,,,2132.0,,Internal Firm Point-to-Point Transmission Service
+1133.0,,Firm Point-to-Point Transmission Service Resale,2133.0,,Firm Point-to-Point Transmission Service Resale
+1135.0,,Neptune Voluntary Released Transmission Service (Firm),2135.0,,Neptune Voluntary Released Transmission Service (Firm)
+1138.0,,Linden Voluntary Released Transmission Service (Firm),2138.0,,Linden Voluntary Released Transmission Service (Firm)
+1140.0,,Non-Firm Point-to-Point Transmission Service,2140.0,,Non-Firm Point-to-Point Transmission Service
+,,,2142.0,,Internal Non-Firm Point-to-Point Transmission Service
+1143.0,,Non-Firm Point-to-Point Transmission Service Resale,2143.0,,Non-Firm Point-to-Point Transmission Service Resale
+1145.0,,Neptune Voluntary Released Transmission Service (Non-Firm),2145.0,,Neptune Voluntary Released Transmission Service (Non-Firm)
+1146.0,,Neptune Default Released Transmission Service (Non-Firm),2146.0,,Neptune Default Released Transmission Service (Non-Firm)
+1147.0,,Neptune Unscheduled Usage Billing Allocation,,,
+1155.0,,Linden Voluntary Released Transmission Service (Non-Firm),2155.0,,Linden Voluntary Released Transmission Service (Non-Firm)
+1156.0,,Linden Default Released Transmission Service (Non-Firm),2156.0,,Linden Default Released Transmission Service (Non-Firm)
+1157.0,,Linden Unscheduled Usage Billing Allocation,,,
+1200.0,1.0,Day-ahead Spot Market Energy,,,
+1205.0,1.0,Balancing Spot Market Energy,,,
+1210.0,1.0,Day-ahead Transmission Congestion,2210.0,1.0,Transmission Congestion
+1215.0,1.0,Balancing Transmission Congestion,,,
+,,,2217.0,,Planning Period Excess Congestion
+1218.0,,Planning Period Congestion Uplift,2218.0,,Planning Period Congestion Uplift
+1220.0,1.0,Day-ahead Transmission Losses,2220.0,1.0,Transmission Losses
+1225.0,1.0,Balancing Transmission Losses,,,
+1230.0,1.0,Inadvertent Interchange,,,
+1240.0,,Day-ahead Economic Load Response,2240.0,,Day-ahead Economic Load Response
+1241.0,,Real-time Economic Load Response,2241.0,,Real-time Economic Load Response
+1242.0,,Day-Ahead Load Response Charge Allocation,,,
+1243.0,,Real-Time Load Response Charge Allocation,,,
+1245.0,,Pre-Emergency and Emergency Load Response,2245.0,,Pre-Emergency and Emergency Load Response
+1250.0,,Meter Error Correction,,,
+1260.0,1.0,Emergency Energy,2260.0,1.0,Emergency Energy
+1301.0,,"PJM Scheduling, System Control and Dispatch Service - Control Area Administration",,,
+1302.0,,"PJM Scheduling, System Control and Dispatch Service - FTR Administration",,,
+1303.0,,"PJM Scheduling, System Control and Dispatch Service - Market Support",,,
+1304.0,,"PJM Scheduling, System Control and Dispatch Service - Regulation Market Administration",,,
+1305.0,,"PJM Scheduling, System Control and Dispatch Service - Capacity Resource/Obligation Mgmt.",,,
+1306.0,,"PJM Scheduling, System Control and Dispatch Service - Advanced Second Control Center",,,
+1307.0,,"PJM Scheduling, System Control and Dispatch Service - Market Support Offset",,,
+1308.0,,"PJM Scheduling, System Control and Dispatch Service Refund - Control Area Administration",,,
+1309.0,,"PJM Scheduling, System Control and Dispatch Service Refund - FTR Administration",,,
+1310.0,,"PJM Scheduling, System Control and Dispatch Service Refund - Market Support",,,
+1311.0,,"PJM Scheduling, System Control and Dispatch Service Refund - Regulation Market Administration",,,
+1312.0,,"PJM Scheduling, System Control and Dispatch Service Refund - Capacity Resource/Obligation Mgmt.",,,
+1313.0,,"PJM Settlement, Inc.",,,
+1314.0,,Market Monitoring Unit (MMU) Funding,,,
+1315.0,,FERC Annual Charge Recovery,,,
+1316.0,,"Organization of PJM States, Inc. (OPSI) Funding",,,
+1317.0,,North American Electric Reliability Corporation (NERC),,,
+1318.0,,Reliability First Corporation (RFC),,,
+1320.0,,"Transmission Owner Scheduling, System Control and Dispatch Service",2320.0,,"Transmission Owner Scheduling, System Control and Dispatch Service"
+1330.0,,Reactive Supply and Voltage Control from Generation and Other Sources Service,2330.0,,Reactive Supply and Voltage Control from Generation and Other Sources Service
+1340.0,,Regulation and Frequency Response Service,2340.0,,Regulation and Frequency Response Service
+1350.0,,Energy Imbalance Service,2350.0,,Energy Imbalance Service
+1360.0,,Synchronized Reserve,2360.0,,Synchronized Reserve
+1362.0,,Non-Synchronized Reserve,2362.0,,Non-Synchronized Reserve
+1365.0,,Day-ahead Scheduling Reserve,2365.0,,Day-ahead Scheduling Reserve
+1370.0,,Day-ahead Operating Reserve,2370.0,,Day-ahead Operating Reserve
+1371.0,,Day-ahead Operating Reserve for Load Response,2371.0,,Day-ahead Operating Reserve for Load Response
+1375.0,,Balancing Operating Reserve,2375.0,,Balancing Operating Reserve
+1376.0,,Balancing Operating Reserve for Load Response,2376.0,,Balancing Operating Reserve for Load Response
+1377.0,,Synchronous Condensing,2377.0,,Synchronous Condensing
+1378.0,,Reactive Services,2378.0,,Reactive Services
+1380.0,,Black Start Service,2380.0,,Black Start Service
+1400.0,,Load Reconciliation for Spot Market Energy,,,
+1410.0,,Load Reconciliation for Transmission Congestion,,,
+1420.0,,Load Reconciliation for Transmission Losses,2420.0,,Load Reconciliation for Transmission Losses
+1430.0,,Load Reconciliation for Inadvertent Interchange,,,
+1440.0,,"Load Reconciliation for PJM Scheduling, System Control and Dispatch Service",,,
+1441.0,,"Load Reconciliation for PJM Scheduling, System Control and Dispatch Service Refund",,,
+1442.0,,Load Reconciliation for Schedule 9-6 - Advanced Second Control Center,,,
+1444.0,,Load Reconciliation for Market Monitoring Unit (MMU) Funding,,,
+1445.0,,Load Reconciliation for FERC Annual Charge Recovery,,,
+1446.0,,"Load Reconciliation for Organization of PJM States, Inc. (OPSI) Funding",,,
+1447.0,,Load Reconciliation for North American Electric Reliability Corporation (NERC),,,
+1448.0,,Load Reconciliation for Reliability First Corporation (RFC),,,
+1450.0,,"Load Reconciliation for Transmission Owner Scheduling, System Control and Dispatch Service",,,
+1460.0,,Load Reconciliation for Regulation and Frequency Response Service,,,
+1470.0,,Load Reconciliation for Synchronized Reserve,,,
+1472.0,,Load Reconciliation for Non-Synchronized Reserve,,,
+1475.0,,Load Reconciliation for Day-ahead Scheduling Reserve,,,
+1478.0,,Load Reconciliation for Balancing Operating Reserve,,,
+1480.0,,Load Reconciliation for Synchronous Condensing,,,
+1490.0,,Load Reconciliation for Reactive Services,,,
+1500.0,1.0,Financial Transmission Rights Auction,2500.0,1.0,Financial Transmission Rights Auction
+,,,2510.0,1.0,Auction Revenue Rights
+1600.0,1.0,RPM Auction,2600.0,1.0,RPM Auction
+1610.0,1.0,Locational Reliability,,,
+,,,2620.0,1.0,Interruptible Load for Reliability
+,,,2630.0,1.0,Capacity Transfer Rights
+,,,2640.0,1.0,Incremental Capacity Transfer Rights
+1650.0,1.0,Auction Specific MW Capacity Transaction,2650.0,1.0,Auction Specific MW Capacity Transaction
+1660.0,,Demand Resource and ILR Compliance Penalty,2660.0,,Demand Resource and ILR Compliance Penalty
+1661.0,1.0,Capacity Resource Deficiency,2661.0,1.0,Capacity Resource Deficiency
+1662.0,,Generation Resource Rating Test Failure,2662.0,,Generation Resource Rating Test Failure
+1663.0,1.0,Qualifying Transmission Upgrade Compliance Penalty,2663.0,1.0,Qualifying Transmission Upgrade Compliance Penalty
+1664.0,,Peak Season Maintenance Compliance Penalty,2664.0,,Peak Season Maintenance Compliance Penalty
+1665.0,,Peak-Hour Period Availability,2665.0,,Peak-Hour Period Availability
+1666.0,,Load Management Test Failure,2666.0,,Load Management Test Failure
+1670.0,1.0,FRR LSE Reliability,2670.0,1.0,FRR LSE Reliability
+1680.0,,FRR LSE Demand Resource and ILR Compliance Penalty,2680.0,,FRR LSE Demand Resource and ILR Compliance Penalty
+1681.0,,FRR LSE Capacity Resource Deficiency,2681.0,,FRR LSE Capacity Resource Deficiency
+1682.0,,FRR LSE Generation Resource Rating Test Failure,2682.0,,FRR LSE Generation Resource Rating Test Failure
+1683.0,,FRR LSE Qualifying Transmission Upgrade Compliance Penalty,2683.0,,FRR LSE Qualifying Transmission Upgrade Compliance Penalty
+1684.0,,FRR LSE Peak Season Maintenance Compliance Penalty,2684.0,,FRR LSE Peak Season Maintenance Compliance Penalty
+1685.0,,FRR LSE Peak-Hour Period Availability,2685.0,,FRR LSE Peak-Hour Period Availability
+1686.0,,FRR LSE Load Management Test Failure,2686.0,,FRR LSE Load Management Test Failure
+1687.0,,FRR LSE Schedule 9-5,2687.0,,FRR LSE Schedule 9-5
+1688.0,,FRR LSE Schedule 9-6,2688.0,,FRR LSE Schedule 9-6
+1710.0,,PJM/MISO Seams Elimination Cost Assignment,2710.0,,PJM/MISO Seams Elimination Cost Assignment
+1712.0,,Intra-PJM Seams Elimination Cost Assignment,2712.0,,Intra-PJM Seams Elimination Cost Assignment
+1720.0,,RTO Start-up Cost Recovery,2720.0,,RTO Start-up Cost Recovery
+1730.0,,Expansion Cost Recovery,2730.0,,Expansion Cost Recovery
+1900.0,,Unscheduled Transmission Service,,,
+1910.0,,Ramapo Phase Angle Regulators,2910.0,,Ramapo Phase Angle Regulators
+1911.0,,Michigan - Ontario Interface Phase Angle Regulators,,,
+,,,2912.0,1.0,CT Lost Opportunity Cost Allocation
+1920.0,,Station Power,,,
+1930.0,,Generation Deactivation,2930.0,,Generation Deactivation
+1932.0,,Generation Deactivation Refund,2932.0,,Generation Deactivation Refund
+1950.0,,Virginia Retail Administrative Fee,2950.0,,Virginia Retail Administrative Fee
+1952.0,,Deferred Tax Adjustment,2952.0,,Deferred Tax Adjustment
+1955.0,,Deferral Recovery,2955.0,,Deferral Recovery
+1980.0,,Miscellaneous Bilateral,2980.0,,Miscellaneous Bilateral
+1995.0,,PJM Annual Membership Fee,,,
+,,,2996.0,,Annual PJM Cell Tower
+,,,2997.0,,Annual PJM Building Rent
+1999.0,,PJM Customer Payment Default,,,

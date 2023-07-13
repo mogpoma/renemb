@@ -1,0 +1,10 @@
+#,6.12,,,,,
+Chart title,Trend in proportion of non-decent homes in London and rest of England,,,,,
+Source and notes,"Survey of English Housing data 2006 to 2007, English Housing Survey stock data 2008 to 2011",,,,,
+Period,2005/06 & 2006/07,2006/07 & 2007/08,2007/08 & 2008/09,2008/09 & 2009/10,2009/10 & 2010/11,2010/11 & 2011/12
+EHS year,2006,2007,2008,2009,2010,2011
+London,37%,35%,34%,30%,26%,22%
+Rest of England,35%,35%,33%,30%,27%,24%
+95% confidence intervals,,,,,,
+London,2.0%,2.0%,2.0%,2.0%,1.9%,1.8%
+Rest of England,0.8%,0.8%,0.8%,0.8%,0.7%,0.7%

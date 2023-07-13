@@ -1,0 +1,86 @@
+[
+    {
+    "op": "core/column-addition",
+    "description": "Create column id at index 3 based on column dc:identifier using expression grel:if(startsWith(value,\"urn\"),value,\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "id",
+    "columnInsertIndex": 3,
+    "baseColumnName": "dc:identifier",
+    "expression": "grel:if(startsWith(value,\"urn\"),value,\"\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column id using expression grel:value.replace(\":\",\"_\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "id",
+    "expression": "grel:value.replace(\":\",\"_\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column id to position 0",
+    "columnName": "id",
+    "index": 0
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Record - metadata - oai_dc:dc - xsi:schemaLocation",
+    "columnName": "Record - metadata - oai_dc:dc - xsi:schemaLocation"
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "isBlank(value)",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "Record - header - datestamp",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "Record - header - datestamp"
+        },
+        {
+          "omitError": false,
+          "expression": "isBlank(value)",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "id",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "id"
+        }
+      ]
+    }
+  }
+]

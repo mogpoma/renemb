@@ -1,0 +1,232 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "INDICE",
+    "description": "Remove column INDICE"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Seccion",
+    "expression": "grel:\"http://vocab.linkeddata.es/datosabiertos/kos/comercio/cnae/Division/\"+cells[\"Division\"].value+\"\"",
+    "onError": "set-to-blank",
+    "newColumnName": "URI_Seccion",
+    "columnInsertIndex": 2,
+    "description": "Create column URI_Seccion at index 2 based on column Seccion using expression grel:\"http://vocab.linkeddata.es/datosabiertos/kos/comercio/cnae/Division/\"+cells[\"Division\"].value+\"\""
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Epigrafe",
+    "expression": "grel:\"http://vocab.linkeddata.es/datosabiertos/kos/comercio/epigrafe/madrid/\"+cells[\"Epigrafe\"].value+\"\"",
+    "onError": "set-to-blank",
+    "newColumnName": "URI_Epigrafe",
+    "columnInsertIndex": 4,
+    "description": "Create column URI_Epigrafe at index 4 based on column Epigrafe using expression grel:\"http://vocab.linkeddata.es/datosabiertos/kos/comercio/epigrafe/madrid/\"+cells[\"Epigrafe\"].value+\"\""
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "literal corto",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column literal corto using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "literal corto",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column literal corto using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literal",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Literal using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literal",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Literal using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "schema": {
+      "prefixes": [
+        {
+          "name": "cnae",
+          "uri": "http://vocab.linkeddata.es/datosabiertos/def/comercio/cnae#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "city",
+          "uri": "http://datos.localidata.com/def/City#"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "skos",
+          "uri": "http://www.w3.org/2004/02/skos/core#"
+        },
+        {
+          "name": "dcterms",
+          "uri": "http://purl.org/dc/terms/"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        }
+      ],
+      "baseUri": "http://vocab.linkeddata.es/datosabiertos/kos/comercio/cnae/",
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "columnName": "URI_Epigrafe",
+          "expression": "value",
+          "isRowNumberCell": false,
+          "links": [
+            {
+              "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+              "curie": "rdfs:label",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "Literal",
+                "expression": "value",
+                "lang": "es",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#broader",
+              "curie": "skos:broader",
+              "target": {
+                "nodeType": "cell-as-resource",
+                "columnName": "URI_Seccion",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "links": [],
+                "rdfTypes": []
+              }
+            },
+            {
+              "uri": "http://purl.org/dc/terms/identifier",
+              "curie": "dcterms:identifier",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "Epigrafe",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#inScheme",
+              "curie": "skos:inScheme",
+              "target": {
+                "nodeType": "resource",
+                "value": "http://vocab.linkeddata.es/datosabiertos/kos/comercio/epigrafe/madrid",
+                "links": [
+                  {
+                    "uri": "http://purl.org/dc/terms/created",
+                    "curie": "dcterms:created",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "2014-05-20",
+                      "valueType": "http://www.w3.org/2001/XMLSchema#date"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Oscar Corcho (Ontology Engineering Group y Localidata)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/title",
+                    "curie": "dcterms:title",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Lista de epígrafes de actividad económica del Ayuntamiento de Madrid"
+                    }
+                  },
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#hasTopConcept",
+                    "curie": "skos:hasTopConcept",
+                    "target": {
+                      "nodeType": "cell-as-resource",
+                      "columnName": "URI_Epigrafe",
+                      "expression": "if(value.contains(\"Seccion\"),value,null)",
+                      "isRowNumberCell": false,
+                      "links": [],
+                      "rdfTypes": []
+                    }
+                  }
+                ],
+                "rdfTypes": [
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+                    "curie": "skos:ConceptScheme"
+                  }
+                ]
+              }
+            }
+          ],
+          "rdfTypes": [
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#Concept",
+              "curie": "skos:Concept"
+            }
+          ]
+        }
+      ]
+    },
+    "description": "Save RDF schema skeleton"
+  }
+]

@@ -1,0 +1,283 @@
+Start,End,Length,Description,Type,AASWD
+1,11,11,STUDENT-NAME-LAST,alpha or blank,
+12,19,8,STUDENT-NAME-FIRST,alpha or blank,
+20,20,1,STUDENT-NAME-MI,alpha or blank,
+21,29,9,District Student ID (DSID),alphanumeric or blank,
+30,31,2,Exam Grade,alphanumeric,"03, 04, 05, 06, 07, 08, GR"
+32,32,1,Assessment Type,alpha,A
+33,37,5,filler,,
+38,39,2,Birth Month,numeric or blank,"01, 02,..., 12"
+40,41,2,Birth Day,numeric or blank,"01, 02,..., 31"
+42,45,4,Birth Year,numeric or blank,CCYY Format
+46,47,2,Enrolled Grade,numeric or blank,"22=Kindergarten, 01, 02, …. 13=Adult HS, 14=OGT Only, blank=missing/unknown"
+48,48,1,Gender,alpha or blank,F=Female
+,,,,,M=Male
+,,,,,blank=unknown
+49,49,1,Ethnicity,numeric or blank,1=American Indian
+,,,,,2=Asian/Pacific Islander
+,,,,,3=Black/African American
+,,,,,4=Hispanic
+,,,,,5=White
+,,,,,6=Multi-Racial
+,,,,,7=Other
+,,,,,Blank=Unknown
+50,58,9,filler,,
+59,78,20,Attending District Name,alpha,
+79,84,6,Attending District IRN,numeric,
+85,104,20,Attending School Name,alpha,
+105,110,6,Attending School IRN,numeric,
+111,112,2,Test Month,numeric,MM
+113,114,2,Test Day,numeric or blank,DD
+115,118,4,Test Year,numeric,CCYY format
+119,123,5,Homeroom ID,alphanumeric or blank,
+124,125,2,filler,,
+126,126,1,Migrant Student,alpha or blank,Y=Yes
+,,,,,Blank=Not Indicated
+127,127,1,IEP-Writing,alpha or blank,Y=Yes
+,,,,,Blank=Not Indicated
+128,128,1,IEP-Reading,alpha or blank,Y=Yes
+,,,,,Blank=Not Indicated
+129,129,1,IEP-Mathematics,alpha or blank,Y=Yes
+,,,,,Blank=Not Indicated
+130,130,1,IEP-Social Studies,alpha or blank,Y=Yes
+,,,,,Blank=Not Indicated
+131,131,1,IEP-Science,alpha or blank,Y=Yes
+,,,,,Blank=Not Indicated
+132,132,1,LEP Identified,alpha or blank,Y=Yes
+,,,,,Blank=Not Indicated
+133,133,1,Eng. Limited Identified,alpha or blank,
+,,,(Not used),,
+134,145,12,Record Description,alphanumeric or blank,"e.g, SPR08OATA, SPR08OGTA"
+146,147,2,Writing Performance Level,numeric or blank,11=Advanced
+,,,,,12=Accelerated
+,,,,,13=Proficient
+,,,,,14=Basic
+,,,,,15=Limited
+,,,,,99=invalidated (INV)
+,,,,,blank=DNA/TOG/DNS/Missing
+148,150,3,Writing Scale Score,alphanumeric or blank,OGTSWD: Range 000-999
+,,,,,OGTSWD: DNA=Did Not Attempt
+,,,,,OGTSWD: INV=Invalidated
+151,152,2,Condition - Prompt 1,alphanumeric or blank,
+153,154,2,Condition - Prompt 2,alphanumeric or blank,
+155,157,3,Writing Performance Domain Score,alphanumeric or blank,Not reported for SWD
+158,158,1,Indicator 1,alpha or blank,Not reported for SWD
+159,161,3,Writing Instructional Context Domain Score,alphanumeric or blank,Not reported for SWD
+162,162,1,Indicator 2,alpha or blank,Not reported for SWD
+163,165,3,Writing Independence Domain Score,alphanumeric or blank,Not reported for SWD
+166,166,1,Indicator 3,alpha or blank,Not reported for SWD
+167,169,3,Settings and Interactions Domain Score,alphanumeric or blank,Not reported for SWD
+170,170,1,Indicator 4,alpha,
+171,171,1,filler,,
+172,174,3,Writing Total Raw Score,alphanumeric or blank,Not reported for SWD
+175,180,6,filler,,
+181,192,12,filler,,
+193,194,2,Reading Performance Level,numeric or blank,11=Advanced
+,,,,,12=Accelerated
+,,,,,13=Proficient
+,,,,,14=Basic
+,,,,,15=Limited
+,,,,,99=invalidated
+,,,,,blank=DNA/TOG/DNS/Missing
+195,197,3,Reading Scale Score,alphanumeric or blank,Range 000-999
+,,,,,DNA=Did Not Attempt
+,,,,,INV=Invalidated
+198,200,3,Reading Performance Domain Score,alphanumeric or blank,Not reported for SWD
+201,201,1,Indicator 1,alpha or blank,Not reported for SWD
+202,204,3,Reading Instructional Context Domain Score,alphanumeric or blank,Not reported for SWD
+205,205,1,Indicator 2,alpha or blank,Not reported for SWD
+206,208,3,Reading Independence Domain Score,alphanumeric or blank,Not reported for SWD
+209,209,1,Indicator 3,alpha or blank,Not reported for SWD
+210,212,3,Settings and Interactions Domain Score,alphanumeric or blank,Not reported for SWD
+213,213,1,Indicator 4,alpha,
+214,216,3,"Reading Content Standard Raw Score 5 
+ALT: N/A
+OTELA: N/A
+OAT: N/A
+OGT:  N/A",alphanumeric or blank,
+217,217,1,Indicator 5,alpha or blank,
+218,218,1,filler,,
+219,221,3,Reading Total Raw Score,alphanumeric or blank,Not reported for SWD
+222,228,7,filler,,
+229,240,12,filler,,
+241,242,2,Math Performance Level,numeric or blank,11=Advanced
+,,,,,12=Accelerated
+,,,,,13=Proficient
+,,,,,14=Basic
+,,,,,15=Limited
+,,,,,99=invalidated
+,,,,,blank=DNA/TOG/DNS/Missing
+243,245,3,Math Scale Score,alphanumeric or blank,Range 000-999
+,,,,,DNA=Did Not Attempt
+,,,,,INV=Invalidated
+246,248,3,Math Performance Domain Score,alphanumeric or blank,Not reported for SWD
+249,249,1,Indicator 1,alpha or blank,Not reported for SWD
+250,252,3,Math Instructional Context Domain Score,alphanumeric or blank,Not reported for SWD
+253,253,1,Indicator 2,alpha or blank,Not reported for SWD
+254,256,3,Math Independence Domain Score,alphanumeric or blank,Not reported for SWD
+257,257,1,Indicator 3,alpha or blank,Not reported for SWD
+258,260,3,"Settings and Interactions
+Domain Score",alphanumeric or blank,Not reported for SWD
+261,261,1,Indicator 4,alpha or blank,
+262,264,3,"Math Content Standard Raw Score 5  
+ALT: N/A
+OTELA: N/A
+OAT: Geometry and Spatial Sense
+OGT: Geometry and Spatial Sense",,
+265,265,1,Indicator 5,alpha or blank,
+266,266,1,filler,,
+267,269,3,Math Total Raw Score,alphanumeric or blank,Not reported for SWD
+270,276,7,filler,,
+277,288,12,filler,,
+289,290,2,Social Studies Performance Level,numeric or blank,11=Advanced
+,,,,,12=Accelerated
+,,,,,13=Proficient
+,,,,,14=Basic
+,,,,,15=Limited
+,,,,,99=invalidated
+,,,,,blank=DNA/TOG/DNS/Missing
+291,293,3,Social Studies Scale Score,alphanumeric or blank,Range 000-999
+,,,,,DNA=Did Not Attempt
+,,,,,INV=Invalidated
+294,296,3,Social Studies Performance Domain Score,alphanumeric or blank,Not reported for SWD
+297,297,1,Indicator 1,alpha or blank,Not reported for SWD
+298,300,3,Social Studies Instructional Context Domain Score,alphanumeric or blank,Not reported for SWD
+301,301,1,Indicator 2,alpha or blank,Not reported for SWD
+302,304,3,Social Studies Independence Domain Score,alphanumeric or blank,Not reported for SWD
+305,305,1,Indicator 3,alpha or blank,Not reported for SWD
+306,308,3,Settings and Interactions Domain Score,alphanumeric or blank,Not reported for SWD
+309,309,1,Indicator 4,alpha or blank,
+310,312,3,"Social Studies Content Standard Raw Score 5
+ALT: N/A
+OTELA: N/A
+OAT: N/A
+OGT: N/A",numeric or blank,
+313,313,1,Indicator 5,alpha or blank,
+314,314,1,filler,,
+315,317,3,Social Studies Total Raw Score,alphanumeric or blank,Not reported for SWD
+318,324,7,filler,,
+325,336,12,filler,,
+337,338,2,Science Performance Level,numeric or blank,11=Advanced
+,,,,,12=Accelerated
+,,,,,13=Proficient
+,,,,,14=Basic
+,,,,,15=Limited
+,,,,,99=invalidated
+,,,,,blank=DNA/TOG/DNS/Missing
+339,341,3,Science Scale Score,alphanumeric or blank,Range 000-999
+,,,,,DNA=Did Not Attempt
+,,,,,INV=Invalidated
+342,344,3,Science Performance Domain Score,alphanumeric or blank,Not reported for SWD
+345,345,1,Indicator 1,alpha or blank,Not reported for SWD
+346,348,3,Science Instructional Context Domain Score,alphanumeric or blank,Not reported for SWD
+349,349,1,Indicator 2,alpha or blank,Not reported for SWD
+350,352,3,"Science Independence
+Domain Score",alphanumeric or blank,Not reported for SWD
+353,353,1,Indicator 3,alpha or blank,Not reported for SWD
+354,356,3,Settings and Interactions Domain Score,alphanumeric or blank,Not reported for SWD
+357,357,1,Indicator 4,alpha or blank,
+358,360,3,"Science Content Standard Raw Score 5
+ALT:  N/A
+OTELA: N/A
+OAT: N/A
+OGT: N/A",,
+361,361,1,Indicator 5,alpha or blank,
+362,362,1,filler,,
+363,365,3,Science Total Raw Score,alphanumeric or blank,Not reported for SWD
+366,367,2,OTELA/ELDA Composite Performance Level,numeric or blank,
+368,370,3,OTElA/ELDA Composite Scale Score,alphanumeric or blank,
+371,373,3,filler,,
+374,382,9,SSID,alphanumeric,"State Student Identification Number, start with two alpha, then 7 numberic."
+383,383,1,"Writng Accommodation Indicator 
+(accommodations for IEP and LEP, including special versions.)",alpha or blank,Not reported for SWD
+384,384,1,"Reading Accommodation Indicator
+(accommodations for IEP and LEP, including special versions.)",alpha or blank,Not reported for SWD
+385,385,1,"Math Accommodation Indicator 
+(accommodations for IEP and LEP, including special versions.)",alpha or blank,Not reported for SWD
+386,386,1,"Social Studies Accommodation Indicator 
+(accommodations for IEP and LEP, including special versions.)",alpha or blank,Not reported for SWD
+387,387,1,"Science Accommodation Indicator
+(accommodations for IEP and LEP, including special versions.)",alpha or blank,Not reported for SWD
+388,392,5,filler,,
+393,402,10,Writing Class Name,alphanumeric,Writing class name or course name
+403,407,5,Writing Session Number,alphanumeric,Writing class session number or course session number
+408,427,20,Writing Teacher Name,alpha,"Writing teacher name (Last Name, First)"
+428,437,10,Readting Class Name,alphanumeric,Reading class name or course name
+438,442,5,Reading Session Number,alphanumeric,Reading class session number or course session number
+443,462,20,Reading Teacher Name,alpha,"Reading teacher name (Last Name, First)"
+463,472,10,Math Class Name,alphanumeric,Math class name or course name
+473,477,5,Math Session Number,alphanumeric,Math class session number or course session number
+478,497,20,Math Teacher Name,alpha,"Math teacher name (Last Name, First)"
+498,507,10,Social Studies Class Name,alphanumeric,Social Studies class name or course name
+508,512,5,Social Studies Session Number,alphanumeric,Social Studies class session number or course session number
+513,532,20,Social Studies Teacher Name,alpha,"Social Studies teacher name (Last Name, First)"
+533,542,10,Science Class Name,alphanumeric,Science class name or course name
+543,547,5,Science Session Number,alphanumeric,Science class session number or course session number
+548,567,20,Science Teacher Name,alpha,"Science teacher name (Last Name, First)"
+568,583,16,filler,,
+584,585,2,DAS,,Data Acquisition Site (Numeric of **)
+586,591,6,Home District IRN,numeric,"Six-digit District IRN; numeric 0-9
+Students in JVSD need their home district reported (OGT only)"
+592,621,30,Home District Name,alphanumeric,"Alpha/numeric
+Students in JVSD need their home district reported (OGT only)"
+622,622,1,School Entity Type,alpha,P=Public
+,,,,,C=Community
+,,,,,D=Diocese
+,,,,,N=Non-Public
+,,,,,O=ODE Special
+,,,,,Y=Youth
+,,,,,J=JVS
+,,,,,F=Special Services Facilities
+,,,,,S=Special Needs
+,,,,,U=JVS-Community
+,,,,,H=Home School
+623,623,1,District Type (OGT specific),alpha or blank,
+624,653,30,County,alpha,County Name
+654,654,1,Accelerated testing -Writing,alpha or blank,
+655,655,1,Accelerated testing - Reading,alpha or blank,
+656,656,1,Accelerated testing - Math,alpha or blank,
+657,657,1,Accelerated testing -Social Studies,alpha or blank,
+658,658,1,Accelerated testing - Science,alpha or blank,
+659,659,1,DNA -Writing,alpha or blank,Not reported for SWD
+660,660,1,DNA- Reading,alpha or blank,Not reported for SWD
+661,661,1,"DNA - Math 
+(Listening for OTELA)",alpha or blank,Not reported for SWD
+662,662,1,"DNA-Social Studies
+(Speaking for OTELA)",alpha or blank,Not reported for SWD
+663,663,1,DNA - Science,alpha or blank,Not reported for SWD
+664,664,1,TOG -Writing,alpha or blank,Not reported for SWD
+665,665,1,TOG- Reading,alpha or blank,Not reported for SWD
+666,666,1,"TOG - Math
+(Listening for OTELA)",alpha or blank,Not reported for SWD
+667,667,1,"TOG-Social Studies
+(Speaking for OTELA)",alpha or blank,Not reported for SWD
+668,668,1,TOG - Science,alpha or blank,Not reported for SWD
+669,669,1,DNS-Writing,alpha or blank,Not reported for SWD
+670,670,1,DNS - Reading,alpha or blank,Not reported for SWD
+671,671,1,"DNS - Math
+(Listening for OTELA)",alpha or blank,Not reported for SWD
+672,672,1,"DNS -Social Studies
+(Speaking for OTELA)",alpha or blank,Not reported for SWD
+673,673,1,DNS- Science,alpha or blank,Not reported for SWD
+674,674,1,INV-Writing,alpha,Y=Yes
+,,,,,N=No
+675,675,1,INV - Reading,alpha,Y=Yes
+,,,,,N=No
+676,676,1,"INV - Math
+(Listening for OTELA)",alpha,Y=Yes
+,,,,,N=No
+677,677,1,"INV -Social Studies
+(Speaking for OTELA)",alpha,Y=Yes
+,,,,,N=No
+678,678,1,INV - Science,alpha,Y=Yes
+,,,,,N=No
+679,687,9,Teacher Identification Number-Writing,alpha/numeric,Districts may provide teacher credential ID numbers so that teacher level results can be tracked across test administrations.
+688,696,9,Teacher Identification Number-Reading,alpha/numeric,Districts may provide teacher credential ID numbers so that teacher level results can be tracked across test administrations.
+697,705,9,Teacher Identification Number-Math,alpha/numeric,Districts may provide teacher credential ID numbers so that teacher level results can be tracked across test administrations.
+706,714,9,Teacher Identification Number-Social Studies,alpha/numeric,Districts may provide teacher credential ID numbers so that teacher level results can be tracked across test administrations.
+715,723,9,Teacher Identification Number-Science,alpha/numeric,Districts may provide teacher credential ID numbers so that teacher level results can be tracked across test administrations.
+724,743,20,Course Code-Writing,alpha/numeric,Districts may populate this field with the writing course code.
+744,763,20,Course Code-Reading,alpha/numeric,Districts may populate this field with the writing course code.
+764,783,20,Course Code-Math,alpha/numeric,Districts may populate this field with the writing course code.
+784,803,20,Course Code-Social Studies,alpha/numeric,Districts may populate this field with the writing course code.
+804,823,20,Course Code-Science,alpha/numeric,Districts may populate this field with the writing course code.

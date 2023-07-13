@@ -1,0 +1,43 @@
+Selected:
+"row-removal",     --- Add a metadata row
+"fill-down" (means fill missing values of a record with empty cells) -- deleting cells in subsequent rows
+"split cells into separate rows" -- Merge cells into rows
+"column-rename",   --- Rename a column into numeric index
+"column-removal",  --- Add a column with a fake index
+"column-split",    --- Merge two columns into one with a spurious separator (e.g. &)
+Trim whitespaces -- Pad a column with spaces before and after
+Collapse whitespaces -- Make all spaces into 4 spaces
+String text to number         ---- (add quotes to numeric string)
+Transform strings to lowercase -- make all letters titlecase
+
+All:
+"core/text-transform",
+"core/mass-edit",
+"core/multivalued-cell-join",
+"core/multivalued-cell-split",
+"core/fill-down",
+"core/blank-down",
+"core/transpose-columns-into-rows",
+"core/transpose-rows-into-columns",
+"core/key-value-columnize",
+"core/column-addition",
+"core/column-removal",
+"core/column-rename",
+"core/column-move",
+"core/column-split",
+"core/column-addition-by-fetching-urls",
+"core/column-reorder",
+"core/row-removal",
+"core/row-star",
+"core/row-flag",
+"core/row-reorder",
+"core/recon",
+"core/recon-mark-new-topics",
+"core/recon-match-best-candidates",
+"core/recon-discard-judgments",
+"core/recon-match-specific-topic-to-cells",
+"core/recon-judge-similar-cells",
+"core/recon-clear-similar-cells",
+"core/recon-copy-across-columns",
+"core/extend-reconciled-data",
+"core/recon-use-values-as-identifiers",

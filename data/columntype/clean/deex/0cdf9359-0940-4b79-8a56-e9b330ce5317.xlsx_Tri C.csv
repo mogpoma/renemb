@@ -1,0 +1,126 @@
+SOC Code,SOC Title,Educational Attainment,Wages (2011) Annual Average,Entry Level,Exper. Level,Employment Estimated 2008,Projected 2018,Percent Change,Annual Openings
+11-1021,General & Operations Managers,AD+,99870,57690,120960,900,840,-0.0667,22
+11-2022,Sales Managers,BD+,100740,48410,126900,210,210,,5
+11-3051,Industrial Production Managers,BD+,102040,58990,123560,170,150,-0.1176,6
+11-9013,"Farmers, Ranchers & Other Agricultural Managers",WK EXP,,,,,,,
+13-1022,Wholesale & Retail Buyers,LT OJT,49960,31640,59110,120,120,,3
+13-1023,Purchasing Agents,LT OJT,53820,38660,61400,290,260,-0.10339999999999999,6
+13-1031,"Claims Adjusters, Examiners & Investigators",LT OJT,70850,59350,76600,70,70,,2
+13-1051,Cost Estimators,BD,57240,39690,66010,300,320,0.0667,8
+13-1081,Logisticians,BD+,67900,43930,79880,20,20,,0
+13-1111,Management Analysts,BD+,117630,55840,148520,250,280,0.12,7
+13-1151,Training & Development Specialists,BD,56060,40020,64090,,,,
+13-1161,Market Research Analysts & Marketing Specialists,BD,56590,32710,68520,,,,
+13-2011,Accountants & Auditors,BD,66010,42280,77880,790,850,0.0759,20
+13-2052,Personal Financial Advisors,BD,,,,190,200,0.0526,3
+13-2072,Loan Officers,MT OJT,62820,39950,74250,250,240,-0.04,3
+15-1121,Computer Systems Analysts,BD,71530,47980,83300,,,,
+15-1131,Computer Programmers,BD,55400,37440,64380,,,,
+15-1132,"Software Developers, Applications",BD,80580,55960,92890,,,,
+15-1133,"Software Developers, Systems Software",BD,86180,59960,99290,,,,
+15-1142,Network & Computer Systems Administrators,BD,66140,44720,76850,,,,
+15-1150,Computer Support Specialists,PS,42150,30250,48090,,,,
+17-2051,Civil Engineers,BD,71600,40050,87380,250,240,-0.04,7
+17-2112,Industrial Engineers,BD,73410,52510,83860,220,260,0.1818,9
+17-2141,Mechanical Engineers,BD,72210,52810,81900,200,180,-0.1,4
+17-2199,"Engineers, Other",BD,103400,60960,124620,30,40,0.3333,1
+17-3011,Architectural & Civil Drafters,AD,39670,22130,48440,160,130,-0.1875,5
+17-3013,Mechanical Drafters,AD,44620,33620,50120,160,140,-0.125,5
+17-3023,Electrical & Electronic Engineering Technicians,AD,48910,34050,56340,60,60,,1
+17-3025,Environmental Engineering Technicians,AD,,,,70,70,,1
+17-3026,Industrial Engineering Technicians,AD,53010,37030,61000,30,30,,1
+19-4021,Biological Technicians,BD,,,,,,,
+21-1011,Substance Abuse & Behavioral Disorder Counselors,MT OJT,35810,27200,40110,130,150,0.15380000000000002,6
+21-1014,Mental Health Counselors,MD,40130,28300,46050,450,530,0.1778,17
+21-1015,Rehabilitation Counselors,MD,24690,17490,28290,170,190,0.1176,5
+21-1021,"Child, Family & School Social Workers",BD,31720,17540,38810,370,440,0.1892,15
+21-1022,Healthcare Social Workers,MD,44100,32030,50130,320,370,0.1563,13
+21-1023,Mental Health & Substance Abuse Social Workers,BD,30340,21110,34950,240,290,0.2083,10
+23-2011,Paralegals & Legal Assistants,AD,60270,47520,66650,180,220,0.22219999999999998,6
+23-2091,Court Reporters,ST OJT,,,,10,10,,0
+25-1011,"Business Teachers, Postsecondary",PhD,,,,130,150,0.15380000000000002,5
+25-1072,"Nursing Instructors & Teachers, Postsecondary",MD,,,,60,70,0.16670000000000001,2
+25-1081,"Education Teachers, Postsecondary",PhD,,,,130,160,0.2308,5
+25-1194,"Vocational Education Teachers, Postsecondary",WK EXP,51720,36880,59140,170,190,0.1176,5
+25-2011,Preschool Teachers,AD,28470,21700,31860,350,390,0.1143,10
+25-2032,"Career/Technical Education Teachers, Secondary School",BD+,74410,61800,80710,70,70,,2
+25-2053,"Special Education Teachers, Middle School",BD,52020,38790,58640,,,,
+25-2054,"Special Education Teachers, Secondary School",BD,53470,36230,62090,,,,
+27-1014,Multimedia Artists & Animators,BD,,,,40,50,0.25,2
+27-1027,Set & Exhibit Designers,BD,,,,,,,
+27-2022,Coaches & Scouts,LT OJT,59500,36230,71140,110,110,,4
+27-4011,Audio & Video Equipment Technicians,PS,,,,10,10,,0
+27-4012,Broadcast Technicians,AD,,,,30,30,,1
+27-4014,Sound Engineering Technicians,PS,,,,,,,
+27-4031,"Camera Operators: TV, Video & Motion Picture",BD,,,,,,,
+27-4032,Film & Video Editors,BD+,,,,,,,
+29-1031,Dietitians & Nutritionists,BD,45220,28640,53510,50,50,,1
+29-1051,Pharmacists,PROF,108810,95600,115410,240,310,0.2917,11
+29-1111,Registered Nurses,AD,67150,47460,77000,2860,3320,0.16080000000000003,93
+29-1122,Occupational Therapists,MD,71860,54540,80520,80,100,0.25,3
+29-1126,Respiratory Therapists,AD,53540,50100,55260,140,160,0.1429,4
+29-2011,Medical & Clinical Laboratory Technologists,BD,46360,33050,53020,50,50,,1
+29-2012,Medical & Clinical Laboratory Technicians,AD,31000,24420,34290,110,120,0.0909,3
+29-2021,Dental Hygienists,AD,50400,43450,53880,140,160,0.1429,5
+29-2031,Cardiovascular Technologists & Technicians,AD,,,,50,60,0.2,2
+29-2032,Diagnostic Medical Sonographers,AD,51550,44150,55250,30,30,,0
+29-2037,Radiologic Technologists & Technicians,AD,45610,35970,50430,,,,
+29-2041,Emergency Medical Technicians & Paramedics,PS,28300,22090,31400,360,370,0.027800000000000002,6
+29-2052,Pharmacy Technicians,MT OJT,25850,19940,28810,330,460,0.39390000000000003,24
+29-2055,Surgical Technologists,PS,37600,33330,39740,90,100,0.11109999999999999,5
+29-2056,Veterinary Technologists & Technicians,AD,,,,40,60,0.5,3
+29-2061,Licensed Practical & Licensed Vocational Nurses,PS,35550,28430,39110,920,990,0.0761,32
+29-2071,Medical Records & Health Information Technicians,PS,33700,22930,39080,120,130,0.0833,4
+31-1012,"Nursing Aides, Orderlies & Attendants",PS,25360,20200,27940,2000,2260,0.13,43
+31-2011,Occupational Therapy Assistants,AD,53970,40950,60480,20,20,,0
+31-2021,Physical Therapist Assistants,AD,33620,25970,37450,130,160,0.2308,5
+31-9091,Dental Assistants,PS,24070,21790,25200,270,310,0.1481,9
+31-9092,Medical Assistants,MT OJT,26150,19710,29380,290,350,0.2069,10
+31-9097,Phlebotomists,TBD,,,,,,,
+33-3012,Correctional Officers & Jailers,MT OJT,46270,32550,53130,310,310,,7
+33-3051,Police & Sheriff's Patrol Officers,MT OJT,47720,28280,57440,560,560,,15
+35-1012,Supervisors - Food Preparation & Serving Workers,WK EXP,33300,23640,38120,660,720,0.0909,10
+37-2021,Pest Control Workers,MT OJT,,,,,,,
+39-3011,Gaming Dealers,MT OJT,,,,,,,
+39-5011,Barbers,PS,,,,,,,
+39-5012,"Hairdressers, Hairstylists & Cosmetologists",PS,20520,17000,22280,950,1090,0.1474,24
+39-9021,Personal Care Aides,ST OJT,19480,17080,20680,550,730,0.32730000000000004,27
+41-1011,Supervisors - Retail Sales Workers,WK EXP,46210,29660,54490,1230,1280,0.0407,30
+41-2022,Parts Salespersons,MT OJT,29210,20470,33580,300,270,-0.1,3
+41-3021,Insurance Sales Agents,MT OJT,59340,34360,71830,320,330,0.0313,9
+41-3031,"Securities, Commodities & Financial Services Sales Agents",BD,58700,25400,75350,120,130,0.0833,3
+41-4011,"Sales Representatives, Technical & Scientific Products",BD,72550,40120,88760,250,250,,6
+41-4012,Sales Representatives,MT OJT,66910,34550,83090,1790,1780,-0.005600000000000001,39
+41-9022,Real Estate Sales Agents,LT OJT,51070,33620,59800,190,180,-0.0526,3
+43-1011,Supervisors - Office & Administrative Support Workers,WK EXP,50580,32470,59630,1120,1080,-0.0357,23
+43-3011,Bill & Account Collectors,MT OJT,31830,24870,35310,200,220,0.1,5
+43-3021,Billing & Posting Clerks,ST OJT,28860,22480,32060,600,570,-0.05,8
+43-3031,"Bookkeeping, Accounting & Auditing Clerks",MT OJT,32400,21660,37770,1740,1840,0.0575,36
+43-4051,Customer Service Representatives,ST OJT,33390,23880,38150,2580,2920,0.1318,106
+43-4111,Interviewers,ST OJT,35540,26150,40230,90,100,0.11109999999999999,3
+43-4131,Loan Interviewers & Clerks,ST OJT,37940,29420,42200,80,60,-0.25,1
+43-5011,Cargo & Freight Agents,ST OJT,35800,23050,42170,10,10,,0
+43-5061,"Production, Planning & Expediting Clerks",MT OJT,42310,28290,49320,310,300,-0.0323,8
+43-5071,"Shipping, Receiving & Traffic Clerks",ST OJT,31930,23130,36340,650,590,-0.09230000000000001,16
+43-6011,Executive Secretaries & Executive Administrative Assistants,WK EXP,47400,33280,54460,610,640,0.0492,12
+43-6012,Legal Secretaries,MT OJT,48570,41710,52000,140,150,0.0714,3
+43-6014,Secretaries,ST OJT,29440,20760,33780,2240,2050,-0.0848,36
+43-9041,Insurance Claims & Policy Processing Clerks,MT OJT,35220,28190,38740,50,40,-0.2,1
+43-9061,"Office Clerks, General",ST OJT,27260,18470,31660,3590,3660,0.0195,74
+45-1011,Farm & Forestry Worker Supervisors,WK EXP,41230,35340,44170,60,70,0.16670000000000001,1
+47-1011,Supervisors - Construction Trades & Extraction Workers,WK EXP,59330,38560,69710,520,540,0.0385,9
+47-2021,Brickmasons & Blockmasons,LT OJT,44460,34780,49300,110,110,,2
+47-2031,Carpenters,LT OJT,37580,24390,44170,1690,1750,0.035500000000000004,30
+47-2051,Cement Masons & Concrete Finishers,MT OJT,43360,29360,50350,190,200,0.0526,7
+47-2073,Operating Engineers & Other Construction Equipment Operators,MT OJT,44530,30630,51480,1070,1110,0.0374,25
+47-2111,Electricians,LT OJT,57000,36770,67120,600,620,0.0333,18
+47-2132,"Insulation Workers, Mechanical",LT OJT,,,,,,,
+47-2141,"Painters, Construction & Maintenance",MT OJT,29550,23230,32710,230,240,0.043500000000000004,5
+47-2152,"Plumbers, Pipefitters & Steamfitters",LT OJT,54360,35100,63990,160,170,0.0625,3
+47-2181,Roofers,MT OJT,,,,,,,
+47-2211,Sheet Metal Workers,LT OJT,54640,49590,57170,10,10,,0
+47-4011,Construction & Building Inspectors,WK EXP,48000,37650,53170,110,110,,2
+47-5011,"Derrick Operators, Oil & Gas",ST OJT,38030,29830,42140,50,50,,1
+47-5012,"Rotary Drill Operators, Oil & Gas",MT OJT,35810,27600,39920,280,290,0.0357,4
+47-5013,"Service Unit Operators, Oil, Gas & Mining",MT OJT,34550,27050,38310,250,280,0.12,6
+47-5041,Continuous Mining Machine Operators,MT OJT,36590,21860,43950,,,,

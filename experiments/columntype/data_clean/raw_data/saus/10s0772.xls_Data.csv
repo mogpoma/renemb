@@ -1,0 +1,82 @@
+Industry \1,2002 NAICS code,U.S. parents Total assets (million dollars),Capital expenditures (million dollars),Value added (million dollars),"Employment (1,000)",Majority-owned foreign affiliates Capital expenditures (million dollars),Value added (million dollars),"Employment (1,000)"
+All industries,(X),18520846.0,442573.0,2509219.0,21747.6,153163.0,995638.0,9497.8
+Mining,21,325779.0,34104.0,64997.0,179.1,42451.0,129703.0,167.7
+Oil and gas extraction,211,189136.0,24191.0,33559.0,30.2,37924.0,110312.0,47.5
+Other,"212, 213",136643.0,9914.0,31439.0,148.9,4527.0,19390.0,120.2
+Utilities,22,569626.0,28996.0,75094.0,226.4,3044.0,11168.0,46.1
+Manufacturing,31-33,4868473.0,168319.0,1045509.0,7545.9,59631.0,455497.0,4536.3
+Food,311,295012.0,7721.0,64915.0,630.3,3228.0,28294.0,402.7
+Beverages and tobacco products,312,211333.0,3852.0,57650.0,224.5,2152.0,45077.0,218.5
+"Textiles, apparel, and leather products",313-316,25652.0,839.0,11262.0,150.9,323.0,3962.0,133.4
+Wood products,321,36960.0,1152.0,8244.0,69.8,484.0,1762.0,21.6
+Paper,322,105013.0,3463.0,36539.0,224.4,1485.0,10043.0,108.6
+Printing and related support activities,323,20688.0,726.0,11341.0,133.1,113.0,1668.0,31.4
+Petroleum and coal products,324,589570.0,23497.0,154597.0,262.7,5417.0,69841.0,38.1
+Chemicals,325,881619.0,21514.0,185277.0,893.3,9356.0,86228.0,579.9
+Basic chemicals,3251,126614.0,4853.0,25519.0,123.8,2481.0,14153.0,70.8
+"Resins and synthetic rubber, fibers, and filaments",3252,92262.0,3152.0,20565.0,96.4,1283.0,8139.0,62.8
+Pharmaceuticals and medicines,3254,478214.0,10040.0,93754.0,403.4,3316.0,37638.0,206.5
+"Soap, cleaning compounds, and toilet preparations",3256,98064.0,1719.0,21952.0,120.3,1092.0,12661.0,131.3
+Other,"3253, 3255, 3259",86465.0,1750.0,23487.0,149.3,1184.0,13637.0,108.5
+Plastics and rubber products,326,85529.0,2633.0,26391.0,286.0,1387.0,11844.0,177.8
+Nonmetallic mineral products,327,62611.0,2056.0,19965.0,146.6,1619.0,7827.0,78.2
+Primary and fabricated metals,"331, 332",173774.0,5809.0,61696.0,540.3,3816.0,18881.0,237.7
+Primary metals,331,115422.0,4328.0,39218.0,290.8,2938.0,9830.0,108.0
+Fabricated metal products,332,58352.0,1481.0,22479.0,249.6,878.0,9050.0,129.8
+Machinery,333,241717.0,6294.0,54565.0,550.4,2332.0,27744.0,369.5
+"Agriculture, construction, and mining machinery",3331,133445.0,3408.0,17598.0,159.2,781.0,6916.0,81.0
+Industrial machinery,3332,40134.0,1268.0,13083.0,108.3,133.0,2742.0,29.8
+Other,"3333-3336, 3339",68137.0,1617.0,23885.0,282.8,1417.0,18085.0,258.7
+Computers and electronic products,334,510814.0,16141.0,100227.0,863.0,10739.0,47276.0,691.6
+Computers and peripheral equipment,3341,118225.0,2775.0,15421.0,177.8,1116.0,11197.0,139.4
+Communications equipment,3342,123564.0,3489.0,22267.0,171.3,735.0,7929.0,132.4
+Audio and video equipment,3343,11326.0,198.0,2073.0,24.5,246.0,1105.0,26.4
+Semiconductors and other electronic components,3344,173147.0,8348.0,36121.0,242.6,8145.0,19619.0,304.8
+"Navigational, measuring, and other instruments",3345,82760.0,1307.0,23996.0,243.0,292.0,6476.0,73.4
+Magnetic and optical media,3346,1793.0,24.0,350.0,3.8,205.0,950.0,15.2
+"Electrical equipment, appliances, and components",335,99231.0,2724.0,29879.0,300.3,1545.0,12115.0,249.7
+Transportation equipment,336,1362970.0,66231.0,183800.0,1820.9,13758.0,62687.0,953.4
+"Motor vehicles, bodies and trailers, and parts",3361-3363,732499.0,48715.0,61288.0,872.1,13346.0,57861.0,897.4
+Other,"3364-3366, 3369",630471.0,17515.0,122512.0,948.8,412.0,4827.0,56.0
+Furniture and related products,337,21540.0,508.0,9537.0,126.3,109.0,1621.0,35.2
+Miscellaneous manufacturing,339,144438.0,3159.0,29623.0,323.2,1767.0,18627.0,209.0
+Wholesale trade,42,721870.0,25837.0,132651.0,1061.2,7439.0,142512.0,763.0
+Professional and commercial equipment and supplies,4234,47969.0,(D),15063.0,117.9,2104.0,34079.0,276.7
+Petroleum and petroleum products,4247,133647.0,(D),27216.0,47.9,736.0,31759.0,19.7
+Drugs and druggists' sundries,4242,55019.0,723.0,8807.0,107.4,787.0,21608.0,108.2
+Other,"4231-4233, 4235-4239, 4241, .4243-4246, 4248, 4249",,,,,,,
+,,485235.0,16078.0,81565.0,788.0,3812.0,55066.0,358.4
+Information,51,1486838.0,57094.0,287669.0,1864.8,5638.0,40607.0,331.2
+Publishing industries,511,199292.0,4034.0,45059.0,331.3,1083.0,16165.0,95.2
+Motion picture and sound recording industries,512,36947.0,470.0,3663.0,48.8,114.0,3912.0,27.5
+Broadcasting (except Internet) and telecommunications,"515, 517",1134995.0,47383.0,200259.0,1169.9,3405.0,7711.0,72.5
+Broadcasting (except internet),515,373363.0,4898.0,54817.0,298.9,570.0,1017.0,11.1
+Telecommunications,517,761632.0,42485.0,145441.0,871.0,2835.0,6694.0,61.4
+"Internet, data processing, and other information services","516, 518, 519",115604.0,5207.0,38688.0,314.8,1036.0,12818.0,136.0
+Finance (except depository institutions) and insurance,"52 exc., 521, 522",8753807.0,39561.0,231465.0,1148.4,9280.0,38043.0,292.6
+"Finance, except depository institutions","523, 525",4362021.0,26750.0,94873.0,424.6,8422.0,13049.0,152.4
+"Securities, commodity contracts, and other intermediation .and related activities",,,,,,,,
+,5231,3789514.0,4042.0,77909.0,315.5,874.0,9661.0,66.6
+"Other finance, except depository institutions","5232, 5239, 525",572508.0,22708.0,16965.0,109.1,7548.0,3388.0,85.9
+Insurance carriers and related activities,524,4391786.0,12811.0,136591.0,723.9,858.0,24994.0,140.2
+"Professional, scientific, and technical services",54,343613.0,8969.0,141835.0,1157.7,3809.0,57745.0,585.5
+"Architectural, engineering, and related services",5413,20184.0,771.0,15885.0,144.7,262.0,4048.0,44.4
+Computer systems design and related services,5415,161979.0,4159.0,56347.0,407.1,2234.0,31846.0,309.6
+"Management, scientific, and technical consulting",5416,16175.0,529.0,9521.0,74.4,377.0,7462.0,56.4
+Advertising and related services,5418,56711.0,822.0,11069.0,91.1,341.0,5800.0,61.5
+Other,"5411, 5412, 5414, 5417, 5419",88563.0,2688.0,49015.0,440.4,595.0,8588.0,113.7
+Other industries,(X),1450840.0,79693.0,529998.0,8564.1,21872.0,120364.0,2775.5
+"Agriculture, forestry, fishing, and hunting",11,6627.0,339.0,2091.0,49.0,124.0,1105.0,55.6
+Construction,23,30877.0,600.0,13109.0,158.8,106.0,3565.0,45.9
+Retail trade,44-45,434847.0,27287.0,200743.0,3926.8,5683.0,48404.0,890.1
+Transportation and warehousing,48-49,347810.0,19052.0,132986.0,983.6,1979.0,14040.0,196.6
+Real estate and rental and leasing,53,151703.0,12787.0,29898.0,264.3,8239.0,20674.0,68.3
+Real estate,531,61202.0,3199.0,8979.0,43.8,5663.0,4138.0,12.8
+Rental and leasing (except real estate),532,90502.0,9588.0,20919.0,220.5,2576.0,16536.0,55.5
+Management of nonbank companies and enterprises,55,142971.0,607.0,7858.0,14.6,307.0,-10968.0,26.5
+"Administration, support, and waste management",56,112884.0,4591.0,54234.0,1211.5,657.0,24488.0,739.4
+Health care and social assistance,62,40017.0,2350.0,24028.0,307.0,182.0,588.0,9.1
+Accommodation and food services,72,97138.0,6223.0,40174.0,1204.3,3123.0,12947.0,638.3
+Accommodation,721,46581.0,3080.0,10589.0,255.2,1697.0,3777.0,66.9
+Food services and drinking places,722,50556.0,3144.0,29585.0,949.1,1426.0,9170.0,571.3
+Miscellaneous services,81,85965.0,5857.0,24877.0,444.3,1472.0,5522.0,105.7

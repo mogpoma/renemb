@@ -1,0 +1,11 @@
+Motorway,Road Length KM,Car KSI Casualties,Casualty Rate Per 100 Million Car Km,Goods KSI Casualties,Casualty Rate Per 100 Million Goods Km,All KSI Casualties,Casualty Rate Per 100 Million Vehicle Km
+M6,15,1,0.2,0,0.0,1,0.2
+M56,11,1,0.3,0,0.0,3,0.8
+M58,1,0,0.0,0,0.0,0,0.0
+M60,60,11,0.6,2,0.4,13,0.5
+M61,22,1,0.2,0,0.0,3,0.5
+M62,27,3,0.4,0,0.0,3,0.3
+M66,13,0,0.0,0,0.0,1,0.3
+M67,8,1,1.2,0,0.0,1,0.9
+M602,7,1,0.8,1,3.4,2,1.3
+A627(M),7,5,6.6,0,0.0,5,5.1

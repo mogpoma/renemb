@@ -1,0 +1,10 @@
+,sp,Clim.scen,threshold,Model,TotSuitArea
+1,Aspen,current,x10ptp,LowAICc,7279775
+2,Aspen,HLCmrmidbi,x10ptp,LowAICc,6044085
+3,Aspen,HLCmemidbi,x10ptp,LowAICc,7076217
+4,Aspen,HLCccmidbi,x10ptp,LowAICc,6751115
+5,Aspen,HLCipmidbi,x10ptp,LowAICc,7796844
+6,Aspen,LGMmrlgmbi,x10ptp,LowAICc,1708950
+7,Aspen,LGMmelgmbi,x10ptp,LowAICc,3442640
+8,Aspen,LGMcclgmbi,x10ptp,LowAICc,2467516
+9,Aspen,LIGlig_30s,x10ptp,LowAICc,6427301

@@ -1,0 +1,664 @@
+[
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "schema": {
+      "prefixes": [
+        {
+          "name": "dbo",
+          "uri": "http://dbpedia.org/ontology/"
+        },
+        {
+          "name": "dbp",
+          "uri": "http://dbpedia.org/property/"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        }
+      ],
+      "baseUri": "http://127.0.0.1:3333/",
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "links": [
+            {
+              "uri": "http://dbpedia.org/property/longitude",
+              "curie": "dbp:longitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lon",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/latitude",
+              "curie": "dbp:latitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lat",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/fullname",
+              "curie": "dbp:fullname",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "NOMBRE",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/address",
+              "curie": "dbp:address",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "DIRECCION",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/phoneNumber",
+              "curie": "dbp:phoneNumber",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "TELEFONO",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/url",
+              "curie": "dbp:url",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "WEB",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/photo",
+              "curie": "dbp:photo",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "Foto",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            }
+          ],
+          "rdfTypes": []
+        }
+      ]
+    },
+    "description": "Save RDF schema skeleton"
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "schema": {
+      "prefixes": [
+        {
+          "name": "dbo",
+          "uri": "http://dbpedia.org/ontology/"
+        },
+        {
+          "name": "dbp",
+          "uri": "http://dbpedia.org/property/"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        }
+      ],
+      "baseUri": "http://culturaandaluza.es/sevilla/",
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "links": [
+            {
+              "uri": "http://dbpedia.org/property/longitude",
+              "curie": "dbp:longitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lon",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/latitude",
+              "curie": "dbp:latitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lat",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/fullname",
+              "curie": "dbp:fullname",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "NOMBRE",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/address",
+              "curie": "dbp:address",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "DIRECCION",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/phoneNumber",
+              "curie": "dbp:phoneNumber",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "TELEFONO",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/url",
+              "curie": "dbp:url",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "WEB",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/photo",
+              "curie": "dbp:photo",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "Foto",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            }
+          ],
+          "rdfTypes": [
+            {
+              "uri": "http://dbpedia.org/ontology/Museum",
+              "curie": "dbo:Museum"
+            }
+          ]
+        }
+      ]
+    },
+    "description": "Save RDF schema skeleton"
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "schema": {
+      "prefixes": [
+        {
+          "name": "dbo",
+          "uri": "http://dbpedia.org/ontology/"
+        },
+        {
+          "name": "dbp",
+          "uri": "http://dbpedia.org/property/"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        }
+      ],
+      "baseUri": "http://culturaandaluza.es/sevilla/",
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "links": [
+            {
+              "uri": "http://dbpedia.org/property/longitude",
+              "curie": "dbp:longitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lon",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/latitude",
+              "curie": "dbp:latitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lat",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/fullname",
+              "curie": "dbp:fullname",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "NOMBRE",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/address",
+              "curie": "dbp:address",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "DIRECCION",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/phoneNumber",
+              "curie": "dbp:phoneNumber",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "TELEFONO",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/url",
+              "curie": "dbp:url",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "WEB",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/photo",
+              "curie": "dbp:photo",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "Foto",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            }
+          ],
+          "rdfTypes": [
+            {
+              "uri": "http://dbpedia.org/ontology/Museum",
+              "curie": "dbo:Museum"
+            }
+          ]
+        }
+      ]
+    },
+    "description": "Save RDF schema skeleton"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "NOMBRE",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q33506",
+        "name": "museum"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column NOMBRE to type Q33506"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "NOMBRE",
+    "expression": "grel:\"https://wikidata.org/entity\"+cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "same_as",
+    "columnInsertIndex": 4,
+    "description": "Create column same_as at index 4 based on column NOMBRE using expression grel:\"https://wikidata.org/entity\"+cell.recon.match.id"
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "schema": {
+      "prefixes": [
+        {
+          "name": "dbo",
+          "uri": "http://dbpedia.org/ontology/"
+        },
+        {
+          "name": "dbp",
+          "uri": "http://dbpedia.org/property/"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        }
+      ],
+      "baseUri": "http://culturaandaluza.es/sevilla/",
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "links": [
+            {
+              "uri": "http://dbpedia.org/property/longitude",
+              "curie": "dbp:longitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lon",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/latitude",
+              "curie": "dbp:latitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lat",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/fullname",
+              "curie": "dbp:fullname",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "NOMBRE",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/address",
+              "curie": "dbp:address",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "DIRECCION",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/phoneNumber",
+              "curie": "dbp:phoneNumber",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "TELEFONO",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/url",
+              "curie": "dbp:url",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "WEB",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/photo",
+              "curie": "dbp:photo",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "Foto",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2002/07/owl#sameAs",
+              "curie": "owl:sameAs",
+              "target": {
+                "nodeType": "cell-as-resource",
+                "columnName": "same_as",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "links": [],
+                "rdfTypes": []
+              }
+            }
+          ],
+          "rdfTypes": [
+            {
+              "uri": "http://dbpedia.org/ontology/Museum",
+              "curie": "dbo:Museum"
+            }
+          ]
+        }
+      ]
+    },
+    "description": "Save RDF schema skeleton"
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "schema": {
+      "prefixes": [
+        {
+          "name": "dbo",
+          "uri": "http://dbpedia.org/ontology/"
+        },
+        {
+          "name": "dbp",
+          "uri": "http://dbpedia.org/property/"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        }
+      ],
+      "baseUri": "http://culturaandaluza.es/sevilla/",
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "links": [
+            {
+              "uri": "http://dbpedia.org/property/longitude",
+              "curie": "dbp:longitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lon",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/latitude",
+              "curie": "dbp:latitude",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "lat",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/fullname",
+              "curie": "dbp:fullname",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "NOMBRE",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/address",
+              "curie": "dbp:address",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "DIRECCION",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/phoneNumber",
+              "curie": "dbp:phoneNumber",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "TELEFONO",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/url",
+              "curie": "dbp:url",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "WEB",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://dbpedia.org/property/photo",
+              "curie": "dbp:photo",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "columnName": "Foto",
+                "expression": "value",
+                "isRowNumberCell": false
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2002/07/owl#sameAs",
+              "curie": "owl:sameAs",
+              "target": {
+                "nodeType": "cell-as-resource",
+                "columnName": "same_as",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "links": [],
+                "rdfTypes": []
+              }
+            }
+          ],
+          "rdfTypes": [
+            {
+              "uri": "http://dbpedia.org/ontology/Museum",
+              "curie": "dbo:Museum"
+            }
+          ]
+        }
+      ]
+    },
+    "description": "Save RDF schema skeleton"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "same_as",
+    "description": "Remove column same_as"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "NOMBRE",
+    "expression": "grel:\"https://wikidata.org/entity/\"+cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "same_as",
+    "columnInsertIndex": 4,
+    "description": "Create column same_as at index 4 based on column NOMBRE using expression grel:\"https://wikidata.org/entity/\"+cell.recon.match.id"
+  }
+]

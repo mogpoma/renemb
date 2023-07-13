@@ -1,0 +1,243 @@
+[
+  {
+    "op": "core/column-removal",
+    "description": "Remove column doc - arr - name",
+    "columnName": "doc - arr - name"
+  },
+  {
+    "op": "core/row-reorder",
+    "description": "Reorder rows",
+    "mode": "record-based",
+    "sorting": {
+      "criteria": [
+        {
+          "reverse": false,
+          "column": "doc - arr - str",
+          "caseSensitive": false,
+          "valueType": "string",
+          "blankPosition": 2,
+          "errorPosition": 1
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/blank-down",
+    "description": "Blank down cells in column doc - arr - str",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "doc - arr - str"
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "facets": [
+        {
+          "expression": "value",
+          "invert": false,
+          "selectError": false,
+          "omitError": false,
+          "name": "doc - arr - str",
+          "selectBlank": true,
+          "columnName": "doc - arr - str",
+          "omitBlank": false,
+          "type": "list",
+          "selection": []
+        }
+      ],
+      "mode": "row-based"
+    }
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column doc - arr - str to label",
+    "oldColumnName": "doc - arr - str",
+    "newColumnName": "label"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column label-uri at index 1 based on column label using expression grel:value.toLowercase().trim().replace(\"/\",\"\").replace(\",\",\"\").replace(\" \",\" \").replace(\"(\",\"\").replace(\")\",\"\").replace(\" \",\"-\").replace(\".\",\"\").replace(\"á\",\"a\").replace(\"é\",\"e\").replace(\"í\",\"i\").replace(\"ó\",\"o\").replace(\"ú\",\"u\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "label-uri",
+    "columnInsertIndex": 1,
+    "baseColumnName": "label",
+    "expression": "grel:value.toLowercase().trim().replace(\"/\",\"\").replace(\",\",\"\").replace(\" \",\" \").replace(\"(\",\"\").replace(\")\",\"\").replace(\" \",\"-\").replace(\".\",\"\").replace(\"á\",\"a\").replace(\"é\",\"e\").replace(\"í\",\"i\").replace(\"ó\",\"o\").replace(\"ú\",\"u\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://vocab.linkeddata.es/datosabiertos/kos/sector-publico/servicio/tipo-agente/",
+      "prefixes": [
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "prov-o",
+          "uri": "http://www.w3.org/ns/prov#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "skos",
+          "uri": "http://www.w3.org/2004/02/skos/core#"
+        },
+        {
+          "name": "dcterms",
+          "uri": "http://purl.org/dc/terms/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": false,
+          "columnName": "label-uri",
+          "rdfTypes": [
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#Concept",
+              "curie": "skos:Concept"
+            }
+          ],
+          "links": [
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#inScheme",
+              "curie": "skos:inScheme",
+              "target": {
+                "nodeType": "resource",
+                "value": "http://vocab.linkeddata.es/datosabiertos/kos/sector-publico/servicio/tipo-agente",
+                "rdfTypes": [
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+                    "curie": "skos:ConceptScheme"
+                  },
+                  {
+                    "uri": "http://www.w3.org/ns/prov#Entity",
+                    "curie": "prov-o:Entity"
+                  }
+                ],
+                "links": [
+                  {
+                    "uri": "http://purl.org/dc/terms/title",
+                    "curie": "dcterms:title",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Clasificación de tipos de agente a los que puede ir dirigido un servicio público",
+                      "lang": "es"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Oscar Corcho (Universidad Politécnica de Madrid)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Freddy Priyatna (Universidad Politécnica de Madrid)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Idafen Santana (Universidad Politécnica de Madrid)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/creator",
+                    "curie": "dcterms:creator",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "Víctor Rodríguez-Doncel (Universidad Politécnica de Madrid)"
+                    }
+                  },
+                  {
+                    "uri": "http://purl.org/dc/terms/date",
+                    "curie": "dcterms:date",
+                    "target": {
+                      "nodeType": "literal",
+                      "value": "2016-12-09",
+                      "valueType": "http://www.w3.org/2001/XMLSchema#date"
+                    }
+                  },
+                  {
+                    "uri": "http://www.w3.org/ns/prov#wasAttributedTo",
+                    "curie": "prov-o:wasAttributedTo",
+                    "target": {
+                      "nodeType": "resource",
+                      "value": "http://www.linkedin.com/in/ocorcho",
+                      "rdfTypes": [],
+                      "links": []
+                    }
+                  },
+                  {
+                    "uri": "http://www.w3.org/2004/02/skos/core#hasTopConcept",
+                    "curie": "skos:hasTopConcept",
+                    "target": {
+                      "nodeType": "cell-as-resource",
+                      "expression": "value",
+                      "isRowNumberCell": false,
+                      "columnName": "label-uri",
+                      "rdfTypes": [],
+                      "links": []
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#prefLabel",
+              "curie": "skos:prefLabel",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "lang": "es",
+                "columnName": "label"
+              }
+            },
+            {
+              "uri": "http://www.w3.org/2004/02/skos/core#notation",
+              "curie": "skos:notation",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "label-uri"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

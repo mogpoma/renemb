@@ -1,0 +1,25 @@
+"ECE CLINIC PROJECTS, Fall Semester 2002",,,,,,,,,,,,
+Proj #,Project Title,PM,Co-PM's,Funding Source,Students Assigned,ChE,CE,ME,ECE,CS,Bus,Any
+ECE-S03-01,Breast Phantoms for Mammographic Radiodensity Estimation Design breast tissue phantoms for calibrating digital image processing algorithm,Mandayam,Kadlowec,ACS,,,,,,,,
+ECE-S03-02,"Pattern Recognition.  Research based project that involves artificial neural networks, machine learning, data fusion and pattern recognition",Polikar,Lewitt,DOE,,,,,,,,
+ECE-S03-03,Microbusiness. Focus uBiz on providing engineering design and prototyping services for printed circuit boards (PCBs) and flat-panels using the AWJ. Run as a cost center.,"Weiss, Pietrucha",,Cost-Center,,,,,,,,
+ECE-S03-04,"Virtual Reality System. Configure a portable semi-immersive VR system with hardware and software for interactive data
+display.",Mandayam,,NSF-MRI,,,,,,,,
+ECE-S03-05,"Acoustic Emission Test Platform. Design and build a test platform for inspecting pipeline steel specimens using acoustic emission. The platform must support bi-axial stresses in the specimen up to 30,000 psi.",Mandayam,"Kulick, Schmalzel",Exxon-Mobil,,,,,,,,
+ECE-S03-06,"NIL Processing: Magnetics, Optical Sensors, Molecular Electronics, Bio. Fabricate nanoscale features for magnetic applications at IBM, optical sensors at LaSys, and single-molecule devices at Columbia U. Instrument imprinting machine.",Krchnavek,,NSF/NJCHE,,,,,,,,
+ECE-S03-07,Design and Fabrication of 3-D Structures for in-vivo bone cell studies. Design and fabricate true 3-D structures for in-vitro bone studies.,Krchnavek,,NJCHE/Columbia U.,,,,,,,,
+ECE-S03-08,Design and Fabrication of a Vacuum Suitcase. This project requires the design and fabrication of a portable structure to transfer samples under UHV (10^-10 torr).,Krchnavek,,Columbia U.,,,,,,,,
+ECE-S03-09,NJDOT/State Police Vehicle Cockpits. Complete technology design and integration into Troop Car and BearCat.,Schmalzel,"Guest, Marino, Mandayam",NJDOT/State Police/FHWA,,,,,,,,
+ECE-S03-10,"Electric Power System Optimization: Perform feeder analysis, loss studies, and load flows using GE- GIS System (CYME software) for substations in a local utility operating district - Glassboro Ops",Jansson,,Conectiv Power Delivery - Glassboro Operations,,,,,,,,
+ECE-S03-11,Streetlight Lamp Testing & Communication Protocol: Test electronic methods to perform lamp life test in a microprocessor controlled photocontrol and determine the most cost/effective method (and IEEE std) to transmit data in a final product,Jansson,Schmalzel,"PHI Lighting, Conectiv Power Delivery, Dark to Light a Division of Lithonia, General Electric, and Public Service Electric and Gas",,,,,,,,
+ECE-S03-12,"Strategic and Business Planning: Perform issue and trend analyses; clean energy, green power, flat rates, process automation, e-Business, on-line transactions, and strategic planning to assist in Business Planning for this Regional Electric Utility.",Jansson,,Conectiv Power Delivery - Wilmington DE,,,,,,,,
+ECE-S03-13,"Neural Circuits. Apply VLSI design tecniques to the implementation of CMOS based ""neural"" circuits.  Develop simulations of functional neurons and neural circuits; Design and simulate VLSI circuits to reproduce the functionality of simple/complex neurons and simple neural circuits.",Head,"Ramachandran, Tang",(ECE Internal),,,,,,,,
+ECE-S03-14,"BME experiments for ECE Experiments for Integrating BME Concepts into ECE Curriculum: We will design experiments that have a distinct biomedical engineering application for core ECE courses. Interest in experimental design, as well as strong background in networks II, electronics I and digital II is required.",Polikar,"Head, Ramachandran",NSF CCLI,,,,,,,,
+ECE-S03-15,"VLSI Implementation of a Quadrature Mirror Filter (QMF) Bank for Speech
+Coding.  Design and test a VLSI implementation of a quadrature mirror filter bank.",Ramachandran,Head,(ECE Internal),,,,,,,,
+ECE-S03-16,Biomedical: Portable Temperature Monitor. Design/implement a portable temperature monitor. Develop proposal(s) for outside funding.,Schmalzel,"McDermott, Polikar",(Foundation),,,,,,,,
+ECE-S03-17,"Simulation a Virtual-Production-Line-Based Reconfigurable Manufacturing System  Students will study and analyze the definitions, properties, and algorithms of Attributed Finite Automata- a discrete event system modeling technique. They will present an implementation method to simulate a VPL-based reconfigurable manufacturing system and statistical confidence analysis will be performed.",Tang,,(ECE Internal),,,,,,,,
+ECE-S03-18,Venture Capital Fund Project,Various,,NCIIA,,,,,,,,
+ECE-S03-19,"Automated Identification and Quantification of VOCs Using Electronic Nose Systems: This is a research based interdisciplinary project integrating signal processing, pattern recognition and analytical chemistry. Strong background in algorithm development and MATLAB is required for ECEs, and familiarity with chemical sensors is required for ChemEs.",Polikar,Jahan,,,,,,,,,
+,,,,Totals,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,Program Request,,0.0,,,,,,

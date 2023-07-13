@@ -1,0 +1,5 @@
+Data field position,Column A,Column B,Column C,Column D
+Data field,hospital code,0 to 6,7 to 10,Unknown
+Data field description,hospital code (see file 2011reporthospitals for key),Number of patients where Abbreviated Mental Test Score (AMTS) is >=0 and <=6,Number of patients where Abbreviated Mental Test Score (AMTS) is >=7 and <=10,Number of patients where Abbreviated Mental Test Score (AMTS) is unknown
+Data field type,text,integer,integer,integer
+Data field format,text,integer,integer,integer

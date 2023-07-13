@@ -1,0 +1,152 @@
+[
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "DISTRICT",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q3032114",
+        "name": "district of Madrid"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column DISTRICT to type Q3032114"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "DISTRICT",
+    "expression": "grel:\"https://wikidata.org/wiki/\"+cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "WIKIDATA_DISTRICT",
+    "columnInsertIndex": 2,
+    "description": "Create column WIKIDATA_DISTRICT at index 2 based on column DISTRICT using expression grel:\"https://wikidata.org/wiki/\"+cell.recon.match.id"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "NEIGHBOURHOOD",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q10267336",
+        "name": "neighborhood of Madrid"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column NEIGHBOURHOOD to type Q10267336"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "NEIGHBOURHOOD: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "NEIGHBOURHOOD",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "none",
+                "l": "none"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "NEIGHBOURHOOD",
+    "similarValue": "COMILLA",
+    "judgment": "matched",
+    "match": {
+      "id": "Q955844",
+      "name": "Comillas",
+      "types": [
+        "Q10267336"
+      ],
+      "score": 93
+    },
+    "shareNewTopics": false,
+    "description": "Match item Comillas (Q955844) for cells containing \"COMILLA\" in column NEIGHBOURHOOD"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "NEIGHBOURHOOD: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "NEIGHBOURHOOD",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "none",
+                "l": "none"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "NEIGHBOURHOOD",
+    "similarValue": "CÁRMENES",
+    "judgment": "matched",
+    "match": {
+      "id": "Q10319792",
+      "name": "Los Cármenes",
+      "types": [
+        "Q10267336"
+      ],
+      "score": 80
+    },
+    "shareNewTopics": false,
+    "description": "Match item Los Cármenes (Q10319792) for cells containing \"CÁRMENES\" in column NEIGHBOURHOOD"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "NEIGHBOURHOOD",
+    "expression": "grel:\"https://wikidata.org/wiki/\"+cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "WIKIDATA_NEIGHBOURHOOD",
+    "columnInsertIndex": 6,
+    "description": "Create column WIKIDATA_NEIGHBOURHOOD at index 6 based on column NEIGHBOURHOOD using expression grel:\"https://wikidata.org/wiki/\"+cell.recon.match.id"
+  }
+]

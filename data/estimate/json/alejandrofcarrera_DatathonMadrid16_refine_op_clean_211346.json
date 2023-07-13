@@ -1,0 +1,43 @@
+[
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Nº to identificador",
+    "oldColumnName": "Nº",
+    "newColumnName": "identificador"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Fecha alta",
+    "columnName": "Fecha alta"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Nombre to titulo",
+    "oldColumnName": "Nombre",
+    "newColumnName": "titulo"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Dirección to direccion",
+    "oldColumnName": "Dirección",
+    "newColumnName": "direccion"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Coordenadas GPS Longitud to lng",
+    "oldColumnName": "Coordenadas GPS Longitud",
+    "newColumnName": "lng"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Latitud to lat",
+    "oldColumnName": "Latitud",
+    "newColumnName": "lat"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Alt.(m) to alt",
+    "oldColumnName": "Alt.(m)",
+    "newColumnName": "alt"
+  }
+]

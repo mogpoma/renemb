@@ -1,0 +1,384 @@
+[
+  {
+    "op": "core/column-addition",
+    "description": "Create column StreetName at index 9 based on column ProjectName using expression grel:replace(value,/(\\d*) (.*)/,\"$2\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "StreetName",
+    "columnInsertIndex": 9,
+    "baseColumnName": "ProjectName",
+    "expression": "grel:replace(value,/(\\d*) (.*)/,\"$2\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column ContractorNameClean at index 55 based on column ContractorCompanyName using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "ContractorNameClean",
+    "columnInsertIndex": 55,
+    "baseColumnName": "ContractorCompanyName",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column ContractorNameClean",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "ContractorNameClean",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AUSTIN HABITAT FOR HUMANITY",
+          "Austin Habitat For Humanity",
+          "Austin Habitat for Humanity"
+        ],
+        "to": "AUSTIN HABITAT FOR HUMANITY"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Calderoni Real Estate LLC",
+          "Calderoni Real Estate, LLC"
+        ],
+        "to": "Calderoni Real Estate LLC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DIG B LLC",
+          "Dig B LLC"
+        ],
+        "to": "DIG B LLC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Williams Austin Inc",
+          "Williams Austin, Inc."
+        ],
+        "to": "Williams Austin Inc"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Urban Nature, Inc",
+          "Urban Nature Inc"
+        ],
+        "to": "Urban Nature, Inc"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Philip Hogan Inc DBA Hogan Demolition Co.",
+          "PHILIP HOGAN, INC. DBA HOGAN DEMOLITION CO."
+        ],
+        "to": "Philip Hogan Inc DBA Hogan Demolition Co."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "EMCOG LLC",
+          "EMCOG, LLC"
+        ],
+        "to": "EMCOG LLC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "For The Win Ventures LLC",
+          "For The Win Ventures, LLC"
+        ],
+        "to": "For The Win Ventures LLC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jett Abram LLC",
+          "Jett Abram, LLC"
+        ],
+        "to": "Jett Abram LLC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Absolute Demolition, Inc",
+          "Absolute Demolition, Inc."
+        ],
+        "to": "Absolute Demolition Inc"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kat's Services",
+          "KAT'S SERVICES"
+        ],
+        "to": "Kat's Services"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column ContractorNameClean",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "ContractorNameClean",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "H & H Foradory Construction, Inc.",
+          "H&H Foradory Construction, Inc."
+        ],
+        "to": "H & H Foradory Construction, Inc."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cape Tex Construction Inc.",
+          "Cape-Tex Construction Inc"
+        ],
+        "to": "Cape Tex Construction Inc"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column ContractorNameClean",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "ContractorNameClean",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Absolute Demolition",
+          "Absolute Demolition Inc",
+          "Absoulte Demolition"
+        ],
+        "to": "Absolute Demolition"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Lone Star Land Solution",
+          "Lone Star Land Solutions, LLC"
+        ],
+        "to": "Lone Star Land Solution"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "RJ 3 Building Group, LLC",
+          "RJ3 Building Group"
+        ],
+        "to": "RJ3 Building Group"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Southwest Destructors****MAIN***",
+          "Southwest Destructors"
+        ],
+        "to": "Southwest Destructors****MAIN***"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DAR Construction",
+          "D.A.R Construction MAIN"
+        ],
+        "to": "DAR Construction"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tex Star Excavation",
+          "Tex Star Excavation, LLC"
+        ],
+        "to": "Tex Star Excavation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Square Business Investments",
+          "Square Business Investment"
+        ],
+        "to": "Square Business Investments"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Metro Studio Homes",
+          "Metro Studio Homes, LLC"
+        ],
+        "to": "Metro Studio Homes"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "HUNTER WHEELER HOMES INC",
+          "Hunter Wheeler Homes, LLC"
+        ],
+        "to": "Hunter Wheeler Homes, LLC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "New Line Construction, LLC",
+          "New Line Construction"
+        ],
+        "to": "New Line Construction"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "The Donavan Paul Co.",
+          "The Donovan Paul Co. TS Builders"
+        ],
+        "to": "The Donavan Paul Co."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Larry Anderson Construction",
+          "Larry Anderson Construction, Inc"
+        ],
+        "to": "Larry Anderson Construction"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LOC Consultants-Construction Div Lp",
+          "LOC Consultants LLP"
+        ],
+        "to": "LOC Consultants LLP"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SOUTHWEST CONSTRUCTOR",
+          "Southwest Constructors, Inc."
+        ],
+        "to": "SOUTHWEST CONSTRUCTOR"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Premier Partners Homes, LLC",
+          "Premier Partner Custom Homes & Remodeling LLC"
+        ],
+        "to": "Premier Partners Homes, LLC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Radec Management, Inc.",
+          "Radec Management"
+        ],
+        "to": "Radec Management"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Journeyman Construction",
+          "Journeyman Construction, Inc"
+        ],
+        "to": "Journeyman Construction"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dalgleish Construction Company",
+          "Dalgleish Construction"
+        ],
+        "to": "Dalgleish Construction"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NWS Construction LLC",
+          "NWS Construction"
+        ],
+        "to": "NWS Construction"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "A Vision General Contractors LLC",
+          "A VISION GENERAL CONTRACTORS,  LLC OPERATIONS"
+        ],
+        "to": "A Vision General Contractors LLC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column ContractorNameClean",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "ContractorNameClean",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kat's Services",
+          "Kat's Service"
+        ],
+        "to": "Kat's Services"
+      }
+    ]
+  }
+]

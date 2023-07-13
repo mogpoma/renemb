@@ -1,0 +1,46 @@
+STATE,Post Office Abbreviation,2-DIGIT ANSI,2007.0 Number of mines,Total reserves  (Million short tons),Method of mining Underground,Surface
+Alabama,AL,01,49.0,4141.0,963.0,3178.0
+Alaska,AK,02,1.0,6107.0,5423.0,684.0
+Arizona,AR,04,1.0,0.0,0.0,0.0
+Arkansas,AZ,05,2.0,417.0,272.0,144.0
+California,CA,06,(NA),(NA),(NA),(NA)
+Colorado,CO,08,12.0,16092.0,11331.0,4761.0
+Georgia,GA,13,(NA),4.0,2.0,2.0
+Idaho,ID,16,(NA),4.0,4.0,0.0
+Illinois,IL,17,21.0,104347.0,87811.0,16536.0
+Indiana,IN,18,27.0,9379.0,8699.0,681.0
+Iowa,IA,19,(NA),2189.0,1732.0,457.0
+Kansas,KS,20,2.0,971.0,(NA),971.0
+Kentucky,KY,21,417.0,29618.0,16770.0,12848.0
+"Kentucky, Eastern",,,394.0,10219.0,990.0,9229.0
+"Kentucky, Western",,,23.0,19399.0,15780.0,3619.0
+Louisiana,LA,22,2.0,412.0,0.0,412.0
+Maryland,MD,24,19.0,631.0,571.0,60.0
+Michigan,MI,26,(NA),128.0,123.0,5.0
+Mississippi,MS,,1.0,0.0,0.0,0.0
+Missouri,MO,29,2.0,5988.0,1479.0,4509.0
+Montana,MT,30,6.0,119123.0,70957.0,48166.0
+New Mexico,NM,35,4.0,12057.0,6128.0,5929.0
+North Carolina,NC,37,(NA),11.0,11.0,0.0
+North Dakota,ND,38,4.0,8978.0,(NA),8978.0
+Ohio,OH,39,57.0,23220.0,17484.0,5736.0
+Oklahoma,OK,40,9.0,1549.0,1229.0,320.0
+Oregon,OR,41,(NA),17.0,15.0,3.0
+Pennsylvania,PA,42,264.0,27228.0,23006.0,4222.0
+Anthracite,,,72.0,7195.0,3843.0,3352.0
+Bituminous,,,192.0,20034.0,19164.0,870.0
+South Dakota,SD,46,(NA),366.0,0.0,366.0
+Tennessee,TN,47,17.0,766.0,506.0,260.0
+Texas,TX,48,11.0,12276.0,(NA),12276.0
+Utah,UT,49,10.0,5295.0,5028.0,268.0
+Virginia,VA,51,118.0,1598.0,1062.0,536.0
+Washington,WA,53,(NA),1340.0,1332.0,8.0
+West Virginia,WV,54,282.0,32450.0,28845.0,3605.0
+"West Viginia, Northern",,,43.0,(NA),(NA),(NA)
+"West Viginia, Southern",,,239.0,(NA),(NA),(NA)
+Wyoming,WY,56,20.0,62692.0,42493.0,20198.0
+Appalachian,,,1200.0,(NA),(NA),(NA)
+Interior,,,100.0,(NA),(NA),(NA)
+Western,,,58.0,(NA),(NA),(NA)
+East of the MS River,,,1272.0,(NA),(NA),(NA)
+West of the MS River,,,86.0,(NA),(NA),(NA)
