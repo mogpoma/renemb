@@ -13,8 +13,8 @@ from lightning.pytorch.callbacks.early_stopping import EarlyStopping
 
 sys.path.append(os.path.abspath("."))
 from embedder.pattern_tokenizer import PatternTokenizer
-from embedder.magritte_pretrain_bert.model import MagrittePretrainingRowPair
-from embedder.magritte_pretrain_rowpair.data_module import RowPairDataModule
+from embedder.renemb_pretrain_bert.model import RenembPretrainingRowPair
+from embedder.renemb_pretrain_rowpair.data_module import RowPairDataModule
 from embedder.callbacks import PretrainLoaderCallback
 
 #read the pretrain step from the command line
@@ -43,7 +43,7 @@ ordered_tokens = {t: len(tokens) - i for i, t in enumerate(tokens)}
 token_vocab = build_vocab(ordered_tokens)
 token_vocab.set_default_index(token_vocab["[UNK]"])
 
-model = MagrittePretrainingRowPair(vocab=token_vocab, **config["model"])
+model = RenembPretrainingRowPair(vocab=token_vocab, **config["model"])
 
 dm = RowPairDataModule(
     token_vocab=token_vocab,

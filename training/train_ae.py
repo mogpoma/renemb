@@ -6,8 +6,8 @@ import sys
 sys.path.append(".")
 sys.path.append("..")
 from embedder.pattern_tokenizer import PatternTokenizer
-from embedder.magritte_pretrain_vae.model import MagrittePretrainingVAE
-from embedder.magritte_pretrain_vae.data_module import CsvFileDataModule
+from embedder.renemb_pretrain_ae.model import RenembPretrainingVAE
+from embedder.renemb_pretrain_ae.data_module import CsvFileDataModule
 from lightning.pytorch.callbacks import RichProgressBar, ModelCheckpoint
 from lightning.pytorch.callbacks.early_stopping import EarlyStopping
 
@@ -32,7 +32,7 @@ for encoding_dim in [32, 64, 128, 256, 512]:
     token_vocab = build_vocab(ordered_tokens)
     token_vocab.set_default_index(token_vocab["[UNK]"])
 
-    model = MagrittePretrainingVAE(token_vocab=token_vocab, **config["model"])
+    model = RenembPretrainingVAE(token_vocab=token_vocab, **config["model"])
 
     dm = CsvFileDataModule(
         token_vocab=token_vocab,

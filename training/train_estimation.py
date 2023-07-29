@@ -13,8 +13,8 @@ from lightning.pytorch.callbacks.progress.rich_progress import RichProgressBarTh
 
 sys.path.append(os.path.abspath("."))
 from embedder.pattern_tokenizer import PatternTokenizer
-from embedder.magritte_finetune_estimate.model import MagritteFinetuneEstimation
-from embedder.magritte_finetune_estimate.data_module import EstimationDataModule
+from embedder.renemb_finetune_estimate.model import RenembFinetuneEstimation
+from embedder.renemb_finetune_estimate.data_module import EstimationDataModule
 from embedder.callbacks import PretrainLoaderCallback, TBLogger
 
 from lightning.pytorch.loggers import WandbLogger, TensorBoardLogger
@@ -42,7 +42,7 @@ for max_len, encoding_dim in pre_params:
     token_vocab = build_vocab(ordered_tokens)
     token_vocab.set_default_index(token_vocab["[UNK]"])
 
-    model = MagritteFinetuneEstimation(token_vocab=token_vocab, **config["model"])
+    model = RenembFinetuneEstimation(token_vocab=token_vocab, **config["model"])
 
     dm = EstimationDataModule(
         token_vocab=token_vocab, tokenizer=PatternTokenizer(), **config["data_module"]

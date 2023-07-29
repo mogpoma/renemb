@@ -17,24 +17,15 @@ from torchtext.vocab import Vocab
 from torch import optim
 import lightning.pytorch as pl
 
+from embedder.renemb_base.model import RenembBase
+
 logger = logging.getLogger(__name__)
 
 
-class RenembFinetuneRowClassification(pl.LightningModule):
+class RenembFinetuneRowClassification(RenembBase):
     def __init__(
         self,
-        token_vocab: Vocab,
         label_vocab: Vocab,
-        max_rows: int,
-        max_len: int,
-        n_layers: int,
-        n_heads: int,
-        d_model: int,
-        d_k: int,
-        d_v: int,
-        d_ff: int,
-        n_segments: int,
-        encoding_dim: int,
         n_classes: int,
         save_path: str = "",
         classes_weights: list = [1, 1, 1, 1, 1, 1],
@@ -43,47 +34,13 @@ class RenembFinetuneRowClassification(pl.LightningModule):
         *args,
         **kwargs
     ):
-        super(RenembFinetuneRowClassification, self).__init__()
-        self.max_rows = max_rows
-        self.vocab = token_vocab
-        self.vocab_size = len(token_vocab)
-        self.max_len = max_len
-        self.padding_index = token_vocab(["[PAD]"])[0]
-        self.token_embedding = nn.Embedding(self.vocab_size, d_model)
-        self.position_embedding = nn.Embedding(max_len, d_model)
-        self.segment_embedding = nn.Embedding(n_segments, d_model)
-        self.norm = nn.LayerNorm(d_model)
-        self.encoding_layers = nn.TransformerEncoder(
-            nn.TransformerEncoderLayer(
-                d_model, n_heads, d_ff, activation="gelu", batch_first=True
-            ),
-            n_layers,
-        )
-
+        super(RenembFinetuneRowClassification, self).__init__(*args, **kwargs)
         self.label_vocab = label_vocab
 
         # Input: batch_size x channels_img x n_rows x max_tokens
         # Input: B_s x Dx64x64, output: 4x32x32
-        self.encoder = nn.Sequential(
-            nn.Conv2d(
-                in_channels=d_model, out_channels=8, kernel_size=4, stride=2, padding=1
-            ),
-            nn.LeakyReLU(0.01),
-            nn.Conv2d(8, 16, 4, 2, 1),  # 16x8x8,
-            nn.BatchNorm2d(16),
-            nn.LeakyReLU(0.01),
-            nn.Conv2d(16, 32, 4, 2, 1),  # 32x4x4,
-            nn.BatchNorm2d(32),
-            nn.LeakyReLU(0.01),
-            nn.Flatten(),
-        )
-        self.hidden_dim = int((max_len / (2**3)) * (max_rows / (2**3)) * 32)
-
-        self.encoder_mean = nn.Linear(self.hidden_dim, encoding_dim)
-        self.encoder_logvar = nn.Linear(self.hidden_dim, encoding_dim)
-
-        self.token_linear = nn.Linear(d_model, 1) #Alternative 2
-        self.row_file_linear = nn.Linear(encoding_dim+self.max_len, n_classes)
+        self.token_linear = nn.Linear(self.d_model, 1)
+        self.row_file_linear = nn.Linear(self.encoding_dim+self.max_len, n_classes)
 
         (
             self.data_index,
@@ -119,9 +76,7 @@ class RenembFinetuneRowClassification(pl.LightningModule):
             num_classes=n_classes, average=None, ignore_index=ignore_index)
 
         self.n_classes = n_classes
-        self.n_heads = n_heads
         self.save_path = save_path
-        self.d_model = d_model
         self.optimizer_lr = optimizer_lr
 
     def forward(

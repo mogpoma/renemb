@@ -12,8 +12,8 @@ from lightning.pytorch.callbacks.early_stopping import EarlyStopping
 
 sys.path.append(os.path.abspath("."))
 from embedder.pattern_tokenizer import PatternTokenizer
-from embedder.magritte_finetune_rowclass.model import MagritteFinetuneRowClassification
-from embedder.magritte_finetune_rowclass.data_module import RowClassDataModule
+from embedder.renemb_finetune_rowclass.model import RenembFinetuneRowClassification
+from embedder.renemb_finetune_rowclass.data_module import RowClassDataModule
 from lightning.pytorch.callbacks import RichProgressBar, ModelCheckpoint
 from embedder.callbacks import CustomTQDMProgressBar, PretrainLoaderCallback, OverrideEpochStepCallback
 
@@ -42,7 +42,7 @@ for validation_dataset in train_datasets + ["troy","mendeley"]:
     line_classes = open(config["vocabulary"]["directory"] + "/lineclass_labels.txt").read().splitlines()
     label_vocab = vocab({lineclass: 1 for lineclass in line_classes})
 
-    model = MagritteFinetuneRowClassification(token_vocab=token_vocab,
+    model = RenembFinetuneRowClassification(token_vocab=token_vocab,
                                             label_vocab=label_vocab,
                                             **config["model"])
 

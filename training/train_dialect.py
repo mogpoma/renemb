@@ -13,8 +13,8 @@ from lightning.pytorch.callbacks.progress.rich_progress import RichProgressBarTh
 
 sys.path.append(os.path.abspath("."))
 from embedder.pattern_tokenizer import PatternTokenizer
-from embedder.magritte_finetune_dialect.model import MagritteFinetuneDialectDetection
-from embedder.magritte_finetune_dialect.data_module import DialectDataModule
+from embedder.renemb_finetune_dialect.model import RenembFinetuneDialectDetection
+from embedder.renemb_finetune_dialect.data_module import DialectDataModule
 from embedder.callbacks import PretrainLoaderCallback, TBLogger
 
 from lightning.pytorch.loggers import WandbLogger, TensorBoardLogger
@@ -48,7 +48,7 @@ for i in [1]:
         ordered_classes = {c:len(dialect_classes)-i for i,c in enumerate(dialect_classes)}
         label_vocab = build_vocab(ordered_classes)
 
-        model = MagritteFinetuneDialectDetection(token_vocab=token_vocab,
+        model = RenembFinetuneDialectDetection(token_vocab=token_vocab,
                                                 label_vocab=label_vocab,
                                                 **config["model"])
 
