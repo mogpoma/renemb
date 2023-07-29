@@ -198,7 +198,7 @@ def editDistance(str1, str2):
     m = len(str1)
     n = len(str2)
     
-    # Gerardo add: if length of the string is too long, 
+    # Our add: if length of the string is too long, 
     # return more than sqrt(len(str2))
     if abs(m-n) > (n)**0.5:
         return (n**0.5)+1
