@@ -1,4 +1,6 @@
 ### RenEMB
+weights/*.pth
+weights/rowclass/*.pth
 
 ### JupyterNotebooks template
 .ipynb_checkpoints
