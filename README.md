@@ -10,10 +10,9 @@ To simplify download and extraction, we provide a script to automatically downlo
 Run the ``download_data.sh`` script in the root repository folder to download and extract the data (requires a *nix system with ``megatools`` installed)
 
 The datasets are organized as follows:
-- `/gittables`: contains the data from the gittables dataset, organized for the pretraining task. To download and extract the dataset, run `download.sh` in the folder0.
+- `/gittables`: contains the data from the gittables dataset, organized for the pretraining task. To download and extract the dataset, run `download.sh` in the folder.
 - `dialect_detection`: contains the data for the finetuning task for dialect detection. To extract the files automatically, run `extract.sh` in the folder.
 - `row_classification`: contains the data for the finetuning task for row classification. Every dataset is contained in a separate ``tar.gz`` file, and their annotations are contained in the jsonl files `train_dev_annotations.jsonl` and `test_annotations.jsonl`.
-- `estimate`: contains the data for the finetuning task for estimate.
 - `columntype`: contains the data for the finetuning task for column type detection classification. There are three versions of the dataset, one for each scenario: (1) the `unprepared` folder contains raw files, (2) the `autoclean` folder contains the files after automated cleaning with RenEMB, and (3) the `clean` folder contains the ground truth cleaned files. The annotations for the column types of each dataset are contained in `csv` files in each folder.
  
 ## Model Weights
