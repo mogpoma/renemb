@@ -1,6 +1,9 @@
 ### RenEMB
 weights/*.pth
 weights/rowclass/*.pth
+experiments/columntype/data_unprepared
+experiments/columntype/data_clean
+experiments/columntype/data_autoclean
 
 ### JupyterNotebooks template
 .ipynb_checkpoints

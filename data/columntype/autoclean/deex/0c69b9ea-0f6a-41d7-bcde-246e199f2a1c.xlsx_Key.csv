@@ -1,4 +1,0 @@
-Excel Worksheet Tab,Description
-All Predictions,genomic coordinates and score of all FC enhancer predictions
-Tested predictions,"genomic coordinates, CRM rank and expression pattern of tested FC enhancer predictions"
-ISH,"Rank of predicted CRM for each gene tested for expression in FCs, includes gene name and expression pattern"

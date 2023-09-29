@@ -1,6 +1,0 @@
-Month,Resp. Code,Type,Description,Description,Outstanding 2000 ADJ*,2001-07-31 00:00:00,2001-08-31 00:00:00,2001-09-30 00:00:00,2001-10-31 00:00:00,2001-11-30 00:00:00,2001-12-31 00:00:00,,Total,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2001-08-01 00:00:00,FO,,,MTM not booked,,,,0,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2001-08-01 00:00:00,RM,,,Unknown liquidation variance; no support from Risk,,,-40960,,,,,,-40960,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2001-09-01 00:00:00,RM,,,Squeeze between Beginning balances and Ending Balances did not tie to month to date income.   There was a problem in the file.   Sent e-mail and voice mail to Errol to correct.  DPR to take adjustment as expense was never recognized.,,,,795090,,,,,795090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2001-09-01 00:00:00,RM,,,Variance between Zipper and East Power  - no support from Risk,,,,-330959,,,,,-330959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2001-09-01 00:00:00,RM,,,Liquidations beginning balance for Sept changed from ending balance in Aug file.,,,,647,,,,,647,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
